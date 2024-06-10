@@ -1,0 +1,17 @@
+<center> <h1> Reçu de Paiement </h1> </center>
+
+<p> Banque Centrale Populaire </p>
+<p> Agence XYZ </p>
+
+<p> <strong> Nom du Bénéficiaire: </strong> Jean Dupont </p>
+<p> <strong> Montant: </strong> 5000 MAD </p>
+<p> <strong> Date: </strong> 10 Août 2021 </p>
+<p> <strong> Référence de Transaction: </strong> ABC123456 </p>
+
+<p> Nous déclarons par la présente que le montant mentionné ci-dessus a été reçu de la part de Jean Dupont en date du 10 Août 2021 à l'agence XYZ de la Banque Centrale Populaire. La présente transaction porte la référence ABC123456.
+
+Veuillez conserver ce reçu de paiement pour toute référence future.
+
+Fait à Casablanca, le 10 Août 2021 </p> 
+
+<p> <strong> Signature: </strong> </p>

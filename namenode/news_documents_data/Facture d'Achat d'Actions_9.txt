@@ -1,0 +1,20 @@
+**Banque Centrale Populaire - Facture d'Achat d'Actions**  
+Date: 01/11/2021
+
+**Nom de l'Acheteur:** Jean Dupont  
+**Actions:** 100 actions  
+**Prix Par Action:** 150 MAD  
+**Total:** 15,000 MAD  
+**Date d'Achat:** 01/11/2021
+
+Cher Monsieur Dupont,
+
+Nous avons l'honneur de vous confirmer l'achat de 100 actions de notre banque, Banque Centrale Populaire, pour un montant total de 15,000 MAD à la date du 01/11/2021.
+
+Vous trouverez ci-joint la facture détaillée correspondant à votre achat d'actions. Nous vous remercions pour la confiance que vous nous accordez en investissant dans notre institution financière.
+
+N'hésitez pas à nous contacter pour toute information supplémentaire ou pour assistance.
+
+Nous vous prions d'agréer, Monsieur Dupont, l'expression de nos salutations distinguées.
+
+Banque Centrale Populaire

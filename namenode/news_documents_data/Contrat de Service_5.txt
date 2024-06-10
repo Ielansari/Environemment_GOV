@@ -1,0 +1,25 @@
+Contrat de Service
+
+Entre la Banque Centrale Populaire, située au 102 Boulevard Anfa, Casablanca, Maroc, agissant en tant que le Client, représentée par M. Ahmed Lahlou, Directeur Général, et [Nom du Fournisseur], situé au [Adresse du Fournisseur], agissant en tant que le Fournisseur, représenté par Mme Leila El Kadiri, Directrice des Services.
+
+Les deux parties conviennent des termes et conditions suivants pour les services fournis :
+
+1. Nom du Fournisseur : La Société de Consultance en Technologies Financières (SCTF)
+2. Services fournis : La fourniture de services de consultation et de mise en œuvre de solutions technologiques pour l'amélioration des processus bancaires.
+3. Prix : Le prix total des services fournis est fixé à 100 000 MAD (Cent mille dirhams marocains), tout compris.
+4. Date : Le présent contrat entre en vigueur à partir du 1er janvier 2023.
+5. Durée : La durée du contrat est de 12 mois, à compter de la date de début.
+
+En signant ce contrat, les deux parties reconnaissent et acceptent les obligations et les responsabilités qui en découlent. Tout litige découlant de ce contrat sera soumis à la juridiction exclusive des tribunaux de Casablanca, Maroc.
+
+Fait en double exemplaire, à Casablanca, le 15 décembre 2022.
+
+Pour la Banque Centrale Populaire :  
+Signature :  
+Nom : M. Ahmed Lahlou  
+Date :
+
+Pour la Société de Consultance en Technologies Financières :  
+Signature :  
+Nom : Mme Leila El Kadiri  
+Date :

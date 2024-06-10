@@ -1,0 +1,23 @@
+Facture de Services
+
+---
+
+Banque Centrale Populaire - Agence Rabat
+
+Date: 15 juillet 2023
+
+---
+
+Nom du Fournisseur: PrestiNet
+
+Services: Services de maintenance informatique
+
+Montant: 10 000 MAD
+
+Date: 15 juillet 2023
+
+---
+
+Fait à Rabat, le 15 juillet 2023
+
+Signature: [Signature du Responsable de l'Agence]

@@ -1,0 +1,25 @@
+**Banque Centrale Populaire - Confirmation de Transfert de Compte**
+
+Date: [Insérer la date]
+
+Chère/Cher [Nom du Titulaire],
+
+Nous vous envoyons cette confirmation suite à la demande de transfert de compte que vous avez effectuée recemment auprès de Banque Centrale Populaire.
+
+Voici les détails du transfert de compte :
+
+- **Nom du Titulaire**: [Prénom Nom]
+- **Compte Source**: XXXX-XXXX-XXXX-XXXX (Numéro de compte source)
+- **Compte Destination**: XXXX-XXXX-XXXX-XXXX (Numéro de compte destination)
+
+Nous confirmons par la présente que le transfert de compte a été traité avec succès. Veuillez noter que les fonds ont été transférés de manière sécurisée vers le nouveau compte désigné.
+
+Si vous avez des questions ou besoin de plus d'informations concernant ce transfert de compte, n'hésitez pas à contacter notre service clientèle. Nous nous tenons à votre disposition pour toute assistance supplémentaire.
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire pour la gestion de vos comptes financiers. Nous nous engageons à fournir des services de qualité et à répondre à vos besoins bancaires de manière efficace.
+
+Cordialement,
+
+[Signature]
+
+Banque Centrale Populaire

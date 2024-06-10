@@ -1,0 +1,23 @@
+Contrat de Découvert Bancaire
+
+Entre la Banque Centrale Populaire, représentée par son agence principale à Rabat, Maroc, et M. Ahmed Benbrahim, domicilié au 123 Rue des Oliviers, Casablanca, il a été convenu et arrêté ce qui suit :
+
+Article 1 : Nom du Titulaire
+Le titulaire du présent contrat est M. Ahmed Benbrahim, titulaire du compte n°1234567890 auprès de la Banque Centrale Populaire.
+
+Article 2 : Montant du Découvert
+La Banque Centrale Populaire accorde à M. Ahmed Benbrahim un découvert autorisé d'un montant maximal de 20 000 Dirhams. Ce découvert pourra être utilisé par le titulaire dans la limite fixée par la banque.
+
+Article 3 : Taux d'Intérêt
+Le taux d'intérêt appliqué au découvert autorisé est de 7% par an. Ce taux pourra être révisé conformément aux conditions générales de la banque.
+
+Article 4 : Limite de Temps
+Le découvert autorisé est consenti pour une durée de 3 mois à compter de la date de signature du présent contrat. Passé ce délai, le découvert devra être régularisé par le titulaire.
+
+Fait en double exemplaire à Rabat, le [date du contrat]
+
+Signatures :
+Pour la Banque Centrale Populaire,
+[Signature de l'agent bancaire]
+Pour M. Ahmed Benbrahim,
+[Signature du titulaire]

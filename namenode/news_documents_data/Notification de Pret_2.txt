@@ -1,0 +1,27 @@
+Notification de Prêt
+
+Banque Centrale Populaire
+Rabat, Maroc
+
+À l'attention de : [Nom du Titulaire]
+[N° de téléphone]
+[Adresse e-mail]
+
+Objet : Notification de Prêt
+
+Madame/Monsieur [Nom du Titulaire],
+
+Nous avons le plaisir de vous informer que votre demande de prêt a été approuvée par Banque Centrale Populaire. Vous trouverez ci-dessous les détails de votre prêt :
+
+- Nom du Titulaire : [Nom du Titulaire]
+- Montant du Prêt : [Montant du Prêt] MAD
+- Taux d'Intérêt : [Taux d'Intérêt]%
+- Plan de Remboursement : [Plan de Remboursement]
+
+Nous vous prions de bien vouloir prendre connaissance de ces informations et de nous contacter pour convenir d'un rendez-vous afin de finaliser les modalités du prêt.
+
+Veuillez agréer, Madame/Monsieur [Nom du Titulaire], l'expression de nos salutations distinguées.
+
+Cordialement,
+
+Banque Centrale Populaire

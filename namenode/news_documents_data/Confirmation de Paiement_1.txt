@@ -1,0 +1,25 @@
+Confirmation de Paiement
+
+Date: 15 septembre 2023
+
+Chère Cliente,
+
+Nous vous confirmons par la présente la réalisation du paiement selon les détails suivants :
+
+- Nom du Titulaire: Madame Amina Benjelloun
+- Montant: 5000 MAD
+- Date: 14 septembre 2023
+- Mode de Paiement: Virement bancaire
+- Référence de Transaction: 987654321ABC
+
+Ce paiement a été effectué avec succès le 14 septembre 2023 par virement bancaire d'un montant de 5000 MAD. La référence de transaction associée à cette opération est 987654321ABC. Vous pouvez utiliser cette référence pour toute demande ultérieure concernant ce paiement.
+
+N'hésitez pas à contacter notre service clientèle si vous avez des questions ou des préoccupations concernant cette transaction.
+
+Nous vous remercions pour votre confiance en Banque Centrale Populaire.
+
+Cordialement,
+
+[Signature]
+
+Banque Centrale Populaire

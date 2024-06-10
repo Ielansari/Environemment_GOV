@@ -1,0 +1,21 @@
+Confirmation de Changement d'Adresse
+
+Date: [DATE]
+
+Cher(e) [Nom du Titulaire],
+
+Nous vous confirmons par la présente que le changement d'adresse pour votre compte bancaire à la Banque Centrale Populaire a bien été enregistré. Veuillez trouver ci-dessous les détails de votre changement d'adresse :
+
+- Nom du Titulaire: [Prénom Nom]
+- Ancienne Adresse: [Ancienne Adresse, Ville, Code Postal]
+- Nouvelle Adresse: [Nouvelle Adresse, Ville, Code Postal]
+
+Si les informations ci-dessus sont inexactes, veuillez contacter immédiatement notre service clientèle au [Numéro de Téléphone] ou vous rendre dans votre agence bancaire la plus proche.
+
+Nous vous remercions de votre coopération et restons à votre entière disposition pour toute question supplémentaire.
+
+Cordialement,
+
+Banque Centrale Populaire
+[Adresse de l'Agence]
+[Téléphone de l'Agence]

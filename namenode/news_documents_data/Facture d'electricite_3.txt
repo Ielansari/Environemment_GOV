@@ -1,0 +1,22 @@
+```
+Facture d'Électricité
+
+Nom du Titulaire: Mehdi Zidane
+Adresse: 15 Rue Hassan II, Quartier des Fleurs, Casablanca, Maroc
+Numéro de Compte: 123456789
+Date de Facturation: 15 avril 2022
+
+Détails de la Consommation:
+- Consommation en kWh: 200
+- Tarif par kWh: 1.50 MAD
+- Montant Hors Taxe: 300.00 MAD
+- TVA (20%): 60.00 MAD
+
+Total à Payer: 360.00 MAD
+
+Veuillez régler cette facture avant la date d'échéance pour éviter toute interruption de service. Pour tout renseignement complémentaire ou en cas de contestation, veuillez contacter notre service clientèle au 0801-XXXXXX.
+
+Merci de votre confiance.
+
+Banque Centrale Populaire - Service Facturation
+```

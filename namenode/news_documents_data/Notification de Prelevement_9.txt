@@ -1,0 +1,22 @@
+Notification de Prélèvement
+
+Banque Centrale Populaire - Morocco
+
+Cher(e) Client(e),
+
+Nous vous informons par la présente notification de prélèvement que les détails de votre prochain prélèvement sont les suivants :
+
+Nom du Titulaire : M. Ahmed Benali
+Montant : 500 MAD
+Date : 15 novembre 2021
+Numéro de Compte : XXXX XXXX XXXX 1234
+
+Le prélèvement sera effectué automatiquement le 15 novembre 2021 sur votre compte bancaire numéro XXXX XXXX XXXX 1234. Veuillez-vous assurer que le montant correspondant est disponible sur votre compte à cette date pour éviter tout rejet de paiement.
+
+Pour toute question ou information supplémentaire, n'hésitez pas à contacter notre service clientèle au 080 100 1234.
+
+Nous vous remercions pour votre confiance en Banque Centrale Populaire.
+
+Cordialement,
+
+Banque Centrale Populaire

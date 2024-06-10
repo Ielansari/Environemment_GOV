@@ -1,0 +1,34 @@
+Facture de Vente d'Obligations
+
+Banque Centrale Populaire - Succursale de Casablanca
+
+Nom du Vendeur: Jean Dupont
+Adresse du Vendeur: 15 Rue Mohammed V, Casablanca
+Numéro de Téléphone du Vendeur: +212 6 12 34 56 78
+Numéro Client du Vendeur: BCP123456789
+
+A l'attention de notre aimable clientèle,
+
+Nous vous remercions d'avoir choisi Banque Centrale Populaire pour vos investissements en obligations. Veuillez trouver ci-dessous les détails de votre achat:
+
+Obligations: Obligations d'État Marocaines
+Quantité: 1000 obligations
+Prix Unitaire: 1000 MAD
+Montant Total: 1 000 000 MAD
+
+Date de la Transaction: 15 mai 2023
+
+Acheteur: Fatima Zahra El Amrani
+Adresse de l'Acheteur: Résidence Al Manar, Avenue Hassan II, Rabat
+Numéro de Téléphone de l'Acheteur: +212 6 98 76 54 32
+Numéro Client de l'Acheteur: BCP987654321
+
+Le montant total de 1 000 000 MAD a été débité du compte de l'Acheteur et crédité sur le compte de notre institution.
+
+Pour toute question ou assistance supplémentaire, n'hésitez pas à contacter notre service clientèle au +212 5 22 33 44 55.
+
+Nous vous remercions de votre confiance et vous souhaitons une bonne journée.
+
+Cordialement,
+
+Banque Centrale Populaire - Succursale de Casablanca

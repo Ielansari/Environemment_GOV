@@ -1,0 +1,35 @@
+**Facture de Services**
+
+---
+
+Numéro de Facture: 2022-BCP-1234
+
+Date: 15 janvier 2022
+
+---
+
+| Nom du Fournisseur | Services                    | Montant   | Date       |
+|---------------------|-----------------------------|-----------|------------|
+| BCP Assurances      | Assurance des biens         | 5000 MAD  | 10/01/2022 |
+| BCP Informatique    | Maintenance informatique    | 2000 MAD  | 12/01/2022 |
+| BCP Sécurité        | Services de sécurité        | 3000 MAD  | 14/01/2022 |
+| BCP Conseil         | Consultance financière      | 4000 MAD  | 16/01/2022 |
+
+---
+
+Total Montant à Payer: 14000 MAD
+
+---
+
+Merci de régler la facture dans un délai de trente (30) jours à compter de la date d'émission de la facture.
+
+En cas de question ou de réclamation, n'hésitez pas à contacter le service des achats de Banque Centrale Populaire.
+
+---
+
+Cordialement,
+
+Service des Achats
+Banque Centrale Populaire
+
+---

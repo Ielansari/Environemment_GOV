@@ -1,0 +1,34 @@
+**Demande de Carte d'Identité Bancaire**
+
+Madame/Monsieur,
+
+Je soussigné(e) [Nom du Titulaire], titulaire du compte bancaire numéro [Numéro de Compte] auprès de la Banque Centrale Populaire, souhaite par la présente demande obtenir ma Carte d'Identité Bancaire.
+
+Je vous prie de bien vouloir prendre en considération les informations suivantes :
+
+**Informations du Titulaire :**
+- **Nom et Prénom :** [Nom complet du Titulaire]
+- **Numéro de Compte :** [Numéro de Compte]
+- **Adresse :** [Adresse complète du Titulaire]
+
+Je m'engage à respecter les termes et conditions liés à l'utilisation de ma Carte d'Identité Bancaire, ainsi qu'à informer immédiatement la Banque Centrale Populaire en cas de perte, de vol ou de toute utilisation frauduleuse de ladite carte.
+
+Je vous prie d'agréer, Madame/Monsieur, l'expression de mes salutations distinguées.
+
+Fait à [Ville], le [Date]
+
+Signature du Titulaire : _____________________
+
+---
+
+**Pour l'usage interne de la Banque :**
+
+Carte d'Identité Bancaire émise le [Date d'Émission]
+Valable jusqu'au : [Date d'Expiration]
+Nom du Titulaire : [Nom du Titulaire]
+Numéro de Compte : [Numéro de Compte]
+Adresse : [Adresse du Titulaire]
+
+---
+
+Ceci est un modèle de demande de Carte d'Identité Bancaire à utiliser pour toute demande émise par les clients de la Banque Centrale Populaire au Maroc.

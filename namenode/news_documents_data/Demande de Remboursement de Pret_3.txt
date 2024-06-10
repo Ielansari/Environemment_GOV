@@ -1,0 +1,32 @@
+**Banque Centrale Populaire – Demande de Remboursement de Prêt**
+
+**Informations du Titulaire :**  
+Nom du Titulaire: Sarah Ben Amar  
+Numéro de Compte: 123456789  
+Adresse: 25 Rue Mohammed V, Casablanca  
+Téléphone: 06 12 34 56 78  
+E-mail: sarah.benamar@example.com  
+
+**Montant Remboursé :**  
+Montant Emprunté: 50 000 MAD  
+Montant Restant dû: 25 000 MAD  
+Montant à Rembourser: 25 000 MAD  
+
+**Date :**  
+Date de la Demande: 15 mai 2023  
+Date Limite de Remboursement: 30 juin 2023  
+
+**Motif du Remboursement :**  
+Le titulaire, Sarah Ben Amar, souhaite rembourser par anticipation une partie du prêt contracté auprès de la Banque Centrale Populaire. Le montant à rembourser s'élève à 25 000 MAD. Cette initiative s'inscrit dans une démarche de gestion proactive de ses finances personnelles.
+
+**Procédure de Remboursement :**  
+Le remboursement peut s'effectuer en agence ou par virement bancaire. Pour toute question relative à cette demande de remboursement, nous vous prions de contacter notre service clientèle au 0801 00 12 34.
+
+**Signature du Titulaire :**  
+(Signature électronique pour une demande en ligne)
+
+Cette demande de remboursement de prêt est soumise à l'approbation de la Banque Centrale Populaire. Un conseiller se chargera de traiter votre demande dans les meilleurs délais.
+
+Fait à Casablanca, le 15 mai 2023
+
+Signature : Banque Centrale Populaire

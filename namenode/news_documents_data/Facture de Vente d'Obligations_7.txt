@@ -1,0 +1,33 @@
+Facture de Vente d'Obligations
+
+Nom du Vendeur: Jean Dupont
+Adresse: 123 Rue Hassan II, Casablanca
+Téléphone: 06 12 34 56 78
+E-mail: jean.dupont@email.com
+
+Acheteur: Fatima Zohra
+Adresse: 456 Boulevard Mohammed V, Rabat
+Téléphone: 06 98 76 54 32
+E-mail: fatima.zohra@email.com
+
+Date: 15 Septembre 2022
+
+Désignation des Obligations:
+- Obligations d'État du Royaume du Maroc série A2022
+- Quantité: 100
+- Prix unitaire: 500 MAD
+- Montant total: 50 000 MAD
+
+Conditions de Paiement: Paiement intégral à réception de la facture.
+
+Mode de Livraison: Remise en mains propres à l'agence de la Banque Centrale Populaire de Rabat.
+
+Détails Bancaires pour le Paiement:
+- Banque: Banque Centrale Populaire
+- Agence: Rabat Centre
+- IBAN: MA12 001 23456789 1011121314
+
+Merci pour votre confiance et votre intérêt pour nos obligations. En cas de questions, n'hésitez pas à contacter notre service client au 05 22 33 44 55.
+
+Cordialement,
+Jean Dupont, Vendeur.

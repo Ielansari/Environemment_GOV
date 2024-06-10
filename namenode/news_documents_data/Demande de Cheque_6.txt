@@ -1,0 +1,30 @@
+Banque Centrale Populaire
+Agence [Insérer le nom de l'Agence]
+Adresse : [Insérer l'adresse de l'Agence]
+Tél : [Insérer le numéro de téléphone de l'Agence]
+E-mail : [Insérer l'adresse e-mail de l'Agence]
+
+Demande de Chèque
+
+Le [Insérer la date]
+
+Monsieur/Madame [Nom du Titulaire],
+Adresse : [Adresse du Titulaire],
+Tél : [Numéro de téléphone du Titulaire],
+E-mail : [Adresse e-mail du Titulaire]
+
+Je soussigné(e) [Nom du Titulaire], titulaire du compte n° [Insérer le numéro de compte] auprès de Banque Centrale Populaire, demande l'émission d'un chèque pour le bénéficiaire suivant :
+
+- Bénéficiaire : [Insérer le nom du Bénéficiaire]
+- Montant : [Insérer le montant en chiffres et en lettres]
+- Date : [Insérer la date à laquelle le chèque doit être encaissé]
+
+Je m'engage à provisionner mon compte afin de couvrir le montant du chèque émis. 
+
+Fait à [Insérer le lieu], le [Insérer la date]
+
+Signature du Titulaire : ___________________________________
+
+Veuillez agréer, Monsieur/Madame, l'expression de mes salutations distinguées.
+
+[Nom du Titulaire]

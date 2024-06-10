@@ -1,0 +1,36 @@
+Validation de Modification de Domiciliation Bancaire
+
+Je soussigné(e) [Nom du Titulaire] confirme par la présente, la modification de ma domiciliation bancaire auprès de Banque Centrale Populaire au Maroc.
+
+Ancienne Domiciliation :
+Nom de la Banque : Banque ABC
+IBAN : XX123456789
+RIB : XXXXX12345
+
+Nouvelle Domiciliation :
+Nom de la Banque : Banque XYZ
+IBAN : YY987654321
+RIB : XXXXX67890
+
+Fait à [Ville], le [Date]
+
+Signature : ____________________
+
+Cette modification de domiciliation bancaire a été vérifiée et validée par un représentant de Banque Centrale Populaire, conformément à mes instructions.
+
+Pour toute question ou information supplémentaire, veuillez me contacter aux coordonnées suivantes :
+
+Téléphone : 06 12 34 56 78
+Email : [email protected]
+
+Je certifie l'exactitude des informations fournies et m'engage à informer immédiatement Banque Centrale Populaire de tout changement ultérieur.
+
+Fait pour servir et valoir ce que de droit.
+
+Signature du Titulaire : ____________________
+
+Cette validation de modification de domiciliation bancaire est effective à compter de la date de signature ci-dessus.
+
+Fait à [Ville], le [Date]
+
+Signature du Représentant de la Banque : ____________________

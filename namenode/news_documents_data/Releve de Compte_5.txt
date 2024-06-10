@@ -1,0 +1,15 @@
+Banque Centrale Populaire - Relevé de Compte
+
+Numéro de Compte: 1234567890
+
+Transactions:
+- 03/06/2023: Dépôt de 5000 MAD
+- 15/06/2023: Paiement de la facture d'électricité de 300 MAD
+- 22/06/2023: Virement sortant de 1000 MAD vers un compte externe
+- 30/06/2023: Débit de carte de 500 MAD pour des achats en ligne
+
+Solde actuel: 4200 MAD
+
+Ce relevé de compte est émis pour le compte numéro 1234567890 détenu à la Banque Centrale Populaire au Maroc. Veuillez noter que les informations fournies sont basées sur des transactions récentes et que le solde actuel peut varier en fonction des activités ultérieures sur le compte.
+
+Pour toute question ou clarification concernant ce relevé de compte, n'hésitez pas à contacter notre service clientèle à tout moment. Nous vous remercions de votre confiance en tant que client de la Banque Centrale Populaire.

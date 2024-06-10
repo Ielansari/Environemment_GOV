@@ -1,0 +1,33 @@
+Facture d'Achat d'Obligations
+
+Numéro de Facture: F2022-1234
+Date: 15 septembre 2022
+
+Banque Centrale Populaire
+Adresse: Avenue Allal Ben Abdellah, Rabat, Morocco
+
+Détails de l'Acheteur:
+Nom de l'Acheteur: Fatima Ben Ahmed
+Adresse: Rue Mohammed V, Casablanca, Morocco
+Numéro de Téléphone: +212 6 12 34 56 78
+Adresse E-mail: fatima.benahmed@email.com
+
+Détails des Obligations Achetées:
+- Nom de l'Obligation: Obligation d'État Marocain 2022
+- Montant: 10,000 MAD
+- Prix unitaire: 100 MAD
+- Date d'Achat: 10 septembre 2022
+
+Montant Total: 10,000 MAD
+
+Mode de Paiement: Virement Bancaire
+
+Conditions de Paiement: Paiement à effectuer dans les 30 jours suivant la réception de la facture.
+
+Cette facture est valable pour une période de 30 jours à compter de sa date d'émission.
+
+Pour toute question concernant cette facture, veuillez contacter notre service clientèle au +212 5 22 33 44 55 ou par e-mail à info@banquecentralepopulaire.ma.
+
+Nous vous remercions de votre confiance et de votre collaboration.
+
+Banque Centrale Populaire

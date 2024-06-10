@@ -1,0 +1,27 @@
+```
+Banque Centrale Populaire - Facture d'Eau
+
+Nom du Titulaire: Fatima Ait Bouzid
+Adresse: 14 Rue Hassan II, Casablanca, Morocco
+N° Client: BCP123456789
+Date de Facturation: 15 Février 2022
+
+Détails de la Consommation:
+- Consommation d'Eau: 12 mètres cubes
+- Tarif par unité: 5 MAD/m³
+
+Montant à Payer:
+- Montant Hors Taxe: 60 MAD
+- TVA (10%): 6 MAD
+- Montant Total TTC: 66 MAD
+
+Merci de régler cette facture avant la date limite de paiement indiquée pour éviter des pénalités de retard. Pour toute question ou réclamation, veuillez contacter notre service clientèle au 080 100 2000.
+
+Nous vous remercions pour votre confiance en Banque Centrale Populaire.
+
+Cordialement,
+Le Service Facturation
+Banque Centrale Populaire
+``` 
+
+This document provided a water bill for a fictional customer named Fatima Ait Bouzid, residing at 14 Rue Hassan II, Casablanca, Morocco, with a consumption of 12 cubic meters of water. The bill includes the total amount to be paid along with the breakdown of costs. The customer is also reminded to make the payment before the due date to avoid late penalties and is provided with contact information for customer service.

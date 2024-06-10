@@ -1,0 +1,22 @@
+Contrat de Découvert Bancaire
+
+Entre la Banque Centrale Populaire, agissant en tant que créancier, dont le siège social est situé à Casablanca, Maroc, et Monsieur/Madame [Nom du Titulaire], ci-après dénommé le Titulaire, il a été convenu et arrêté ce qui suit :
+
+Article 1 : Objet du Contrat
+La Banque Centrale Populaire accorde par la présente un découvert bancaire d'un montant de [Montant du Découvert] Dirhams (MAD) au Titulaire, pour une période de [Limite de Temps] mois à compter de la signature du présent contrat.
+
+Article 2 : Taux d'Intérêt
+Le découvert consenti sera assorti d'un taux d'intérêt fixe de [Taux d'Intérêt] % par an, à compter du premier jour de découvert et jusqu'à la date de remboursement intégral.
+
+Article 3 : Utilisation du Découvert
+Le Titulaire s'engage à utiliser le découvert de manière responsable et à rembourser le montant utilisé dans les délais convenus avec la Banque Centrale Populaire.
+
+Article 4 : Remboursement
+Le Titulaire s'engage à rembourser le montant du découvert ainsi que les intérêts associés à la date convenue avec la Banque Centrale Populaire, sans dépasser la limite de temps fixée dans le présent contrat.
+
+Fait en double exemplaire à Casablanca, le [Date du Contrat].
+
+Pour la Banque Centrale Populaire                        Pour le Titulaire,
+Signature                                                Signature
+
+[Nom du Responsable de la Banque]                      [Nom du Titulaire]

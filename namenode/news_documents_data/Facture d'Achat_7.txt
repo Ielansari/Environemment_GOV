@@ -1,0 +1,25 @@
+**Facture d'Achat**
+
+**Banque Centrale Populaire - Agence Casablanca**
+
+**Nom de l'Acheteur**: Sarah Benmoussa  
+**Article**: Ordinateur portable HP  
+**Prix**: 7500 MAD  
+**Date**: 12 septembre 2021  
+**Vendeur**: Electronik Store 
+
+---
+
+**Détails de la facture**
+
+Numéro de Facture: 2021-00942  
+Date d'émission: 13 septembre 2021  
+Méthode de Paiement: Carte Bancaire   
+
+---
+
+**Total**: 7500 MAD
+
+---
+
+Merci d'avoir choisi Banque Centrale Populaire pour vos services bancaires. N'hésitez pas à nous contacter pour toute information complémentaire.

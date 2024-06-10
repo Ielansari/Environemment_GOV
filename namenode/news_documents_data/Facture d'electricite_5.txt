@@ -1,0 +1,28 @@
+Facture d'Électricité
+
+Banque Centrale Populaire - Succursale Rabat
+
+Nom du Titulaire: M. Ahmed Benbrahim
+Adresse: 14 Rue des Oliviers, Quartier des Ambassadeurs, Rabat, Maroc
+Date de Facturation: 15 janvier 2023
+Date d'Échéance: 5 février 2023
+
+Détails de la Consommation:
+- Ancienne Lecture: 3500 kWh
+- Nouvelle Lecture: 3650 kWh
+- Consommation du Mois: 150 kWh
+
+Coût de l'Électricité:
+- Tarif par kWh: 1,20 MAD
+- Total Consommé: 180,00 MAD
+
+Autres Frais:
+- Frais de Service: 25,00 MAD
+
+Montant Total à Payer: 205,00 MAD
+
+Veuillez régler le montant total de 205,00 MAD avant la date d'échéance pour éviter des frais de retard. Vous pouvez effectuer votre paiement à l'une de nos agences Banque Centrale Populaire ou via notre service de banque en ligne.
+
+Pour toute question ou réclamation concernant cette facture, veuillez contacter notre service clientèle au 080 100 7800.
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire pour la gestion de vos paiements d'électricité.

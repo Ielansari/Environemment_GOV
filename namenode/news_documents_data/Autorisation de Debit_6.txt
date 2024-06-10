@@ -1,0 +1,15 @@
+Autorisation de Débit
+
+Je soussigné, [Nom du Titulaire], titulaire du compte bancaire numéro XXXXXXXX auprès de la Banque Centrale Populaire, donne par la présente mon autorisation de débiter mon compte du montant de [Montant] dirhams pour [Raison du Débit].
+
+Date d'Autorisation: [Date d'Autorisation]
+
+Je reconnais par la présente l'autorisation de prélèvement sur mon compte bancaire susmentionné et m'engage à honorer le montant autorisé dans les plus brefs délais.
+
+Fait à [Ville], le [Date du Jour]
+
+Signature : _______________
+
+[Nom du Titulaire]
+[numéro de téléphone du titulaire]
+[Adresse du titulaire]

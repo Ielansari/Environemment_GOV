@@ -1,0 +1,33 @@
+**Banque Centrale Populaire - Saisie de Salaire**
+
+*Date: XX/XX/XXXX*
+
+**Informations de la Saisie de Salaire**
+
+**Nom de l'Employeur:**
+    Banque XYZ
+
+**Nom de l'Employé:**
+    Ahmed Benbrahim
+
+**Montant de la Saisie:**
+    1500 MAD
+
+**Raison:**
+    Remboursement de prêt Banque Centrale Populaire
+
+Cher client,
+
+Nous vous informons que suite à votre demande de prêt contracté auprès de Banque Centrale Populaire, une saisie de salaire a été mise en place. Les détails de cette saisie sont les suivants :
+
+* Employeur : Banque XYZ
+* Employé : Ahmed Benbrahim
+* Montant de la Saisie : 1500 MAD
+* Raison : Remboursement de prêt Banque Centrale Populaire
+
+Cette saisie sera effective à partir du prochain versement de votre salaire. Elle sera automatiquement déduite et reversée à votre prêt en cours.
+
+Pour toute question ou information complémentaire, n'hésitez pas à contacter notre service clientèle. Nous restons à votre disposition pour toute assistance.
+
+Cordialement,
+Banque Centrale Populaire

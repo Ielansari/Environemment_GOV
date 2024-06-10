@@ -1,0 +1,25 @@
+Contrat de Service
+
+Entre :
+
+Banque Centrale Populaire, représentée par Monsieur Ahmed El Khalil, agissant en qualité de Directeur Général, dont les coordonnées sont sis au 14 Rue Yacoub El Mansour, Casablanca, Maroc, ci-après dénommé le "Client",
+
+Et :
+
+Société Services Informatiques SARL, représentée par Madame Amina Zouaoui, agissant en qualité de Gérante, dont les coordonnées sont sis au 25 Avenue Hassan II, Rabat, Maroc, immatriculée au Registre de Commerce sous le numéro 123456, ci-après dénommé le "Fournisseur".
+
+Il a été convenu ce qui suit :
+
+1. Nom du Fournisseur : Société Services Informatiques SARL
+2. Services fournis : Mise en place d'un nouveau système informatique pour la gestion des données clients de Banque Centrale Populaire.
+3. Prix : Le prix total convenu pour ces services s'élève à 100 000 dirhams.
+4. Date : Le présent contrat entre en vigueur à compter du 1er janvier 2023.
+5. Durée : La durée d'exécution des services est estimée à 6 mois à compter de la date de début mentionnée ci-dessus.
+
+Le Client s'engage à fournir au Fournisseur toutes les informations nécessaires à la bonne réalisation des services convenus. Le Fournisseur s'engage quant à lui à mettre en œuvre tous les moyens techniques et humains nécessaires pour mener à bien la prestation.
+
+Fait en deux exemplaires à Casablanca, le 15 décembre 2022.
+
+Pour le Client,                       Pour le Fournisseur,
+Signature du Client               Signature du Fournisseur
+Ahmed El Khalil                        Amina Zouaoui

@@ -1,0 +1,28 @@
+Facture d'Achat
+
+Nom de l'Acheteur: Amina Zerouali
+Article: Ordinateur portable Asus
+Prix: 7000 MAD
+Date: 15 mars 2022
+Vendeur: TechnoMarket Maroc
+
+Cher client,
+
+Nous vous remercions d'avoir choisi Banque Centrale Populaire pour vos besoins bancaires. Ci-joint la facture correspondant à votre récent achat effectué auprès de TechnoMarket Maroc.
+
+Détails de l'achat:
+Nom de l'Acheteur: Amina Zerouali
+Article: Ordinateur portable Asus
+Prix: 7000 MAD
+Date: 15 mars 2022
+Vendeur: TechnoMarket Maroc
+
+Le montant total de la facture s'élève à 7000 MAD. Veuillez effectuer le paiement dans les plus brefs délais afin de finaliser cette transaction.
+
+Pour toute question ou assistance supplémentaire, n'hésitez pas à contacter notre service clientèle au 080 100 3030.
+
+Nous vous remercions encore pour votre confiance en Banque Centrale Populaire.
+
+Cordialement,
+
+Banque Centrale Populaire

@@ -1,0 +1,26 @@
+Facture d'Achat d'Obligations
+
+Numéro de Facture: 2022-0056
+Date: 15 février 2022
+
+Banque Centrale Populaire
+Agence: Casablanca
+Adresse: 22, Avenue Hassan II, Casablanca
+
+--------------------------------------------------------------
+Nom de l'Acheteur: Karim Benali
+Adresse: 10 Rue Mohammed V, Rabat
+
+Détails de l'Achat:
+- Obligations: Obligations souveraines du Trésor Marocain
+- Quantité: 100 Obligations
+- Prix unitaire: 500 MAD
+- Montant total: 50 000 MAD
+
+Moyen de Paiement: Virement Bancaire
+Date d'Achat: 10 février 2022
+Date de Paiement: 15 février 2022
+
+Fait à Casablanca le 15 février 2022
+
+Signature: [Signature de l'autorité compétente]

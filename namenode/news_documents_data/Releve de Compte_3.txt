@@ -1,0 +1,25 @@
+**Banque Centrale Populaire - Relevé de Compte**
+
+**Numéro de Compte:** 12345678901234
+
+**Transactions:**
+- 05/01/2023 - Dépôt de 2 000 MAD
+- 10/01/2023 - Paiement de facture d'électricité de 500 MAD
+- 15/01/2023 - Virement reçu de 1 500 MAD
+- 20/01/2023 - Retrait au guichet de 300 MAD
+- 25/01/2023 - Paiement par carte bancaire de 150 MAD
+- 30/01/2023 - Virement sortant de 700 MAD
+
+**Solde:** 3 850 MAD
+
+Cher client,
+
+Nous vous prions de trouver ci-dessus le relevé de compte de votre compte Banque Centrale Populaire pour le mois en cours.
+
+En cas de questions ou de réclamations concernant les transactions mentionnées, n'hésitez pas à contacter notre service clientèle au 080 100 7000.
+
+Nous vous remercions pour votre confiance et votre fidélité.
+
+Cordialement,
+
+Banque Centrale Populaire

@@ -1,0 +1,21 @@
+**Banque Centrale Populaire - Confirmation de Virement Bancaire**
+
+Numéro de Transaction: 5489623147
+Date: 25 février 2023
+
+Le titulaire du compte :
+
+Nom du Titulaire: M. Ahmed Benjelloun
+Montant: 5000 MAD
+Compte de Destination: 12345678901234567890
+Numéro de Compte: 09876543210987654321
+
+Cher M. Benjelloun,
+
+Par la présente, nous vous confirmons que le virement bancaire d'un montant de 5000 MAD vers le compte n° 12345678901234567890 a bien été effectué le 25 février 2023. La transaction a été enregistrée sous le numéro 5489623147.
+
+Nous vous remercions pour votre confiance en Banque Centrale Populaire. En cas de demande de renseignements complémentaires, n'hésitez pas à contacter notre service clientèle.
+
+Cordialement,
+
+Banque Centrale Populaire

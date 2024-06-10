@@ -1,0 +1,30 @@
+Facture de Téléphone
+Numéro de Téléphone: 0669123456
+Appels:
+- 10 appels vers des numéros nationaux
+- 5 appels vers des numéros internationaux
+Date: 15 Mars 2022
+Montant: 450 MAD
+
+Détails des appels nationaux:
+1. 0669123450 - Durée: 5 minutes
+2. 0669123451 - Durée: 8 minutes
+3. 0669123452 - Durée: 3 minutes
+4. 0669123453 - Durée: 7 minutes
+5. 0669123454 - Durée: 10 minutes
+6. 0669123455 - Durée: 6 minutes
+7. 0669123460 - Durée: 4 minutes
+8. 0669123461 - Durée: 9 minutes
+9. 0669123462 - Durée: 2 minutes
+10. 0669123463 - Durée: 12 minutes
+
+Détails des appels internationaux:
+1. +33123456789 (France) - Durée: 15 minutes
+2. +44234567890 (Royaume-Uni) - Durée: 20 minutes
+3. +12123456789 (États-Unis) - Durée: 18 minutes
+4. +390123456789 (Italie) - Durée: 22 minutes
+5. +8134567890 (Japon) - Durée: 25 minutes
+
+Le montant total de la facture incluant les appels nationaux et internationaux s'élève à 450 MAD pour le mois de Mars 2022.
+
+Veuillez régler cette facture avant la date d'échéance pour éviter tout désagrément. Pour plus d'informations, n'hésitez pas à contacter notre service clientèle au 080 100 11 11. Merci de votre fidélité et confiance envers la Banque Centrale Populaire au Maroc.

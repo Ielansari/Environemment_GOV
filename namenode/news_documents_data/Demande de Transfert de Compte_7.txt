@@ -1,0 +1,17 @@
+**Demande de Transfert de Compte**
+
+Je soussigné(e) [Nom du Titulaire], titulaire du compte bancaire numéro [Compte Source] auprès de la Banque Centrale Populaire, souhaite par la présente demander le transfert de mon compte vers le compte numéro [Compte Destination].
+
+Je certifie par la présente que toutes les informations fournies sont exactes et je m'engage à informer la banque de tout changement survenant dans ma situation financière.
+
+Je demande à la Banque Centrale Populaire de bien vouloir procéder au transfert des fonds disponibles sur mon compte d'origine [Compte Source] vers mon compte de destination [Compte Destination] selon les modalités prévues par la banque.
+
+Je joins à la présente demande une pièce d'identité ainsi que tout autre document que la banque jugera nécessaire pour traiter cette demande de transfert de compte.
+
+Fait à [Ville], le [Date].
+
+Signature du Titulaire : ___________________________________
+
+---
+
+This document is a fictional "Demande de Transfert de Compte" for a client of Banque Centrale Populaire in Morocco. It includes the required elements such as "Nom du Titulaire" (Account Holder's Name), "Compte Source" (Source Account), and "Compte Destination" (Destination Account).

@@ -1,0 +1,36 @@
+**Facture de Vente de Véhicule**
+
+**Vendeur:**
+Nom du Vendeur: Ahmed Benjelloun
+Banque Centrale Populaire, Rabat, Maroc
+Numéro de téléphone: 06 XX XX XX XX
+Adresse e-mail: ahmed.b@bcp.ma
+
+**Acheteur:**
+Nom de l'Acheteur: Fatima El Amrani
+Adresse: 123 Rue des Roses, Casablanca, Maroc
+Numéro de téléphone: 06 XX XX XX XX
+Adresse e-mail: fatima.e@exemple.com
+
+**Détails du Véhicule:**
+Modèle du Véhicule: Peugeot 208 GT Line
+Année: 2020
+Immatriculation: XXX-1234
+Kilométrage: 20,000 km
+
+**Détails de la Vente:**
+Prix de Vente: 120,000 MAD
+Date: 15 mai 2023
+
+**Conditions de Paiement:**
+Un acompte de 30,000 MAD a été versé le jour de la signature du contrat de vente. Le solde restant de 90,000 MAD sera réglé dans un délai de 30 jours à compter de la date de la facture.
+
+**Clause de Non-responsabilité:**
+Le vendeur certifie que le véhicule est en bon état et n'a pas été impliqué dans des accidents majeurs. Aucune garantie n'est fournie une fois la transaction finalisée.
+
+Fait à Rabat, le 15 mai 2023
+
+Signature du Vendeur: ____________________
+Signature de l'Acheteur: ____________________
+
+Cette facture est conforme aux informations de la transaction de vente du véhicule susmentionné.

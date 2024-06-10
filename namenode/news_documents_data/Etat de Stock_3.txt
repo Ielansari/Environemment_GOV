@@ -1,0 +1,32 @@
+Etat de Stock
+
+Date: 15 septembre 2021
+
+Titres détenus:
+- Actions Compagnie A: 100
+- Obligations Compagnie B: 50
+- Actions Compagnie C: 75
+
+Prix d'Achat:
+- Actions Compagnie A: 500 MAD/action
+- Obligations Compagnie B: 1000 MAD/obligation
+- Actions Compagnie C: 750 MAD/action
+
+Valeur Actuelle:
+- Actions Compagnie A: 550 MAD/action
+- Obligations Compagnie B: 1050 MAD/obligation
+- Actions Compagnie C: 720 MAD/action
+
+Total Investi: 
+- Actions: 75 000 MAD
+- Obligations: 50 000 MAD
+- Total: 125 000 MAD
+
+Valeur Actuelle du Portefeuille:
+- Actions: 137 500 MAD
+- Obligations: 52 500 MAD
+- Total: 190 000 MAD
+
+La Banque Centrale Populaire détient actuellement un portefeuille diversifié, comprenant des actions de plusieurs compagnies ainsi que des obligations. Cette diversification vise à optimiser les rendements tout en réduisant les risques pour nos clients. Les valeurs actuelles des titres détenus ont évolué depuis leur achat, démontrant la pertinence des choix d'investissement effectués.
+
+Il est important de souligner que les informations contenues dans cet état de stock sont basées sur des données synthétiques et ne représentent pas les véritables positions de la Banque Centrale Populaire au Maroc.

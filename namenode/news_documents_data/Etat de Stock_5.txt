@@ -1,0 +1,24 @@
+Banque Centrale Populaire - Département des Investissements
+
+Etat de Stock au 31 août 2021
+
+| Date       | Titres détenus   | Prix d'Achat (MAD) | Valeur Actuelle (MAD) |
+|------------|------------------|--------------------|-------------------------|
+| 31/08/2021 | Actions BCP      | 150,000            | 175,000               |
+| 31/08/2021 | Obligations Etat | 200,000            | 220,000               |
+| 31/08/2021 | Certificats dépôt| 100,000            | 105,000               |
+
+Dans le cadre de ses activités d'investissement, la Banque Centrale Populaire dispose d'un portefeuille diversifié de titres. Au 31 août 2021, l'état de stock indique les titres détenus, leur prix d'achat initial et leur valeur actuelle sur le marché.
+
+Les actions de la BCP détenues par la banque ont été acquises à un prix de 150,000 MAD et leur valeur actuelle est de 175,000 MAD. Les obligations d'Etat ont été acquises pour un montant de 200,000 MAD et leur valeur actuelle est de 220,000 MAD. De plus, les certificats de dépôt ont été acquis pour 100,000 MAD et leur valeur actuelle est de 105,000 MAD.
+
+Ces données illustrent la performance du portefeuille de la Banque Centrale Populaire sur le marché financier. Les variations des prix des titres détenus affectent directement la valeur globale du portefeuille d'investissement de la banque.
+
+Veuillez noter que ces chiffres sont sujets à des fluctuations du marché et peuvent varier en fonction des conditions économiques et financières. Pour toute information supplémentaire concernant l'état de stock de la Banque Centrale Populaire, veuillez contacter le Département des Investissements.
+
+Ce document est destiné à un usage interne et confidentiel de la Banque Centrale Populaire.
+
+Fait à Rabat, le 15 septembre 2021
+
+Signature,
+Département des Investissements

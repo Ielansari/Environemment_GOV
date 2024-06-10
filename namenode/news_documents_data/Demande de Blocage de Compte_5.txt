@@ -1,0 +1,22 @@
+**Demande de Blocage de Compte**
+
+*Banque Centrale Populaire, Rabat*
+
+Le {{Date}},
+
+**Objet : Demande de Blocage de Compte**
+
+Monsieur/Madame,
+
+Je soussigné(e) {{Nom du Titulaire}}, titulaire du compte bancaire numéro {{Numéro de Compte}} au sein de la Banque Centrale Populaire, vous adresse par la présente ma demande de blocage dudit compte pour la raison suivante :
+
+{{Raison}}
+
+Je vous prie de bien vouloir prendre les mesures nécessaires dans les plus brefs délais afin de procéder au blocage du compte concerné.
+
+Je reste à votre disposition pour toute information complémentaire requise et vous prie d'agréer, Monsieur/Madame, l'expression de mes salutations distinguées.
+
+Fait à {{Ville}}, le {{Date}}
+
+Signature,
+{{Nom du Titulaire}}

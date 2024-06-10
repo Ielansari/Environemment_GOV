@@ -1,0 +1,29 @@
+Banque Centrale Populaire
+A l'attention de Monsieur/Madame [Nom du Titulaire]
+Adresse: [Adresse du Titulaire]
+Code Postal: [Code Postal]
+Ville: [Ville]
+
+Notification de Prêt
+
+Cher(e) Monsieur/Madame [Nom du Titulaire],
+
+Nous avons le plaisir de vous informer que votre demande de prêt a été approuvée par Banque Centrale Populaire. Toutes nos félicitations pour l'obtention de votre prêt, dont les détails sont les suivants:
+
+Montant du Prêt: [Montant du Prêt]
+Taux d'Intérêt: [Taux d'Intérêt]
+Plan de Remboursement: 
+- Mensualité: [Montant de la Mensualité]
+- Durée: [Durée du Remboursement en mois]
+
+Nous vous prions de bien vouloir prendre connaissance des termes du contrat de prêt joints à cette notification. Veuillez les examiner attentivement et les retourner signés à notre agence dans les plus brefs délais pour finaliser la procédure.
+
+Pour toute question ou clarification, notre équipe est à votre entière disposition pour vous accompagner et vous apporter les informations nécessaires.
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire. Nous vous souhaitons une excellente réalisation de vos projets financiers.
+
+Cordialement,
+
+[Prénom et Nom de l'Agent de Prêt]
+[Poste de l'Agent de Prêt]
+Banque Centrale Populaire

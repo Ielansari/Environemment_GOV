@@ -1,0 +1,27 @@
+**Confirmation de Paiement**
+
+Madame/Monsieur [Nom du Titulaire],
+
+Nous vous informons par la présente que le paiement d'un montant de [Montant] MAD a bien été effectué le [Date], via [Mode de Paiement], en référence à la transaction numéro [Référence de Transaction].
+
+Nous vous remercions pour votre confiance envers la Banque Centrale Populaire et restons à votre disposition pour toute information supplémentaire.
+
+Cordialement,
+
+[Banque Centrale Populaire]
+
+---
+
+Exemple de confirmation de paiement :
+
+**Confirmation de Paiement**
+
+Madame Amina BENZAKOUR,
+
+Nous vous informons par la présente que le paiement d'un montant de 5000 MAD a bien été effectué le 15 septembre 2022, via virement bancaire, en référence à la transaction numéro 123456789.
+
+Nous vous remercions pour votre confiance envers la Banque Centrale Populaire et restons à votre disposition pour toute information supplémentaire.
+
+Cordialement,
+
+Banque Centrale Populaire

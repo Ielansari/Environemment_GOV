@@ -1,0 +1,35 @@
+**Banque Centrale Populaire - Facture de Services**
+
+| **Nom du Fournisseur:** FinTech Solutions Maroc  
+| **Services:** Développement d'une application bancaire personnalisée  
+| **Montant:** 50 000 MAD   
+| **Date:** 15 février 2023  
+
+---
+
+| **Adresse:** Rue Ahmed El Mâadene, Casablanca, Maroc  
+| **Téléphone:** +212 6 12 34 56 78  
+| **E-mail:** contact@fintech.ma  
+| **Site Web:** www.fintech.ma  
+
+---
+
+Chère Banque Centrale Populaire,
+
+Nous vous remercions pour votre collaboration et votre confiance en choisissant FinTech Solutions Maroc pour la prestation de services de développement d'une application bancaire personnalisée.
+
+Veuillez trouver ci-joint la facture pour les services rendus :
+
+**Détails de la Facture:**
+
+- **Montant Total:** 50 000 MAD  
+- **Date de Facturation:** 15 février 2023  
+- **Date d'échéance:** 15 mars 2023  
+
+Nous restons à votre disposition pour toute information complémentaire ou pour toute demande spécifique.
+
+Cordialement,
+
+FinTech Solutions Maroc  
+
+--- 

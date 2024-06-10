@@ -1,0 +1,24 @@
+Rectificatif de Relevé
+
+Nom du Titulaire: Fatima Zahra El Fassi
+
+Numéro de Compte: 12345678901234567
+
+Relevé Initial:
+Solde précédent: 15,000 MAD
+Dépôts: 5,000 MAD
+Retraits: 2,000 MAD
+Nouveau solde: 18,000 MAD
+
+Modifications:
+Suite à une erreur de saisie, veuillez noter les modifications apportées au relevé du compte de Mme Fatima Zahra El Fassi:
+Le dépôt précédemment enregistré à 5,000 MAD a été rectifié à 6,000 MAD.
+Le retrait précédemment enregistré à 2,000 MAD a été rectifié à 1,000 MAD.
+
+Date: 15 novembre 2021
+
+Nous nous excusons pour cette erreur et vous prions de bien vouloir prendre en compte ce rectificatif dans la gestion de votre compte. Pour toute question ou information supplémentaire, n'hésitez pas à contacter votre conseiller Banque Centrale Populaire.
+
+Cordialement,
+
+[Signature du Responsable de la Succursale]

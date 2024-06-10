@@ -1,0 +1,39 @@
+Facture d'Internet
+
+Date: 15 février 2023
+
+Client: Banque Centrale Populaire Maroc
+
+Adresse: 123 Avenue Hassan II, Casablanca
+
+Facture N°: 001235689
+
+Nom du Titulaire: Ahmed Benitez
+
+Plan: Plan PRO - Haut Débit Illimité
+
+Détails de la consommation:
+- Internet Haut Débit Illimité: 30 jours
+- Téléphonie VOIP: inclus
+- Assistance technique 24/7: inclus
+
+Date de la facturation: 01 février 2023 - 01 mars 2023
+
+Montant:
+- Abonnement Mensuel: 350 MAD
+- Frais d'installation: 150 MAD
+- TVA (20%): 100 MAD
+- Rabais Client: -50 MAD
+
+Montant Total à Payer: 550 MAD
+
+Mode de Paiement: Virement Bancaire
+
+Nous vous prions de bien vouloir régler cette facture dans un délai de 15 jours à compter de la date d'émission. En cas de non-paiement dans les délais impartis, des frais de retard pourraient s'appliquer.
+
+Pour toute question ou réclamation concernant cette facture, veuillez contacter notre service clientèle au 0800 123 456.
+
+Merci de votre confiance et de votre fidélité.
+
+Cordialement,
+Le Service Facturation de Banque Centrale Populaire

@@ -1,0 +1,29 @@
+Banque Centrale Populaire - Agence XX
+
+Bordereau de Remise de Chèques
+
+Date: XX/XX/XXXX
+
+Nom de l'Agence: Agence XX
+Numéro de l'Agence: XXXXX
+
+Nom du Titulaire: Ahmed Benjelloun
+Numéro de Compte: XXXXXXXX
+Montant Total: 25 000 MAD
+Nombre de Chèques: 5
+
+Détail des chèques:
+
+1. Chèque n°XXXX - 5 000 MAD
+2. Chèque n°XXXX - 7 500 MAD
+3. Chèque n°XXXX - 6 200 MAD
+4. Chèque n°XXXX - 3 800 MAD
+5. Chèque n°XXXX - 2 500 MAD
+
+Total: 25 000 MAD
+
+Fait à Agence XX, le XX/XX/XXXX
+
+Signature du Titulaire: __________________________________
+
+Ce document atteste la remise des chèques cités ci-dessus par le titulaire du compte spécifié à Banque Centrale Populaire.

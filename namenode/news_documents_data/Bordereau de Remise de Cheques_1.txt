@@ -1,0 +1,30 @@
+Banque Centrale Populaire - Agence Casablanca
+
+Bordereau de Remise de Chèques
+
+Date: 15 septembre 2023
+
+Nom de l'Entreprise: Société Exemple SARL
+
+Numéro de Compte: 12345678901234567
+
+Montant Total: 72,500 MAD
+
+Nombre de Chèques: 5
+
+Détails des Chèques:
+1. Chèque n°001 - 15,000 MAD
+2. Chèque n°002 - 25,500 MAD
+3. Chèque n°003 - 10,000 MAD
+4. Chèque n°004 - 12,000 MAD
+5. Chèque n°005 - 10,000 MAD
+
+Fait à Casablanca, le 15 septembre 2023
+
+Signature du Déposant: ________________
+
+Veuillez vérifier les informations ci-dessus et certifier la réception des chèques mentionnés.
+
+---
+
+Ce document certifie la remise des chèques mentionnés ci-dessus à la Banque Centrale Populaire par la société Société Exemple SARL.

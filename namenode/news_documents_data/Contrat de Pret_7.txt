@@ -1,0 +1,23 @@
+Contrat de Prêt
+
+Entre la Banque Centrale Populaire, représentée par son directeur général, et M./Mme [Nom du Titulaire du Prêt], titulaire d'une pièce d'identité numéro [Numéro de la pièce d'identité], demeurant au [Adresse du Titulaire], il a été convenu ce qui suit :
+
+1. Objet : 
+La Banque consent à M./Mme [Nom du Titulaire du Prêt] un prêt d'un montant de [Montant du Prêt] (en toutes lettres), destiné à [Raison du Prêt : investissement, achat immobilier, etc.].
+
+2. Modalités du prêt :
+- Montant du Prêt : [Montant du Prêt] MAD
+- Taux d'Intérêt : Le taux d'intérêt appliqué est de [Taux d'Intérêt] %, calculé sur la base d'une année de 360 jours.
+- Durée : La durée de remboursement du prêt est fixée à [Durée du Prêt] mois à compter de la date de décaissement des fonds.
+
+3. Remboursement :
+Les modalités de remboursement sont les suivantes : 
+- Les remboursements se feront par mensualités de [Montant de la Mensualité] MAD, à verser le [Jour de Remboursement] de chaque mois.
+- Les échéances du prêt seront réglées par prélèvement automatique sur le compte bancaire de M./Mme [Nom du Titulaire du Prêt] ou par tout autre moyen convenu entre les deux parties.
+
+4. Garanties :
+En contrepartie du prêt octroyé, M./Mme [Nom du Titulaire du Prêt] s'engage à fournir à la Banque les garanties nécessaires selon sa politique en vigueur.
+
+Fait en deux exemplaires à [Lieu], le [Date du Contrat].
+
+Banque Centrale Populaire                                     M./Mme [Nom du Titulaire du Prêt]

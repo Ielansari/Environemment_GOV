@@ -1,0 +1,15 @@
+```
+Reçu de Paiement
+
+Nom du Bénéficiaire : Fatima Benbrahim
+Montant : 5000 MAD
+Date : 15 juin 2023
+Référence de Transaction : 789456123
+
+Merci d'avoir effectué un paiement de 5000 MAD le 15 juin 2023 pour le compte de Fatima Benbrahim à Banque Centrale Populaire. Cette transaction porte la référence 789456123.
+
+Pour toute demande d'information supplémentaire ou en cas de problème, n'hésitez pas à contacter notre service clientèle au 0802000123.
+
+Banque Centrale Populaire
+Morocco
+```

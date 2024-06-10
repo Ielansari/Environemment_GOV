@@ -1,0 +1,27 @@
+**Reçu de Paiement**
+
+|--------------------------|
+| Banque Centrale Populaire |
+|--------------------------|
+
+|-----------------------------|
+| **Réçu n° :** 2022-BCP-12345 |
+|-----------------------------|
+
+|----------------------------------|
+| **Date :** 15 mars 2022                 |
+| **Heure :** 10:30                              |
+|----------------------------------|
+
+|--------------------------------------------|
+| **Nom du Bénéficiaire :** Fatima Zahra El Amrani |
+| **Montant :** 5 000 MAD                                         |
+| **Référence de Transaction :** TRX20220315 |
+|--------------------------------------------|
+
+|---------------------------------------|
+| **Opération effectuée par :** Jean Dupont  |
+| **Caissier/Banquier n° :** CSH202245  |
+|---------------------------------------|
+
+Ce reçu atteste que la somme de 5 000 MAD a bien été versée par Fatima Zahra El Amrani le 15 mars 2022 à Banque Centrale Populaire. Cette transaction porte la référence TRX20220315. Veuillez conserver ce document comme preuve de paiement.

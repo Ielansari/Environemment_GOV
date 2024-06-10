@@ -1,0 +1,19 @@
+**Confirmation de Paiement**
+
+Cher Client,
+
+Nous vous informons par la présente que le paiement de votre transaction a été effectué avec succès. Veuillez trouver ci-dessous les détails de votre paiement :
+
+- **Nom du Titulaire**: Monsieur Ahmed Benhima
+- **Montant**: 5000 MAD
+- **Date**: 12 août 2022
+- **Mode de Paiement**: Virement bancaire
+- **Référence de Transaction**: BCP20220812001
+
+Cette confirmation de paiement atteste que la somme mentionnée ci-dessus a bien été prélevée de votre compte et transférée au destinataire selon vos instructions.
+
+Nous vous remercions pour votre confiance en Banque Centrale Populaire pour vos transactions financières. En cas de question ou de besoin d'assistance supplémentaire, n'hésitez pas à contacter notre service clientèle.
+
+Cordialement,
+
+Banque Centrale Populaire

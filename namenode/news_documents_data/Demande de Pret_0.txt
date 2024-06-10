@@ -1,0 +1,27 @@
+**Demande de Prêt**
+
+*Banque Centrale Populaire*
+*Agence: [Nom de l'Agence]*
+
+Date: [Date]
+
+Monsieur/Madame le Directeur de l'Agence Banque Centrale Populaire,
+
+Je soussigné, [Nom du Demandeur], demeurant [Adresse du Demandeur], sollicite par la présente une demande de prêt auprès de votre honorable établissement.
+
+Les détails de ma demande sont les suivants :
+- **Nom du Demandeur**: [Nom du Demandeur]
+- **Montant Demandé**: [Montant Demandé en Dirhams]
+- **Revenu Annuel**: [Revenu Annuel en Dirhams]
+- **Score de Crédit**: [Score de Crédit]
+
+Je tiens à vous informer que le prêt sollicité sera utilisé à des fins [indiquer la raison du prêt, par exemple: développement d'activité, acquisition d'un bien immobilier, etc.].
+
+Je joins à cette demande les pièces justificatives nécessaires à l'étude de mon dossier et reste à votre disposition pour tout complément d'information que vous jugerez nécessaire.
+
+En vous remerciant par avance de l'attention portée à ma demande, je vous prie d'agréer, Monsieur/Madame le Directeur, l'expression de mes salutations distinguées.
+
+Fait à [Ville], le [Date]
+
+Signature,
+[Nom du Demandeur]

@@ -1,0 +1,27 @@
+**Demande de Modification de Domiciliation Bancaire**
+
+**Banque Centrale Populaire**
+**Agence [Insérer le nom de l'agence]**
+**Date: [Insérer la date du jour]**
+
+**Objet: Demande de Modification de Domiciliation Bancaire**
+
+Madame, Monsieur,
+
+Par la présente, je soussigné(e) [Nom du Titulaire], titulaire du compte bancaire n° [Insérer le numéro de compte], viens par la présente formuler une demande de modification de domiciliation bancaire auprès de votre honorable Banque Centrale Populaire.
+
+Ancienne Domiciliation :
+- Nom de l'établissement bancaire : [Insérer le nom de l'ancienne banque]
+- Adresse de l'agence : [Insérer l'adresse complète de l'ancienne agence]
+
+Nouvelle Domiciliation :
+- Nom de l'établissement bancaire : Banque Centrale Populaire
+- Adresse de l'agence : [Insérer l'adresse complète de la nouvelle agence]
+
+Je vous prie de bien vouloir prendre en compte cette demande de modification de domiciliation bancaire et d'effectuer le nécessaire pour que mes coordonnées bancaires soient mises à jour dans vos systèmes.
+
+Fait à [Insérer votre ville], le [Insérer la date],
+
+Signature,
+
+[Nom du Titulaire]

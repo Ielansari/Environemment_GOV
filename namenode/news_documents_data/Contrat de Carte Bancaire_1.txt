@@ -1,0 +1,30 @@
+Contrat de Carte Bancaire
+
+Entre la Banque Centrale Populaire, représentée par son directeur général, ci-après dénommée « la Banque », et M. Ahmed Benjelloun, titulaire d'une carte bancaire, ci-après dénommé « le Client ».
+
+Titulaire : M. Ahmed Benjelloun
+Numéro de Carte : 1234 5678 9012 3456
+Date d'Expiration : 12/25
+Taux d'Intérêt : 10%
+
+La Banque Centrale Populaire accorde au Client une carte bancaire sous réserve de l'acceptation des présentes conditions contractuelles. La carte bancaire est un moyen de paiement électronique permettant au Client d'effectuer des transactions financières dans la limite de sa capacité de paiement et des plafonds définis par la Banque.
+
+Le Client s'engage à conserver sa carte bancaire en lieu sûr, à ne pas laisser le code confidentiel associé à la carte être connu de tiers, et à informer immédiatement la Banque en cas de perte ou de vol de sa carte.
+
+La Banque se réserve le droit de modifier le taux d'intérêt appliqué à la carte bancaire, sous réserve d'en informer préalablement le Client par tout moyen approprié.
+
+En cas de non-respect des conditions contractuelles par le Client, la Banque se réserve le droit de suspendre ou de résilier le contrat de carte bancaire, sans préjudice de tout recours en réparation.
+
+Fait en double exemplaire, dont un remis à chaque partie contractante, à [lieu], le [date].
+
+Pour la Banque Centrale Populaire
+
+Le Directeur Général
+
+[Signature]
+
+Pour le Client
+
+M. Ahmed Benjelloun
+
+[Signature]

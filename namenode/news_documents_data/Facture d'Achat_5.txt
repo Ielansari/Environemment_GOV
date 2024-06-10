@@ -1,0 +1,30 @@
+**Facture d'Achat**
+
+```
+Banque Centrale Populaire - Succursale Rabat
+
+-----------------------------------------------------------------
+
+Nom de l'Acheteur: Fatima Benbrahim
+Adresse: 123, Avenue Mohammed V, Rabat
+NIF: 0123456789
+
+Date: 15 février 2022
+
+-----------------------------------------------------------------
+
+Article                                | Prix
+---------------------------------------|---------
+Logiciel de Gestion Financière   | 1 200 MAD
+
+
+-----------------------------------------------------------------
+
+Vendeur: Fournitures de Bureau Al Moustakbal - Rabat
+
+-----------------------------------------------------------------
+```
+
+Cette facture d'achat atteste que Fatima Benbrahim a acheté un logiciel de gestion financière à la succursale de Banque Centrale Populaire à Rabat, pour un montant de 1 200 MAD, le 15 février 2022. Le vendeur est Fournitures de Bureau Al Moustakbal - Rabat.
+
+Veuillez trouver ci-joint le détail de l'achat effectué.

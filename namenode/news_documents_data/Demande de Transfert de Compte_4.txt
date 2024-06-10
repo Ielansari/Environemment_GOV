@@ -1,0 +1,40 @@
+Banque Centrale Populaire
+Service des Transferts Bancaires
+Adresse: 123 Avenue Mohammed V, Casablanca
+
+Demande de Transfert de Compte
+
+Date: [Insérer la date]
+
+Titulaire du Compte :
+Nom et Prénom : [Insérer Nom du Titulaire]
+Adresse : [Insérer Adresse]
+Téléphone : [Insérer Numéro de Téléphone]
+E-mail : [Insérer Adresse E-mail]
+
+Compte Source :
+Numéro de Compte : [Insérer Numéro du Compte Source]
+Type de Compte : [Insérer Type de Compte (ex: Compte Courant, Compte Épargne)]
+Agence d'Origine : [Insérer Nom de l'Agence d'Origine]
+
+Compte Destination :
+Numéro de Compte : [Insérer Numéro du Compte Destination]
+Type de Compte : [Insérer Type de Compte (ex: Compte Courant, Compte Épargne)]
+Agence de Destination : [Insérer Nom de l'Agence de Destination]
+
+Montant à Transférer : [Insérer Montant en Dirhams (MAD)]
+Objet du Transfert : [Insérer Motif du Transfert]
+
+Je soussigné(e), [Insérer Nom du Titulaire], demande le transfert du montant susmentionné de mon Compte Source vers mon Compte Destination comme indiqué ci-dessus.
+
+Fait à [Insérer Lieu], le [Insérer Date]
+
+Signature du Titulaire : ___________________
+
+Veuillez traiter cette demande de transfert dans les plus brefs délais. En cas de questions, n'hésitez pas à me contacter aux coordonnées fournies ci-dessus.
+
+Cordialement,
+
+[Signature du Titulaire]
+
+Cette demande de transfert de compte est destinée à être remise à Banque Centrale Populaire, conformément aux règles et procédures en vigueur.

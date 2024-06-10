@@ -1,0 +1,22 @@
+**Banque Centrale Populaire**  
+*A l'attention de [Nom du Titulaire]*  
+*Confirmation d'Ouverture de Compte*
+
+Madame/Monsieur [Titulaire du Compte],
+
+Nous avons le plaisir de vous informer que votre compte bancaire a été ouvert avec succès à la Banque Centrale Populaire, agence [Nom de l'Agence], le [Date d'Ouverture]. Veuillez trouver ci-dessous les détails de votre compte :
+
+- **Nom du Titulaire** : [Prénom Nom]
+- **Numéro de Compte** : XXXX-XXXX-XXXX-XXXX
+- **Date d'Ouverture** : [Date d'Ouverture]
+
+Nous vous remercions de votre confiance envers la Banque Centrale Populaire pour la gestion de vos avoirs financiers. Pour toute question ou demande d'information supplémentaire, n'hésitez pas à contacter votre conseiller attitré à l'agence [Nom de l'Agence].
+
+Nous vous prions d'agréer, Madame/Monsieur [Titulaire du Compte], l'expression de nos salutations distinguées.
+
+Cordialement,
+
+[Signature du Responsable de l'Agence]  
+[Nom du Responsable de l'Agence]  
+[Poste du Responsable de l'Agence]  
+Banque Centrale Populaire

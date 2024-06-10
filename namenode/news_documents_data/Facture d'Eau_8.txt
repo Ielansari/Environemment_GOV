@@ -1,0 +1,18 @@
+Facture d'Eau
+
+Date: 15 septembre 2022
+
+Nom du Titulaire: Fatima Zahra El Kadi
+Adresse: 27 Rue Yacoub El Mansour, Rabat, Maroc
+Numéro de Compte: BCP-123456789
+Référence de Paiement: 98765432
+
+Détails de la Consommation:
+- Consommation d'Eau: 12 mètres cubes
+- Frais d'Assainissement: 50 MAD
+
+Montant Total à Payer: 302 MAD
+
+Veuillez régler cette facture avant la date d'échéance pour éviter tout désagrément. Pour tout renseignement complémentaire, n'hésitez pas à contacter notre service clientèle au 080 100 10 20.
+
+Merci de votre confiance envers Banque Centrale Populaire.

@@ -1,0 +1,25 @@
+Validation de Modification de Domiciliation Bancaire
+
+Beneficiaire: M. Ahmed Benjelloun
+
+Ancienne Domiciliation:
+- Banque: Banque Marocaine du Commerce et de l'Industrie (BMCI)
+- Agence: Agence Casablanca Anfa
+- RIB: 030 780001234567890234 55
+
+Nouvelle Domiciliation:
+- Banque: Banque Centrale Populaire (BCP)
+- Agence: Agence Casablanca Maarif
+- RIB: 030 194001234567890234 88
+
+Date: 15 juin 2023
+
+Nous vous confirmons par la présente la validation de la modification de la domiciliation bancaire de M. Ahmed Benjelloun, suite à sa demande datée du 10 juin 2023. La domiciliation bancaire a été changée de la Banque Marocaine du Commerce et de l'Industrie (BMCI) à la Banque Centrale Populaire (BCP).
+
+Veuillez prendre note de ces nouveaux détails bancaires pour toute transaction future avec M. Benjelloun. Cette modification prend effet à partir de la date mentionnée ci-dessus.
+
+Pour toute question ou information supplémentaire, n'hésitez pas à nous contacter au 080 100 1100.
+
+Cordialement,
+
+Banque Centrale Populaire

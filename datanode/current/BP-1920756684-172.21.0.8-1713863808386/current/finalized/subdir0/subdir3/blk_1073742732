@@ -1,0 +1,50 @@
+12022-01-03Retrait dargent non effectue dans le distributeur automatiqueEn attente de traitement\N
+22022-01-06Erreur de montant lors du virement bancaireEn cours dexamen\N
+32022-01-10Paiement par carte refuse sans raison apparenteEn attente de reponse\N
+42022-01-15Frais bancaires excessifs facturesEn cours de validation\N
+52022-01-20Probleme de connexion a lapplication mobileEn attente de traitement\N
+62022-01-25Carte bancaire avalee par un distributeurEn cours dinvestigation\N
+72022-01-28Delai de traitement dun cheque trop longEn attente de reponse\N
+82022-02-02Probleme dauthentification sur le site web de la banqueEn cours de correction\N
+92022-02-06Demande de decouvert non prise en compteEn attente de traitement\N
+102022-02-10Paiement par cheque annule mais montant debiteEn cours dexamen\N
+112022-02-15Taux de change non conforme a celui du marcheEn attente de reponse\N
+122022-02-20Incident de paiement par NFC en magasinEn cours de validation\N
+132022-02-25Retard dans lexecution dun virement internationalEn attente de traitement\N
+142022-02-28Acces au compte bloque sans justificationEn cours dinvestigation\N
+152022-03-05Incoherence entre les transactions affichees et les operations reellesEn attente de reponse\N
+162022-03-10Probleme de versement dun cheque par un tiersEn cours de correction\N
+172022-03-15Erreur de plafond de retrait au distributeurEn attente de traitement\N
+182022-03-20Declaration de perte de carte non prise en compteEn cours dexamen\N
+192022-03-25Fuite de donnees personnelles par lapplication mobileEn attente de reponse\N
+202022-03-28Retrait despeces non distribuees au guichet automatiqueEn cours de validation\N
+212022-04-02Double debit sur un paiement par carte en ligneEn attente de traitement\N
+222022-04-06Absence de confirmation de virement interneEn cours dinvestigation\N
+232022-04-10Changement de mot de passe non pris en compteEn attente de reponse\N
+242022-04-15Blocage de carte suite a voyage a letranger mal interpreteEn cours de correction\N
+252022-04-20Ouverture de compte non finalisee malgre documents fournisEn attente de traitement\N
+262022-04-25Paiement par cheque refuse pour signature non conformeEn cours dexamen\N
+272022-04-28Probleme de qualite de service lors dun appel au service clientEn attente de reponse\N
+282022-05-02Debit frauduleux sur carte bancaire sans alerte de securiteEn cours de validation\N
+292022-05-06Erreur dadresse de livraison pour un chequierEn attente de traitement\N
+302022-05-10Incident de paiement avec un commercant en ligneEn cours dinvestigation\N
+312022-05-15Modification non autorisee des plafonds de la carte bancaireEn attente de reponse\N
+322022-05-20Probleme de disponibilite des fonds a letrangerEn cours de correction\N
+332022-05-25Retard dans la mise en place dun prelevement automatiqueEn attente de traitement\N
+342022-05-28Changement dadresse non pris en compte pour envoi de chequierEn cours dexamen\N
+352022-06-02Paiement par carte debite deux fois lors dun achatEn attente de reponse\N
+362022-06-06Situation de decouvert non notifiee malgre accord prealableEn cours de validation\N
+372022-06-10Probleme de reconnaissance dempreinte digitale sur lapplication mobileEn attente de traitement\N
+382022-06-15Erreur de montant credite lors dun depot de chequeEn cours dinvestigation\N
+392022-06-20Absence dalerte de depassement dun seuil de virement automatiqueEn attente de reponse\N
+402022-06-25Retard de reception de carte de paiement suite a demande durgenceEn cours de correction\N
+412022-06-28Probleme de configuration de lapplication de paiement mobileEn attente de traitement\N
+422022-07-02Erreur dinscription de beneficiaire pour un virementEn cours dexamen\N
+432022-07-06Rejet de prelevement automatique sans motif expliciteEn attente de reponse\N
+442022-07-10Suspicion de fraude sur le compte suite a des operations suspectesEn cours de validation\N
+452022-07-15Inaccessibilite au service en ligne pendant plusieurs heuresEn attente de traitement\N
+462022-07-20Changement de numero de telephone non valide pour alertes SMSEn cours dinvestigation\N
+472022-07-25Probleme de remboursement sur une operation annuleeEn attente de reponse\N
+482022-07-28Modification non enregistree des coordonnees pour lenvoi de relevesEn cours de correction\N
+492022-08-02Probleme de reconnaissance faciale pour validation de paiement en ligneEn attente de traitement\N
+502022-08-06Depot despeces non credite sur le compte immediatementEn cours dexamen\N

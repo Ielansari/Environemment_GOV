@@ -1,0 +1,32 @@
+Facture de Vente Immobilière
+
+Numéro de Facture: FVI2022/BCP/001
+Date: 10 mars 2022
+
+Vendeur:
+Nom du Vendeur: Rachid Benali
+Adresse: Avenue Mohammed V, Casablanca, Maroc
+
+Acheteur:
+Nom de l'Acheteur: Leila Mansouri
+Adresse: Rue Ibn Toumert, Rabat, Maroc
+
+Propriété Vendue:
+Adresse de la Propriété: Villa Oasis, Quartier des Jardins, Marrakech, Maroc
+
+Détails de la Transaction:
+Prix de Vente: 2 500 000 MAD
+Mode de Paiement: Virement Bancaire
+Date de la Vente: 8 mars 2022
+Montant Payé: 20% à la Signature de l'Acte
+
+Conditions de Paiement:
+- 20% à la Signature de l'Acte de Vente: 500 000 MAD
+- 30% dans un Délai de 30 Jours: 750 000 MAD
+- Solde Restant à Régler à la Signature de l'Acte Authentique chez le Notaire
+
+Nous vous remercions pour votre confiance. En cas de questions supplémentaires, n'hésitez pas à contacter notre agence Banque Centrale Populaire la plus proche.
+
+Signature,
+Rachid Benali
+Directeur Commercial - Immobilier BCP

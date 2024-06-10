@@ -1,0 +1,40 @@
+Contrat de Service
+
+Entre les parties suivantes :
+
+Banque Centrale Populaire, dont le siège social est situé à Rabat, représentée par son directeur général, M. Karim El Kadiri, ci-après dénommée le "Client",
+
+Et
+
+Fournisseur de Services SARL, inscrite au registre du commerce sous le numéro 123456, représentée par Mme Leila Benjelloun en sa qualité de gérante, ci-après dénommée le "Fournisseur",
+
+Il a été convenu ce qui suit :
+
+**Objet du Contrat**
+Le Fournisseur s'engage à fournir les services suivants à la Banque Centrale Populaire :
+- Audit annuel de sécurité informatique
+- Maintenance des équipements bancaires
+- Service de conseil en transformation digitale
+
+**Prix**
+Pour les services susmentionnés, le Client s'engage à payer au Fournisseur la somme de 50 000 MAD par mois, payable à la fin de chaque trimestre.
+
+**Date**
+Le présent contrat entrera en vigueur à compter du 1er janvier 2022 et restera en vigueur pour une durée de 12 mois.
+
+**Durée**
+Ce contrat est conclu pour une durée de 12 mois à compter de la date d'entrée en vigueur. À la fin de cette période, le contrat pourra être renouvelé par consentement mutuel des deux parties.
+
+Fait en double exemplaire à Rabat, le 15 décembre 2021, en langue française.
+
+Pour le Client, 
+
+Karim El Kadiri
+
+Directeur Général de Banque Centrale Populaire
+
+Pour le Fournisseur,
+
+Leila Benjelloun
+
+Gérante de Fournisseur de Services SARL

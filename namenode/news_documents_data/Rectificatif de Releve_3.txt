@@ -1,0 +1,38 @@
+RECTIFICATIF DE RELEVÉ
+
+Banque Centrale Populaire
+Agence de [Nom de l'Agence]
+Adresse de l'Agence
+Téléphone de l'Agence
+
+Rectificatif N°: [Numéro du Rectificatif]
+Date: [Date du Rectificatif]
+
+Madame/Monsieur [Nom du Titulaire],
+
+Suite à une erreur administrative, nous vous contactons pour vous présenter les rectifications apportées à votre relevé de compte.
+
+Numéro de Compte: [Numéro de Compte]
+
+Relevé Initial:
+Solde Antérieur: [Montant du Solde Antérieur]
+Entrées: [Montant des Entrées]
+Sorties: [Montant des Sorties]
+Nouveau Solde: [Nouveau Solde]
+
+Modifications apportées:
+- Réévaluation du Solde Antérieur suite à une erreur de saisie.
+- Correction du montant des Entrées en raison d'un virement manquant.
+- Mise à jour du montant des Sorties pour refléter les opérations réellement effectuées.
+- Recalcul du Nouveau Solde en conséquence des corrections précédentes.
+
+Nous nous excusons pour tout inconvénient que cela aurait pu causer et vous assurons que toutes les mesures nécessaires ont été prises pour éviter de telles erreurs à l'avenir.
+
+Veuillez vérifier les informations ci-dessus et nous contacter immédiatement si vous constatez la moindre anomalie.
+
+Veuillez agréer, Madame/Monsieur [Nom du Titulaire], l'expression de nos salutations distinguées.
+
+Signature de l'Agence
+Timbre de l'Agence
+
+Note: Ce document n'a aucune valeur fiscale.

@@ -1,0 +1,32 @@
+Facture de Vente Immobilière
+Banque Centrale Populaire - Succursale Casablanca
+
+Numéro de Facture: BCP-2022-001
+Date: 15 février 2022
+
+Nom du Vendeur: Fatima Zahra El Amrani
+Adresse: 28 Rue Al Farabi, Oasis, Casablanca, Maroc
+Numéro de Téléphone: +212 6 12 34 56 78
+Adresse Email: fatima.elamrani@example.com
+
+Nom de l'Acheteur: Mehdi Benjelloun
+Adresse: 7 Rue des Roses, Anfa, Casablanca, Maroc
+Numéro de Téléphone: +212 6 98 76 54 32
+Adresse Email: mehdi.benjelloun@example.com
+
+Adresse de la Propriété: Villa Yasmine, Quartier Californie, Casablanca, Maroc
+Surface: 300 m²
+Nombre de Chambres: 4
+Nombre de Salles de Bain: 3
+
+Prix de Vente: 5 000 000 MAD
+Mode de Paiement: Virement Bancaire
+IBAN du Vendeur: MA64 3421 2354 6789 2134 5321
+IBAN de l'Acheteur: MA64 0986 7564 3210 1111 2233
+
+Conditions de Paiement: Un acompte de 30% du prix de vente a été versé le jour de la signature du contrat de vente, le solde sera réglé dans un délai de 30 jours à compter de la date de signature de l'acte de vente définitif.
+
+Date de la Vente: 10 février 2022
+Date de Paiement du Solde: 12 mars 2022
+
+Cette facture est conforme à la transaction immobilière effectuée entre Fatima Zahra El Amrani et Mehdi Benjelloun pour la propriété située à Casablanca. Pour toute information complémentaire, veuillez contacter notre service client au +212 5 22 33 44 55.

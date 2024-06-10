@@ -1,0 +1,38 @@
+**Fiche de Paie**
+
+- **Employé:** Fatima Zahra Alaoui
+- **Poste:** Conseillère Financière
+- **Mois:** Mai 2022
+- **Matricule:** 1234567
+
+| Intitulé              | Montant (MAD)        |
+|-----------------------|----------------------:|
+| Salaire de Base       | 15,000               |
+| Heures Supplémentaires| 1,000                |
+| Avantages en Nature   | 500                  |
+| Prime Exceptionnelle  | 3,000                |
+| Total des Gains       | 19,500               |
+| Déductions            |                      |
+| CNSS                  | 1,500                |
+| IR                    | 2,000                |
+| Autres                | 500                  |
+| Total des Déductions  | 4,000                |
+| Net à Payer           | 15,500               |
+
+**Mode de Paiement:** Virement Bancaire
+
+**Récapitulatif des Heures Supplémentaires:**
+
+- Semaine 1: 5 heures
+- Semaine 2: 7 heures
+- Semaine 3: 8 heures
+- Semaine 4: 5 heures
+
+**Note:** Les heures supplémentaires sont payées au taux de 100 MAD par heure.
+
+Cette fiche de paie est conforme aux informations déclarées et est sujette à vérification. En cas de question ou de réclamation, veuillez contacter le service des Ressources Humaines de Banque Centrale Populaire.
+
+Fait à Rabat, le 31 Mai 2022
+
+Signature:  
+[Signature Électronique]

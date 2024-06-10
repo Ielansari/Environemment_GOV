@@ -1,0 +1,19 @@
+<center> **Etat de Stock de Banque Centrale Populaire - Mars 2022** </center>
+
+| Date       | Titres détenus | Prix d'Achat (MAD) | Valeur Actuelle (MAD) |
+|------------|----------------|--------------------|------------------------|
+| 02/03/2022 | 300            | 250,000            | 280,000                |
+| 10/03/2022 | 500            | 400,000            | 460,000                |
+| 18/03/2022 | 200            | 180,000            | 220,000                |
+| 26/03/2022 | 450            | 350,000            | 400,000                |
+
+Dans le tableau ci-dessus, vous trouverez l'état des stocks de titres détenus par la Banque Centrale Populaire au cours du mois de Mars 2022.
+
+- Le **2 Mars 2022**, la banque détenait **300** titres, acquis au prix d'achat de **250,000 MAD**. La valeur actuelle de ces titres est de **280,000 MAD**.
+- Le **10 Mars 2022**, la banque a acquis **500** nouveaux titres au prix d'achat de **400,000 MAD**, et leur valeur actuelle est de **460,000 MAD**.
+- Le **18 Mars 2022**, la banque a acquis **200** titres supplémentaires au prix d'achat de **180,000 MAD**. Ces titres ont une valeur actuelle de **220,000 MAD**.
+- Enfin, le **26 Mars 2022**, la Banque Centrale Populaire a acquis **450** nouveaux titres au prix d'achat de **350,000 MAD**, et leur valeur actuelle est de **400,000 MAD**.
+
+Cet état de stock vous permet de visualiser l'évolution des titres détenus par la banque au cours du mois de Mars 2022, mettant en évidence les prix d'achat et les valeurs actuelles associées à ces titres.
+
+Pour plus d'informations ou pour des requêtes spécifiques concernant les stocks de la Banque Centrale Populaire, n'hésitez pas à contacter notre service financier.

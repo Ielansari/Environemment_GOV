@@ -1,0 +1,30 @@
+Notification de Prélèvement
+
+Banque Centrale Populaire - Maroc
+
+Numéro de Compte: 12345678901234567
+
+Madame/Monsieur Titulaire: Fatima Zahra EL MOUSTAPHA
+
+Adresse: 15 Rue Mohammed V, Rabat
+
+Code Postal: 10000
+
+Montant prélevé: 500,00 MAD
+
+Date de Prélèvement: 15 mai 2023
+
+Chère Madame, Cher Monsieur,
+
+Nous vous informons que le montant de 500,00 MAD sera prélevé de votre compte bancaire numéro 12345678901234567 le 15 mai 2023. Ce prélèvement concerne le paiement d'une facture pour notre service de gestion de compte.
+
+Veuillez vous assurer que le solde de votre compte est suffisant pour effectuer ce prélèvement. En cas de fonds insuffisants, des frais de rejet pourraient vous être facturés.
+
+Pour toute question ou réclamation concernant ce prélèvement, n'hésitez pas à contacter notre service clientèle au 0801 00 1234.
+
+Nous vous remercions pour votre confiance en Banque Centrale Populaire.
+
+Cordialement,
+
+Le Service de Facturation
+Banque Centrale Populaire - Maroc

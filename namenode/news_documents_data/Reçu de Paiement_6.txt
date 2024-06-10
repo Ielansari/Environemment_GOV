@@ -1,0 +1,25 @@
+# Banque Centrale Populaire - Reçu de Paiement
+
+---
+
+| Nom du Bénéficiaire      | Montant    | Date         | Référence de Transaction |
+|---------------------------|------------|--------------|---------------------------|
+| Fatima Zidane             | 5,000 MAD  | 15/07/2023   | BCP123456789             |
+
+---
+
+Reçu de Paiement
+
+Date: 15 Juillet 2023
+
+Nous soussignés, Banque Centrale Populaire, attestons par la présente que le montant de 5,000 MAD a été payé à Mme. Fatima Zidane le 15 Juillet 2023, en référence à la transaction BCP123456789.
+
+Fait à Rabat, le 15 Juillet 2023.
+
+---
+
+Ce document est une preuve de paiement authentique émis par Banque Centrale Populaire.
+
+---
+
+This document is a proof of payment issued by Banque Centrale Populaire.

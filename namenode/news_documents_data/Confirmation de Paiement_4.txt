@@ -1,0 +1,35 @@
+**Banque Centrale Populaire**
+
+**Confirmation de Paiement**
+
+**Référence de Transaction :** 8274619
+
+**Nom du Titulaire :** Ahmed Zidane
+
+**Montant :** 5000 MAD
+
+**Date :** 15 avril 2023
+
+**Mode de Paiement :** Virement bancaire
+
+---
+
+Cher Monsieur Zidane,
+
+Nous vous confirmons par la présente la bonne réception du paiement d'un montant de 5000 MAD, effectué par virement bancaire le 15 avril 2023. La transaction a été traitée avec succès et la somme a été créditée sur votre compte Banque Centrale Populaire.
+
+Ci-dessous les détails de la transaction :
+
+- Nom du Titulaire : Ahmed Zidane
+- Montant : 5000 MAD
+- Date : 15 avril 2023
+- Mode de Paiement : Virement bancaire
+- Référence de Transaction : 8274619
+
+Cette confirmation de paiement atteste de la réalisation de l'opération financière susmentionnée. Veuillez conserver ce document pour toute référence future et n'hésitez pas à contacter notre service clientèle pour toute question supplémentaire.
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire.
+
+Cordialement,
+
+Banque Centrale Populaire

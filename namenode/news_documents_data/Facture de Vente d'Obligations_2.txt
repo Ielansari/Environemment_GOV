@@ -1,0 +1,37 @@
+Facture de Vente d'Obligations
+
+Date: 15 mars 2023
+
+Nom du Vendeur: Amine Rahmouni
+Adresse: Avenue Moulay Ismail, Rabat, Maroc
+N° CIN: AB123456
+N° de compte: 12345678901234567890
+
+Acheteur: Banque Centrale Populaire
+Adresse: Avenue Hassan II, Casablanca, Maroc
+N° RC: 123456789
+N° de compte: 09876543210987654321
+
+Détails de la Vente:
+Obligations vendues: Obligations d'État (série A)
+Montant des Obligations: 100,000 MAD
+Prix unitaire: 100 MAD
+Montant total: 10,000,000 MAD
+
+Montant total à payer: 10,000,000 MAD
+
+Conditions de Paiement:
+Le paiement sera effectué par virement bancaire dans un délai de 30 jours à compter de la date de réception de la facture. Les informations bancaires pour le virement sont les suivantes:
+
+Banque du Vendeur: Banque Marocaine du Commerce Extérieur
+N° de compte: 54321678901234567890
+IBAN: MA123456789012345678901234
+Code BIC/SWIFT: BMCEMAMC
+
+Nous vous remercions pour votre confiance et restons à votre disposition pour toute information complémentaire.
+
+Veuillez agréer, Monsieur le Directeur, l'expression de nos salutations distinguées.
+
+Amine Rahmouni
+Directeur des Ventes
+Banque Marocaine du Commerce Extérieur

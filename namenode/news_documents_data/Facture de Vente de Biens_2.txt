@@ -1,0 +1,31 @@
+Facture de Vente de Biens
+N° de Facture: FVB2022001
+
+Date: 12 avril 2022
+
+Nom du Vendeur: Banque Centrale Populaire
+Adresse: Angle Avenue des F.A.R et Avenue Mehdi Ben Barka, Rabat, Maroc
+
+Nom de l'Acheteur: Ahmed Zouhair
+Adresse: 55 Rue Mohammed V, Casablanca, Maroc
+
+Détails de la Vente:
+- Description des Biens: Services bancaires divers
+- Quantité: 1
+- Prix de Vente: 500,00 MAD
+
+Total: 500,00 MAD
+
+Nous certifions que la présente facture correspond à une vente de biens effectuée par Banque Centrale Populaire à M. Ahmed Zouhair le 12 avril 2022.
+
+Signature du Vendeur: 
+Banque Centrale Populaire
+
+Cette facture est conforme pour tout règlement effectué par virement bancaire à l'ordre de Banque Centrale Populaire sur le compte suivant:
+IBAN: MA1234567890123456789012
+
+Nous vous remercions pour votre confiance et restons à votre disposition pour toute demande d'information complémentaire.
+
+Fait à Rabat, le 12 avril 2022
+
+Cachet de la Banque Centrale Populaire

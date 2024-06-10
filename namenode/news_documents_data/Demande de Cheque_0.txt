@@ -1,0 +1,21 @@
+Banque Centrale Populaire
+Agence Centrale Rabat
+
+Demande de Chèque
+
+Je soussigné(e) [Nom du Titulaire]: Fatima Zahra Benmoussa
+demeurant à [Adresse]: 22 Avenue Mohammed V, Rabat
+Numéro de téléphone: 06 12 34 56 78
+Code Client: 123456789
+
+Demande un chèque bancaire d'un montant de [Montant]: 5000 MAD (Cinq mille dirhams)
+au profit de [Bénéficiaire]: Association Amane pour l'Education
+Pour le règlement de [Motif]: Cotisation annuelle
+
+La date à laquelle ce chèque doit être émis est le [Date]: 15 mai 2023.
+
+Fait à Rabat, le 3 avril 2023
+
+Signature du Titulaire : [Signature]
+
+Ce chèque devra être retiré auprès de l'Agence Centrale de la Banque Centrale Populaire à Rabat dans un délai de quinze jours à compter de la date d'émission. En cas de non-retour du chèque dans ce délai, il sera annulé et les fonds seront reversés sur le compte du titulaire.

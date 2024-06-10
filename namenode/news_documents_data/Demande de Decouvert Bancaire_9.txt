@@ -1,0 +1,33 @@
+Banque Centrale Populaire
+Agence [Nom de l'agence] 
+Adresse: [Adresse de l'agence] 
+Tél: [Numéro de téléphone]
+
+Demande de Découvert Bancaire
+
+Client: [Nom du Titulaire] 
+Numéro de Compte: [Numéro de Compte] 
+Montant du Découvert souhaité: [Montant du Découvert souhaité] MAD 
+Date: [Date du jour]
+
+Objet: Demande de Découvert Bancaire
+
+Madame, Monsieur,
+
+Par la présente, je soussigné(e) [Nom du Titulaire], titulaire du compte bancaire numéro [Numéro de Compte] auprès de votre établissement, sollicite auprès de vos services la mise en place d'un découvert bancaire d'un montant de [Montant du Découvert souhaité] MAD.
+
+La raison de ma demande est [Raison].
+
+Je m'engage à respecter les conditions et modalités liées à cette autorisation de découvert, et à régulariser ma situation dans les meilleurs délais.
+
+Je reste à votre entière disposition pour tout complément d'information que vous jugerez nécessaire.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Fait à [Lieu], le [Date du jour]
+
+Signature
+
+Pièces jointes:
+- Copie CIN
+- Justificatif de revenus

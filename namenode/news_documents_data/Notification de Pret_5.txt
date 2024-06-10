@@ -1,0 +1,18 @@
+Notification de Prêt
+
+Cher client,
+
+Nous avons le plaisir de vous informer que votre demande de prêt a été approuvée par Banque Centrale Populaire. Vous trouverez ci-dessous les détails du prêt accordé :
+
+Nom du Titulaire : Fatima BENSAID
+Montant du Prêt : 100 000 MAD
+Taux d'Intérêt : 5%
+Plan de Remboursement : Le prêt sera remboursé en 60 mensualités de 1 750 MAD chacune, démarrant le 1er avril 2023. Le premier paiement est dû un mois après la date d'octroi du prêt.
+
+Veuillez noter que le prêt est soumis à certaines conditions et que vous devrez fournir les garanties nécessaires conformément à la politique de crédit de la banque. Pour toute information complémentaire, n'hésitez pas à contacter votre conseiller financier attitré.
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire pour vos besoins financiers. Nous restons à votre disposition pour toute assistance supplémentaire.
+
+Cordialement,
+
+Banque Centrale Populaire

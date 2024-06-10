@@ -1,0 +1,26 @@
+Confirmation de Débit
+
+Client: Monsieur Ahmed Benji
+Numéro de compte: 12345678901234567
+
+Cher Monsieur Benji,
+
+Nous vous confirmons par la présente la débit de votre compte bancaire à la Banque Centrale Populaire du montant de 5000 MAD (Cinq mille dirhams) en date du 15 juin 2021.
+
+Détails de la transaction :
+- Nom du Titulaire: Ahmed Benji
+- Montant: 5000 MAD
+- Date: 15 juin 2021
+- Mode de Paiement: Virement Bancaire
+- Référence de Transaction: TRX789456123
+
+Cette transaction a été effectuée conformément à vos instructions et sera reflétée dans votre relevé de compte mensuel. Nous vous remercions de votre confiance envers la Banque Centrale Populaire pour la gestion de vos services bancaires.
+
+Si vous avez des questions ou si vous souhaitez plus d'informations sur cette transaction, n'hésitez pas à contacter notre service clientèle au 080 100 8000.
+
+Nous vous remercions pour votre confiance et vous prions d'agréer, Monsieur Benji, l'expression de nos salutations distinguées.
+
+Cordialement,
+
+Signature
+Banque Centrale Populaire, Maroc

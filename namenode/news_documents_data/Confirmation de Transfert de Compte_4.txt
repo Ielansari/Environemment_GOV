@@ -1,0 +1,23 @@
+Banque Centrale Populaire
+Rabat, Maroc
+
+Confirmation de Transfert de Compte
+
+Date: [Date]
+
+Cher client,
+
+Nous vous confirmons par la présente que le transfert de compte a été effectué avec succès selon les détails suivants:
+
+Nom du Titulaire: Fatima Ben Mansour
+Compte Source: 12345678910
+Compte Destination: 9876543210
+
+Veuillez garder cette confirmation pour vos dossiers personnels. Si vous avez des questions ou avez besoin de plus d'informations, n'hésitez pas à contacter notre service clientèle au 080 100 00 80.
+
+Banque Centrale Populaire vous remercie pour votre confiance.
+
+Cordialement,
+
+[Signature]
+Banque Centrale Populaire

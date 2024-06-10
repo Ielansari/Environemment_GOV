@@ -1,0 +1,21 @@
+**Demande de Carte d'Identité Bancaire**
+
+Madame/Monsieur,
+
+Je soussigné(e) [Nom du Titulaire], titulaire du compte bancaire numéro [Numéro de Compte] auprès de la Banque Centrale Populaire, souhaite par la présente formuler une demande de carte d'identité bancaire.
+
+Ci-dessous les informations nécessaires pour traiter ma demande :
+
+- Nom du Titulaire : [Nom du Titulaire]
+- Numéro de Compte : [Numéro de Compte]
+- Adresse : [Adresse]
+
+Je vous prie de bien vouloir prendre en considération ma demande et de m'informer des étapes à suivre pour l'obtention de la carte d'identité bancaire. 
+
+Je reste à votre disposition pour toute information complémentaire et vous prie d'agréer, Madame/Monsieur, l'expression de mes salutations distinguées.
+
+Fait à [Ville], le [Date]
+
+Signature, 
+
+[Nom du Titulaire]

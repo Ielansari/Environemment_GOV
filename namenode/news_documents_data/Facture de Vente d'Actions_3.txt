@@ -1,0 +1,33 @@
+Facture de Vente d'Actions
+
+Numéro de Facture: 123456
+Date: 15 Septembre 2023
+
+Banque Centrale Populaire
+
+Nom du Vendeur: Ahmed Benali
+Adresse: 12 Rue des Palmiers, Casablanca, Maroc
+Numéro de Téléphone: +212 600 123 456
+Email: ahmed.benali@bcp.ma
+
+Acheteur: Leila Mansouri
+Adresse: 8 Rue des Roses, Rabat, Maroc
+Numéro de Téléphone: +212 600 789 123
+Email: leila.mansouri@gmail.com
+
+Détails de la transaction:
+
+Actions Vendues: 100 actions Banque Centrale Populaire
+Prix par Action: 500 MAD
+Total: 50,000 MAD
+
+Mode de Paiement: Virement Bancaire
+Date de Paiement: 16 Septembre 2023
+
+Merci d’avoir choisi Banque Centrale Populaire pour vos transactions d'actions. Pour toute question ou information supplémentaire, veuillez contacter notre service clientèle au +212 800 456 789.
+
+Veuillez régler la facture avant la date de paiement indiquée pour finaliser la transaction.
+
+Cordialement,
+
+Banque Centrale Populaire

@@ -1,0 +1,41 @@
+                                    Facture de Téléphone
+
+Numéro de Téléphone: 0665123456
+Appels:
+- 18 appels vers des numéros locaux
+- 5 appels vers des numéros internationaux
+Date: 15 Février 2022
+Montant: 268,50 MAD
+
+Détails des appels:
+1. Appel local n°1: Durée - 12 minutes / Coût - 9 MAD
+2. Appel local n°2: Durée - 8 minutes / Coût - 6 MAD
+3. Appel local n°3: Durée - 15 minutes / Coût - 11,25 MAD
+4. Appel local n°4: Durée - 10 minutes / Coût - 7,50 MAD
+5. Appel local n°5: Durée - 7 minutes / Coût - 5,25 MAD
+6. Appel local n°6: Durée - 4 minutes / Coût - 3 MAD
+7. Appel local n°7: Durée - 20 minutes / Coût - 15 MAD
+8. Appel local n°8: Durée - 11 minutes / Coût - 8,25 MAD
+9. Appel local n°9: Durée - 6 minutes / Coût - 4,50 MAD
+10. Appel local n°10: Durée - 13 minutes / Coût - 9,75 MAD
+11. Appel local n°11: Durée - 9 minutes / Coût - 6,75 MAD
+12. Appel local n°12: Durée - 5 minutes / Coût - 3,75 MAD
+13. Appel local n°13: Durée - 14 minutes / Coût - 10,50 MAD
+14. Appel local n°14: Durée - 8 minutes / Coût - 6 MAD
+15. Appel local n°15: Durée - 10 minutes / Coût - 7,50 MAD
+16. Appel local n°16: Durée - 16 minutes / Coût - 12 MAD
+17. Appel local n°17: Durée - 6 minutes / Coût - 4,50 MAD
+18. Appel local n°18: Durée - 8 minutes / Coût - 6 MAD
+19. Appel international n°1: Durée - 20 minutes / Coût - 50 MAD
+20. Appel international n°2: Durée - 15 minutes / Coût - 37,50 MAD
+21. Appel international n°3: Durée - 25 minutes / Coût - 62,50 MAD
+22. Appel international n°4: Durée - 10 minutes / Coût - 25 MAD
+23. Appel international n°5: Durée - 30 minutes / Coût - 75 MAD
+
+Total Appels Locaux: 123,75 MAD
+Total Appels Internationaux: 250,00 MAD
+Montant Total: 373,75 MAD
+
+Merci de régler cette facture avant le 28 Février 2022 pour éviter d'éventuelles pénalités. En cas de besoin, n'hésitez pas à contacter notre service clientèle au 0801-234-567.
+
+Banque Centrale Populaire - Votre partenaire de confiance pour vos services bancaires.

@@ -1,0 +1,29 @@
+Bilan Comptable de Banque Centrale Populaire
+
+Nom de l'Entreprise: Banque Centrale Populaire
+Date: 31 décembre 2021
+
+ACTIFS:
+- Liquidités: 500 000 000 MAD
+- Prêts et avances à la clientèle: 4 500 000 000 MAD
+- Titres de placement: 1 200 000 000 MAD
+- Immobilisations corporelles: 1 000 000 000 MAD
+- Autres actifs: 300 000 000 MAD
+TOTAL DES ACTIFS: 7 500 000 000 MAD
+
+PASSIFS:
+- Dépôts de la clientèle: 6 000 000 000 MAD
+- Emprunts et dettes financières: 800 000 000 MAD
+- Provisions: 300 000 000 MAD
+- Autres passifs: 200 000 000 MAD
+TOTAL DES PASSIFS: 7 300 000 000 MAD
+
+CAPITAL PROPRE:
+- Capital social: 500 000 000 MAD
+- Réserves: 200 000 000 MAD
+- Résultat net de l'exercice: 500 000 000 MAD
+TOTAL DU CAPITAL PROPRE: 1 200 000 000 MAD
+
+Ce bilan comptable reflète la situation financière de Banque Centrale Populaire à la fin de l'année 2021. Les actifs s'élèvent à 7,5 milliards de dirhams, principalement composés de liquidités, prêts et titres de placement. Les passifs totalisent 7,3 milliards de dirhams, dont la majorité est représentée par les dépôts de la clientèle. Le capital propre de la banque atteint 1,2 milliard de dirhams, démontrant une situation financière solide et un niveau acceptable de fonds propres.
+
+Ce bilan montre l'engagement de Banque Centrale Populaire à maintenir une structure financière saine et équilibrée, garantissant sa stabilité et sa pérennité sur le marché bancaire marocain.

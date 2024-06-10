@@ -1,0 +1,25 @@
+**Banque Centrale Populaire - Confirmation de Débit**
+
+**Date**: 19 Juillet 2023
+
+**Confirmation de Débit N°**: 9876543210
+
+Le présent document atteste que le compte bancaire suivant a été débité pour les détails spécifiés ci-dessous :
+
+- **Nom du Titulaire**: M. Ahmed Benhaddou
+- **Montant**: 8500 MAD
+- **Date de Débit**: 16 Juillet 2023
+- **Mode de Paiement**: Virement Bancaire
+- **Référence de Transaction**: BCP123456789
+
+**Détails de la Transaction**:
+
+Le montant de 8500 MAD a été débité du compte de M. Ahmed Benhaddou le 16 Juillet 2023 via un virement bancaire. La référence de transaction associée à cette opération est BCP123456789. Ces frais correspondent à des frais de gestion de compte conformément à la tarification en vigueur de la Banque Centrale Populaire.
+
+Pour toute question ou demande de clarification concernant cette opération, veuillez contacter notre service clientèle au 080 100 8000.
+
+Veuillez agréer, M. Benhaddou, l'expression de nos salutations distinguées.
+
+*Banque Centrale Populaire*
+
+[Signature]

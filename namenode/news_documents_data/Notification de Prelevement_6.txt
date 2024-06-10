@@ -1,0 +1,20 @@
+Notification de Prélèvement
+
+Madame/Sieur [Nom du Titulaire],
+
+Nous vous informons par la présente que le montant de [Montant] dirhams sera prélevé de votre compte bancaire numéro [Numéro de Compte] domicilié à la Banque Centrale Populaire le [Date].
+
+En cas de question ou de contestation concernant ce prélèvement, nous vous invitons à contacter notre service clientèle au 080 100 3030.
+
+Veuillez trouver ci-joint les détails du prélèvement :
+
+- Nom du Titulaire : [Nom du Titulaire]
+- Montant : [Montant] MAD
+- Date : [Date]
+- Numéro de Compte : [Numéro de Compte]
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire et restons à votre disposition pour toute information complémentaire.
+
+Cordialement,
+
+Banque Centrale Populaire Morocco

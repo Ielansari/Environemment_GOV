@@ -1,0 +1,26 @@
+Rapport de Fraude
+
+Date: 12 avril 2022
+Type de Fraude: Fraude par faux virement
+Montant Impliqué: 150 000 MAD
+Mesures Prises: Le compte concerné a été gelé et une enquête interne a été ouverte
+
+Cher(e) collègue,
+
+Nous avons récemment identifié une fraude par faux virement impliquant un montant de 150 000 MAD sur un des comptes bancaires de notre agence de Banque Centrale Populaire. La fraude a été signalée le 12 avril 2022 par le département des operations après avoir détecté des transactions suspectes.
+
+Les faux virements étaient destinés à des comptes tiers non autorisés, et les fonds ont été rapidement bloqués pour limiter les pertes. Une enquête interne a été lancée pour identifier les auteurs de cette fraude et prendre des mesures pour renforcer nos systèmes de sécurité.
+
+En attendant les conclusions de l'enquête, le compte concerné a été gelé pour prévenir toute autre tentative de fraude. De plus, des formations supplémentaires sur la cybersécurité et la détection de fraudes seront dispensées à l'ensemble du personnel de l'agence.
+
+Nous vous remercions de votre collaboration et de votre vigilance face à de telles activités frauduleuses. La protection des actifs de nos clients et la sécurisation de nos transactions restent nos priorités absolues.
+
+Pour toute information complémentaire, n'hésitez pas à contacter le département de la conformité de la Banque Centrale Populaire.
+
+Cordialement,
+
+[Signature]
+
+Responsable de la sécurité financière
+
+Banque Centrale Populaire, Maroc

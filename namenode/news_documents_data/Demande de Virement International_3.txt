@@ -1,0 +1,29 @@
+Banque Centrale Populaire
+
+Demande de Virement International
+
+Date: [Date]
+
+Demandeur:
+
+Nom du Titulaire: Fatima Zahra El khalil
+
+Compte Source: 0123456789
+
+Compte Destination: 9876543210
+
+Montant: 5000 EUR
+
+Objet du Virement: [Indiquer l'objet du virement]
+
+Taux de Change Appliqué: [Taux de change utilisé]
+
+Montant en Dirhams (MAD): [Montant en MAD]
+
+Date de Valeur: [Date de valeur]
+
+Merci de procéder à l'exécution de ce virement international dans les meilleurs délais et de me tenir informé(e) dès que l'opération sera effectuée.
+
+Fait à [ville], le [date]
+
+Signature: [Signature]

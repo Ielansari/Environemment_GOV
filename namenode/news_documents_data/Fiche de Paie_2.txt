@@ -1,0 +1,23 @@
+Fiche de Paie
+Banque Centrale Populaire - Mars 2023
+
+Nom de l'Employé: Amine Ait Benali
+Poste: Agent de Service Clientèle
+
+Salaire de Base: 10 000 MAD
+
+Heures Supplémentaires: 5 heures
+Taux Horaire: 50 MAD
+Total Heures Supplémentaires: 250 MAD
+
+Avantages en Nature: 500 MAD
+
+Deductions:
+- CNSS: 800 MAD
+- IR: 1 000 MAD
+
+Total des Deductions: 1 800 MAD
+
+Net à Payer: 8 950 MAD
+
+Cette fiche de paie est établie conformément aux données enregistrées pour le mois de Mars 2023 pour l'employé Amine Ait Benali travaillant en tant qu'Agent de Service Clientèle à la Banque Centrale Populaire. Les heures supplémentaires effectuées ont été calculées avec un taux horaire de 50 MAD et les avantages en nature ont été inclus dans le salaire total. Les déductions obligatoires, telles que la CNSS et l'IR, ont été prélevées pour ce mois-ci. Le montant net à payer s'élève à 8 950 MAD.

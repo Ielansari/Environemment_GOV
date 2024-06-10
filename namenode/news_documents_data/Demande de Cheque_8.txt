@@ -1,0 +1,22 @@
+Demande de Chèque
+
+Madame/Monsieur le Responsable des Services Bancaires,
+
+Je soussigné(e), [Nom du Titulaire], titulaire du compte bancaire n°123456789 auprès de la Banque Centrale Populaire, demande par la présente un chèque bancaire pour un montant de [Montant] dirhams.
+
+Les détails de la transaction sont les suivants :
+
+- [Nom du Titulaire]: [Prénom et Nom du Titulaire]
+- Montant: [Montant en lettres] Dirhams
+- Bénéficiaire: [Nom du Bénéficiaire]
+- Date: [Date de la Demande]
+
+Je vous prie de bien vouloir traiter cette demande dans les plus brefs délais et de débiter mon compte du montant précisé ci-dessus. Je m'engage à être en mesure de couvrir les frais associés à ce chèque.
+
+En vous remerciant de votre compréhension et de votre diligence, veuillez agréer, Madame/Monsieur le Responsable, l'expression de mes salutations distinguées.
+
+Fait à [Ville], le [Date]
+
+Signature,
+
+[Nom du Titulaire]

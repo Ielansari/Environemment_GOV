@@ -1,0 +1,34 @@
+Facture de Vente Immobilière
+
+Numéro de Facture: FVI2022001
+Date: 15 avril 2022
+
+Nom du Vendeur: Rachid Ben Ahmed
+CIN du Vendeur: ABC12345
+
+Nom de l'Acheteur: Fatima Zouhair
+CIN de l'Acheteur: XYZ67890
+
+Adresse de la Propriété: Lotissement Al Maaden, Villa 25, Marrakech, Maroc
+
+Détails de la Propriété:
+- Type: Villa
+- Superficie: 300 m²
+- Chambres: 4
+- Salles de bain: 3
+- Jardin: Oui
+- Piscine: Oui
+
+Prix de Vente: 3,500,000 MAD
+
+Conditions de Paiement:
+- Acompte de 30% payé à la signature du contrat de vente: 1,050,000 MAD
+- Montant restant à payer: 2,450,000 MAD
+- Date limite de paiement du solde: 30 juin 2022
+
+Modalités de Paiement: Le paiement du solde doit être effectué par virement bancaire à la Banque Centrale Populaire, Agence de Marrakech.
+
+Nous vous remercions pour votre confiance en notre banque pour la gestion de cette transaction immobilière. En cas de toute information supplémentaire, n'hésitez pas à nous contacter.
+
+Signature,
+Banque Centrale Populaire

@@ -1,0 +1,19 @@
+**Banque Centrale Populaire - Confirmation de Débit**
+
+Référence de Transaction : 1234567890
+
+Date : 15 juin 2022
+
+Nous confirmons par la présente que le compte de M. Ahmed Benjelloun a été débité comme suit :
+
+- Nom du Titulaire : Ahmed Benjelloun
+- Montant : 1500 MAD
+- Mode de Paiement : Virement bancaire
+
+Veuillez noter que cette transaction a été traitée le 15 juin 2022 via un virement bancaire. La référence de la transaction est : 1234567890.
+
+Pour toute question ou information supplémentaire, n'hésitez pas à contacter notre service clientèle au 080 100 1234.
+
+Cordialement,
+
+Banque Centrale Populaire

@@ -1,0 +1,28 @@
+|-------------------------------- Etat de Stock - Banque Centrale Populaire --------------------------------|
+
+Date: 25 mai 2021
+
+|-----------------------|-----------------|-----------------|------------------|
+| Titres détenus        | Prix d'Achat    | Valeur Actuelle | Variation (%)    |
+|-----------------------|-----------------|-----------------|------------------|
+| Actions BCP           | 1250 MAD        | 1300 MAD        | +4%             |
+| Obligations Etat      | 8000 MAD        | 8250 MAD        | +3.1%           |
+| Fonds Monétaire       | 5000 MAD        | 4950 MAD        | -1%             |
+|-----------------------|-----------------|-----------------|------------------|
+
+Total Portefeuille: 14250 MAD
+Total Variation: +540 MAD
+
+Cet état de stock reflète la situation des titres détenus par Banque Centrale Populaire à la date du 25 mai 2021. Les chiffres présentés sont basés sur des données synthétiques et sont sujets à variation en fonction des fluctuations du marché financier. Les variations des prix sont indiquées en pourcentage par rapport au prix d'achat initial.
+
+Il est important de noter que la valeur actuelle des titres peut évoluer en fonction de divers facteurs tels que les conditions économiques, les décisions politiques et les mouvements du marché. Banque Centrale Populaire surveille de près son portefeuille d'investissement afin de garantir la sécurité et la rentabilité des fonds de ses clients.
+
+Pour toute information complémentaire ou pour des détails spécifiques sur les titres détenus, n'hésitez pas à contacter notre équipe spécialisée en gestion de portefeuille. Banque Centrale Populaire demeure à votre disposition pour toute assistance financière et conseil en investissement.
+
+Nous vous remercions de votre confiance.
+
+Cordialement,
+
+[Signature]
+
+Banque Centrale Populaire, Maroc.

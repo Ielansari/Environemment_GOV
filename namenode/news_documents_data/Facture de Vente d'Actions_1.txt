@@ -1,0 +1,34 @@
+Facture de Vente d'Actions
+
+Numéro de Facture: BCP2022001
+Date: 15 septembre 2022
+
+Vendeur:
+Nom du Vendeur: Hassan Amrani
+Adresse: Rue Hassan II, Casablanca
+Numéro de Téléphone: 06 12 34 56 78
+Identifiant National: ABC123456
+
+Acheteur:
+Nom de l'Acheteur: Leila Berrada
+Adresse: Avenue Mohammed V, Rabat
+Numéro de Téléphone: 06 98 76 54 32
+Identifiant National: XYZ987654
+
+Détails de la Vente:
+Actions : 100 actions de la Banque Centrale Populaire
+Prix par Action: 500 MAD
+Total : 50,000 MAD
+
+Date de la Vente: 10 septembre 2022
+
+Total à Payer: 50,000 MAD
+
+Mode de Paiement: Virement Bancaire
+
+Coordonnées Bancaire pour le Paiement:
+Banque: Banque Centrale Populaire
+IBAN: BCPMA123456789
+Titulaire du Compte: Hassan Amrani
+
+Merci pour votre confiance et votre investissement dans les actions de la Banque Centrale Populaire. Pour toute information supplémentaire, veuillez contacter notre service clientèle au 080 00 12 34.

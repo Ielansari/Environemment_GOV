@@ -1,0 +1,98 @@
+version: "2"
+services:
+  atlas-server:
+    build: ./atlas
+    image: wbaa/rokku-dev-apache-atlas
+    volumes:
+      - ./atlas/resources/1000-Hadoop:/opt/atlas/models/1000-Hadoop
+    ports:
+      - "21000:21000"
+    depends_on:
+      - "zookeeper"
+      - "kafka" 
+
+  zookeeper:
+    restart: always
+    image: docker.io/bitnami/zookeeper:3.8
+    ports:
+      - "2181:2181"
+    environment:
+      - ALLOW_ANONYMOUS_LOGIN=yes
+  
+  kafka:
+      restart: always
+      image: docker.io/bitnami/kafka:3.3
+      ports:
+        - "9093:9093"
+      environment:
+        - KAFKA_BROKER_ID=1
+        - KAFKA_CFG_ZOOKEEPER_CONNECT=zookeeper:2181
+        - ALLOW_PLAINTEXT_LISTENER=yes
+        - KAFKA_CFG_LISTENER_SECURITY_PROTOCOL_MAP=CLIENT:PLAINTEXT,EXTERNAL:PLAINTEXT
+        - KAFKA_CFG_LISTENERS=CLIENT://:9092,EXTERNAL://:9093
+        - KAFKA_CFG_ADVERTISED_LISTENERS=CLIENT://kafka:9092,EXTERNAL://localhost:9093
+        - KAFKA_CFG_INTER_BROKER_LISTENER_NAME=CLIENT
+      depends_on:
+        - zookeeper  
+  
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop2.7.4-java8
+    volumes:
+      - ./namenode:/hadoop/dfs/name
+    environment:
+      - CLUSTER_NAME=test
+    env_file:
+      - ./hive/hadoop-hive.env
+    ports:
+      - "50070:50070"
+
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop2.7.4-java8
+    volumes:
+      - ./datanode:/hadoop/dfs/data
+    env_file:
+      - ./hive/hadoop-hive.env
+    environment:
+      SERVICE_PRECONDITION: "namenode:50070"
+    ports:
+      - "50075:50075"
+  
+  hive-server:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    env_file:
+      - ./hive/hadoop-hive.env
+    volumes:
+      - ./hive/atlas-application.properties:/opt/hive/conf/atlas-application.properties
+      - ./hive/hive-site.xml:/opt/hive/conf/hive-site.xml
+      - ./hive/hive-env.sh:/opt/hive/conf/hive-env.sh
+      - ./hive/atlas-hive-hook:/opt/atlas-hive-hook
+    environment:
+      HIVE_CORE_CONF_javax_jdo_option_ConnectionURL: "jdbc:postgresql://hive-metastore/metastore"
+      SERVICE_PRECONDITION: "hive-metastore:9083"
+    ports:
+      - "10000:10000"
+    depends_on:
+      - hive-metastore
+
+  hive-metastore:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    env_file:
+      - ./hive/hadoop-hive.env
+    command: /opt/hive/bin/hive --service metastore
+    environment:
+      SERVICE_PRECONDITION: "namenode:50070 datanode:50075 hive-metastore-postgresql:5432"
+    ports:
+      - "9083:9083"
+    depends_on:
+      - hive-metastore-postgresql
+
+  hive-metastore-postgresql:
+    image: bde2020/hive-metastore-postgresql:2.3.0
+    depends_on:
+      - datanode
+      - namenode
+
+  nifi:
+    image: apache/nifi:latest
+    ports:
+      - "8443:8443"

@@ -1,0 +1,20 @@
+**Rapport de Vérification Interne**
+
+- *Date:* 12 juin 2022
+- *Domaine de Vérification:* Gestion des Risques Opérationnels
+- *Résultats:*
+  Suite à la vérification réalisée, il a été identifié que dans le domaine de la gestion des risques opérationnels à la Banque Centrale Populaire (BCP), certains processus ne sont pas entièrement conformes aux normes réglementaires en vigueur. Plus précisément, des lacunes ont été constatées dans la documentation des procédures de contrôle interne concernant la détection et la gestion des risques.
+- *Recommandations:*
+  Pour remédier à cette situation, il est recommandé que la BCP mette en place un programme de formation continue pour sensibiliser les employés aux bonnes pratiques en matière de gestion des risques opérationnels. De plus, un renforcement du suivi et de la documentation des incidents liés aux risques est nécessaire pour améliorer la surveillance et la prise en charge proactive de ces risques.
+
+Ce rapport de vérification interne a pour objectif de fournir un aperçu des constats et des recommandations visant à renforcer les pratiques de gestion des risques opérationnels au sein de la Banque Centrale Populaire. Il est essentiel que ces mesures correctives soient mises en œuvre dans les plus brefs délais afin de garantir la conformité aux réglementations et d'assurer la solidité des processus de contrôle interne de la banque.
+
+N'hésitez pas à nous contacter pour de plus amples informations.
+
+Cordialement,
+
+[Signature]
+
+[Prénom Nom]
+Expert en Vérification Interne
+Banque Centrale Populaire - Maroc

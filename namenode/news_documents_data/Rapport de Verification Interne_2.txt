@@ -1,0 +1,27 @@
+**Rapport de Vérification Interne**
+
+**Date:** 15 avril 2023
+
+**Domaine de Vérification:** Processus de Prêt Immobilier
+
+**Résultats:**
+
+La vérification interne du processus de prêt immobilier au sein de la Banque Centrale Populaire a révélé plusieurs points d'attention :
+
+1. Des retards dans le traitement des demandes de prêt ont été identifiés, entraînant une insatisfaction des clients et une perte de potentielles opportunités d'affaires.
+   
+2. Des erreurs de saisie dans les données des clients ont été constatées, ce qui a impacté la qualité des dossiers de prêt et leur conformité aux normes internes de la banque.
+
+3. Un manque de suivi des garanties fournies par les emprunteurs a été observé, exposant la banque à des risques de défaut de paiement.
+
+**Recommandations:**
+
+Pour améliorer le processus de prêt immobilier et garantir son efficacité, les actions suivantes sont proposées :
+
+1. Mettre en place un système de suivi des demandes de prêt pour identifier les goulots d'étranglement et réduire les délais de traitement.
+
+2. Renforcer les contrôles de saisie des données clients et mettre en place des formations pour le personnel impliqué dans le processus de prêt.
+
+3. Mettre en œuvre un processus de gestion des garanties plus rigoureux, incluant des vérifications périodiques de la validité des garanties fournies.
+
+Ce rapport de vérification interne vise à fournir des recommandations concrètes pour optimiser le processus de prêt immobilier à la Banque Centrale Populaire et ainsi garantir la satisfaction des clients et la sécurité financière de l'institution.

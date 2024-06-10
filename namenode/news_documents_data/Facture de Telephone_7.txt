@@ -1,0 +1,22 @@
+Facture de Téléphone
+-------------------------------------------
+
+Client: Banque Centrale Populaire
+Numéro de Téléphone: 06 12 34 56 78
+Date: 31 août 2021
+
+Détails de la consommation:
+
+Appels:
+- Appel local à un autre numéro mobile: 15 appels
+- Appel national à un fixe: 5 appels
+- Appel international: 2 appels
+
+Montant total dû pour ce mois-ci: 250 MAD
+
+Remarque: Ce montant sera prélevé automatiquement sur votre compte bancaire associé à la Banque Centrale Populaire. Veuillez vous assurer que votre compte dispose des fonds nécessaires pour éviter tout rejet de paiement.
+
+Merci de votre confiance et de votre fidélité envers Banque Centrale Populaire. Si vous avez des questions concernant cette facture, n'hésitez pas à contacter notre service clientèle au 0800 123 456.
+
+Cordialement,
+Banque Centrale Populaire.

@@ -1,0 +1,26 @@
+Facture de Téléphone
+
+Numéro de Téléphone : 06 XX XX XX XX
+Client : M. Ahmed Benitez
+Adresse : 123, Rue des Banques, Casablanca, Maroc
+
+Appels :
+- Appel vers +212 6 12 XX XX XX - Durée : 15 min
+- Appel vers +212 6 55 XX XX XX - Durée : 25 min
+- Appel vers +212 6 78 XX XX XX - Durée : 10 min
+
+Date de la Facture : 15 Août 2022
+Période de consommation : 1er Juillet 2022 - 31 Juillet 2022
+
+Détail des Appels : 
+- Appel vers +212 6 12 XX XX XX le 05/07/2022 à 15:30 - Durée 15 min - Coût : 25 MAD
+- Appel vers +212 6 55 XX XX XX le 12/07/2022 à 10:45 - Durée 25 min - Coût : 40 MAD
+- Appel vers +212 6 78 XX XX XX le 20/07/2022 à 18:20 - Durée 10 min - Coût : 15 MAD
+
+Montant Total : 80 MAD
+
+Vous êtes un client de Banque Centrale Populaire, votre facture de téléphone s'élève à 80 MAD pour la période de Juillet 2022. Vous pouvez régler cette facture dans l'une de nos agences bancaires ou via nos services en ligne. En cas de questions ou de contestations, n'hésitez pas à contacter notre service clientèle.
+
+Nous vous remercions pour votre confiance et votre fidélité.
+
+Banque Centrale Populaire

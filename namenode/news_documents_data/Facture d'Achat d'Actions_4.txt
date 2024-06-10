@@ -1,0 +1,22 @@
+Facture d'Achat d'Actions
+
+Nom de l'Acheteur: Ali Zidane
+Actions: 100
+Prix: 1500 MAD
+Date: 12 avril 2022
+
+Banque Centrale Populaire - Succursale de Casablanca
+
+Numéro de Facture: BCP-CAS-2022-12456
+
+Détails de l'Achat:
+- Actions: 100 actions au prix unitaire de 15 MAD
+- Montant Total: 1500 MAD
+
+Fait à Casablanca, le 12 avril 2022
+
+Signature: [Signature]
+
+Cette facture est payable dans un délai de 15 jours à compter de la date d'émission.
+
+Pour toute information ou réclamation, veuillez contacter notre service client au 080 100 1234. Merci de votre confiance et fidélité envers la Banque Centrale Populaire.

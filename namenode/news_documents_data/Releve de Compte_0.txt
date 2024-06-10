@@ -1,0 +1,26 @@
+Banque Centrale Populaire - Relevé de Compte
+
+Numéro de Compte: 1234567890
+Client: Monsieur Ahmed Kadi
+Date: 31 janvier 2023
+
+Transactions:
+- 02/01/2023: Dépôt de 10 000 MAD
+- 05/01/2023: Paiement de facture d'eau de 500 MAD
+- 10/01/2023: Virement reçu de 5 000 MAD
+- 15/01/2023: Achat en ligne de 1 200 MAD
+- 20/01/2023: Retrait au distributeur de 2 000 MAD
+- 25/01/2023: Paiement de facture d'électricité de 700 MAD
+
+Solde: 11 800 MAD
+
+Ce relevé de compte est émis pour Monsieur Ahmed Kadi détenteur du compte numéro 1234567890 à la Banque Centrale Populaire. Le relevé présente les transactions effectuées sur le compte jusqu'au 31 janvier 2023, indiquant un solde actuel de 11 800 MAD.
+
+Veuillez vérifier ces informations et n'hésitez pas à nous contacter pour toute question ou clarification supplémentaire.
+
+Banque Centrale Populaire
+Morocco
+
+Signature: _______________
+
+Date: 31 janvier 2023

@@ -1,0 +1,32 @@
+Facture de Vente de Véhicule
+
+Nom du Vendeur: Hassan Ben Abdallah
+Adresse: 123 Rue Mohammed V, Casablanca, Maroc
+Numéro de Téléphone: +212 6 12 34 56 78
+E-mail: hassan.abdallah@bcp.ma
+
+Nom de l'Acheteur: Amina El Khattabi
+Adresse: 55 Avenue Hassan II, Rabat, Maroc
+Numéro de Téléphone: +212 6 98 76 54 32
+E-mail: amina.khattabi@bcp.ma
+
+Modèle du Véhicule: Toyota Corolla
+Année: 2020
+Couleur: Gris métallisé
+Numéro de Châssis: ABC123456DEF78910
+
+Prix de Vente: 150 000 MAD
+TVA (20%): 30 000 MAD
+Total: 180 000 MAD
+
+Date: 15 mai 2023
+Mode de Paiement: Virement Bancaire
+
+Banque Centrale Populaire
+Agence: Rabat
+Téléphone: +212 5 30 40 50 60
+
+Nous vous remercions pour votre confiance. N'hésitez pas à nous contacter pour toute information supplémentaire.
+
+Cordialement,
+Banque Centrale Populaire

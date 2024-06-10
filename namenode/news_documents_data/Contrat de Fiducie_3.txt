@@ -1,0 +1,21 @@
+Contrat de Fiducie
+
+Entre la Banque Centrale Populaire, agissant en tant que fiduciaire, dont le siège social est situé à Rabat, Maroc, et immatriculée au Registre de Commerce sous le numéro 123456, ci-après dénommée "Fiduciaire", et M. Ahmed El Amrani, résidant au 15 Rue Mohammed V, Casablanca, Maroc, titulaire de la carte d'identité nationale numéro ABC12345, ci-après dénommé "Bénéficiaire".
+
+Il est convenu ce qui suit :
+
+1. Nom du Fiduciaire : Banque Centrale Populaire
+2. Nom du Bénéficiaire : M. Ahmed El Amrani
+3. Actifs Inclus :
+   - Compte courant numéro 987654321
+   - Portefeuille d'actions de la société XYZ
+   - Immeuble situé au 25 Avenue Hassan II, Casablanca
+4. Termes : Le présent contrat de fiducie entre en vigueur à compter de la date de signature par les deux parties et reste en vigueur pour une période de 5 ans. Durant cette période, le fiduciaire gère les actifs inclus dans la fiducie au bénéfice du bénéficiaire, conformément aux conditions convenues par les parties.
+
+Fait en double exemplaire à Rabat, le 15 mai 2023.
+
+Pour la Banque Centrale Populaire,  
+[Signature du représentant autorisé]
+
+Pour M. Ahmed El Amrani,  
+[Signature du Bénéficiaire]

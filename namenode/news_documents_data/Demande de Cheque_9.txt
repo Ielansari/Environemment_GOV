@@ -1,0 +1,23 @@
+**Demande de Chèque**
+
+Je soussigné(e) [Nom du Titulaire]: Amira El Meknassi, titulaire du compte bancaire numéro [Numéro de Compte]: 123456789 auprès de la Banque Centrale Populaire, demande par la présente l'émission d'un chèque au profit du bénéficiaire suivant:
+
+- **Nom du Bénéficiaire**: Ahmed Benjelloun
+- **Montant**: 5 000 MAD (Cinq mille dirhams)
+- **Date**: 27 janvier 2023
+
+Je vous prie de bien vouloir procéder à l'établissement de ce chèque et de débiter mon compte du montant susmentionné. Je m'engage à garantir la provision nécessaire pour couvrir cette opération.
+
+Je vous prie d'agréer, Madame/Monsieur, l'expression de mes salutations distinguées.
+
+Fait à Casablanca, le 20 janvier 2023
+
+Signature:
+
+[Autorisation de prélèvement automatique]
+
+En vertu des dispositions de la loi bancaire en vigueur, je soussigné(e) [Nom du Titulaire] autorise expressément la Banque Centrale Populaire à procéder au prélèvement automatique des frais de l'émission du chèque sur mon compte bancaire susmentionné.
+
+Fait à Casablanca, le 20 janvier 2023
+
+Signature:

@@ -1,0 +1,39 @@
+```
+Facture de Services
+
+Banque: Banque Centrale Populaire
+Agence: Agence Marrakech Centre
+Adresse: Avenue Hassan II, Marrakech, Maroc
+Téléphone: +212 5 24 XX XX XX
+
+Facture N°: FCPS2022001
+Date: 15 février 2022
+
+Nom du Fournisseur: Services Informatiques SARL
+Adresse du Fournisseur: Rue des Technologies, Casablanca, Maroc
+N° de TVA: 123456789
+N° de Registre de Commerce: 987654321
+Téléphone du Fournisseur: +212 5 22 XX XX XX
+
+Désignation des Services:
+Maintenance informatique pour l'Agence Marrakech Centre
+Fourniture et configuration de nouveaux équipements
+
+Montant Hors Taxes: 10,000 MAD
+Taux de TVA: 20%
+Montant de la TVA: 2,000 MAD
+Montant TTC: 12,000 MAD
+
+Mode de Paiement: Virement Bancaire
+Date d'Echéance: 28 février 2022
+
+Conditions de Paiement: Le règlement devra être effectué par virement bancaire dans un délai de 10 jours à compter de la réception de la facture.
+
+En cas de retard de paiement, des pénalités de retard seront appliquées conformément à la réglementation en vigueur.
+
+Merci de votre confiance et de votre collaboration.
+
+Cachet et Signature
+Banque Centrale Populaire
+Agence Marrakech Centre
+```

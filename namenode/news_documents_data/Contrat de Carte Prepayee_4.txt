@@ -1,0 +1,24 @@
+Contrat de Carte Prépayée
+
+Entre la Banque Centrale Populaire, agissant en tant qu'émetteur de la carte prépayée, et le Titulaire, dont les détails sont mentionnés ci-dessous :
+
+1. Nom du Titulaire : Jean Dupont
+2. Montant Déposé : 5000 MAD
+3. Date d'Expiration : 31 décembre 2023
+4. Frais : Les frais liés à l'utilisation de la carte prépayée sont fixés à 1% du montant de chaque transaction effectuée.
+
+La Banque Centrale Populaire s'engage à fournir au Titulaire la carte prépayée mentionnée ci-dessus, sous réserve du paiement des frais de délivrance de la carte.
+
+Le Titulaire s'engage à utiliser la carte prépayée conformément aux règles et réglementations en vigueur, ainsi qu'aux conditions générales établies par la Banque Centrale Populaire.
+
+En cas de perte ou de vol de la carte prépayée, le Titulaire s'engage à informer immédiatement la Banque Centrale Populaire afin de bloquer la carte et d'éviter toute utilisation frauduleuse.
+
+La Banque Centrale Populaire se réserve le droit de résilier ce contrat à tout moment en cas de non-respect des conditions énoncées ou de toute activité suspecte liée à l'utilisation de la carte prépayée.
+
+Fait en deux exemplaires, à Casablanca, le 15 septembre 2021.
+
+Pour la Banque Centrale Populaire,
+[Signature]
+
+Pour le Titulaire,
+[Signature]

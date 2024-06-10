@@ -1,0 +1,36 @@
+Facture de Vente d'Actions
+
+Numéro de Facture: BCP2022001
+Date: 15 janvier 2022
+
+Vendeur:
+Nom: Abdelaziz Charif
+Adresse: 17, Rue Hassan II, Rabat, Maroc
+Téléphone: +212 6 12 34 56 78
+Email: a.charif@bcp.ma
+
+Acheteur:
+Nom: Amina Lahmadi
+Adresse: 5, Rue Mohammed V, Casablanca, Maroc
+Téléphone: +212 6 98 76 54 32
+Email: a.lahmadi@bcp.ma
+
+Détails de la Vente:
+- Actions: 100 actions BCP
+- Prix unitaire: 250 MAD
+- Montant total: 25 000 MAD
+
+Date de la Transaction: 10 janvier 2022
+
+Montant Total: 25 000 MAD
+
+Conditions de Paiement: Le montant total de 25 000 MAD doit être payé par virement bancaire dans les 30 jours suivant la date de la facture.
+
+Veuillez contacter notre service clientèle pour toute question ou clarification supplémentaire.
+
+Nous vous remercions pour votre confiance en Banque Centrale Populaire.
+
+Cordialement,
+
+Abdelaziz Charif
+Banque Centrale Populaire

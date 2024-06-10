@@ -1,0 +1,23 @@
+Facture de Vente de Véhicule
+
+Date: 12 octobre 2022
+
+Nom du Vendeur: Ahmed Benali
+Adresse: 123, Avenue Mohammed V, Casablanca
+
+Nom de l'Acheteur: Leila Chaoui
+Adresse: 45, Rue des Roses, Rabat
+
+Modèle du Véhicule: Renault Clio IV
+Année: 2020
+
+Prix de Vente: 75,000 MAD
+
+Nous soussignés, Ahmed Benali en qualité de vendeur et Leila Chaoui en qualité d'acheteur, déclarons avoir convenu la vente du véhicule mentionné ci-dessus pour un montant de 75,000 MAD. La somme a été payée en totalité par virement bancaire depuis le compte de Mme Chaoui domicilié à la Banque Centrale Populaire.
+
+Fait à Casablanca, le 12 octobre 2022
+
+Signature du Vendeur: ______________
+Signature de l'Acheteur: ______________
+
+Cette facture tient lieu de preuve d'achat et de cession du véhicule susmentionné.

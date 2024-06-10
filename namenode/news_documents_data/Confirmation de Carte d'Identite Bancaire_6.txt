@@ -1,0 +1,23 @@
+Banque Centrale Populaire - Confirmation de Carte d'Identité Bancaire
+
+Numéro de Référence : BCP2022CI456
+
+Date : 12 avril 2022
+
+Madame/Monsieur [Nom du Titulaire],
+
+Nous vous informons par la présente que votre carte d'identité bancaire liée à votre compte chez Banque Centrale Populaire a été confirmée avec succès. Les détails de votre carte d'identité bancaire sont comme suit :
+
+- Nom du Titulaire : Madame/Monsieur [Nom du Titulaire]
+- Numéro de Carte : **** **** **** 1234
+- Date d'Expiration : 05/24
+
+Veuillez prendre note que cette confirmation a été effectuée le 12 avril 2022 et sera valide jusqu'à la date d'expiration mentionnée ci-dessus. Pour toute question ou préoccupation concernant votre carte d'identité bancaire, n'hésitez pas à nous contacter au numéro de service clientèle de Banque Centrale Populaire.
+
+Nous vous remercions pour votre confiance en nos services financiers.
+
+Cordialement,
+
+[Signature]
+
+Banque Centrale Populaire, Maroc

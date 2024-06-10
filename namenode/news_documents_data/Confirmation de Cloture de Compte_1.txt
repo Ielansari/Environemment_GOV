@@ -1,0 +1,21 @@
+Banque Centrale Populaire
+Agence [Nom de l'Agence]
+Date: [Date]
+
+Confirmation de Clôture de Compte
+
+Le [Date de Clôture], le compte bancaire portant le numéro [Numéro de Compte] au nom de Monsieur/Madame [Nom du Titulaire] a été clôturé sur demande du titulaire.
+
+Nous vous confirmons par la présente la clôture de ce compte à notre agence [Nom de l'Agence] de la Banque Centrale Populaire et vous informons que toutes les opérations relatives à ce compte ont été finalisées.
+
+Les éventuels avoirs restants ont été virés sur le compte de votre choix et les moyens de paiement associés à ce compte ont été invalidés.
+
+En cas de réclamation ou pour toute information complémentaire, nous vous prions de bien vouloir contacter notre service clientèle au [Numéro de Contact] ou de vous rendre à notre agence la plus proche.
+
+Cordialement,
+
+[Signature]
+
+[Nom du Responsable de l'Agence]
+[Nom de l'Agence]
+Banque Centrale Populaire

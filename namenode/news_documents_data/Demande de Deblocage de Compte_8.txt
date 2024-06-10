@@ -1,0 +1,18 @@
+<center> <h1> Banque Centrale Populaire </h1> </center>
+
+<p> <strong> Demande de Déblocage de Compte </strong> </p>
+
+<p> <strong>Nom du Titulaire:</strong> Jean Dupont </p>
+<p> <strong>Numéro de Compte:</strong> 12345678901234567 </p>
+<p> <strong>Raison:</strong> Régularisation des documents demandés </p>
+<p> <strong>Date:</strong> 12 janvier 2022 </p>
+
+<p> Madame, Monsieur, </p>
+
+<p> Par la présente, je vous prie de bien vouloir procéder au déblocage de mon compte portant le numéro 12345678901234567, détenu auprès de la Banque Centrale Populaire. La raison de ce blocage est liée à la régularisation des documents demandés par vos services. </p>
+
+<p> Je vous prie de bien vouloir traiter ma demande dans les meilleurs délais afin de pouvoir disposer à nouveau de l'intégralité de mes avoirs. Je reste à votre entière disposition pour fournir tout complément d'information nécessaire à la résolution de cette situation. </p>
+
+<p> Je vous remercie par avance de l'attention que vous porterez à ma demande et je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées. </p>
+
+<p> <strong> Jean Dupont </strong> </p>

@@ -1,0 +1,16 @@
+**Etat de Stock**
+
+| Date       | Titres détenus | Prix d'Achat | Valeur Actuelle |
+|------------|----------------|--------------|-----------------|
+| 10/09/2021 | Action BCP     | 1500 MAD     | 1750 MAD        |
+| 10/09/2021 | Obligation BCP | 2000 MAD     | 2100 MAD        |
+| 10/09/2021 | Titre Foncier  | 1800 MAD     | 1850 MAD        |
+| 10/09/2021 | Obligation Etat| 2500 MAD     | 2600 MAD        |
+
+Cet état de stock présente les titres détenus par la Banque Centrale Populaire au 10 septembre 2021, avec les prix d'achat initiaux ainsi que leur valeur actuelle. 
+
+L'action BCP a été acquise à 1500 MAD et sa valeur actuelle est de 1750 MAD, montrant ainsi une augmentation de sa valeur depuis son acquisition. Les obligations BCP ont été achetées à 2000 MAD et leur valeur actuelle est de 2100 MAD. 
+
+Le titre foncier a été acquis à 1800 MAD et sa valeur actuelle est de 1850 MAD, indiquant une légère augmentation de sa valeur. Enfin, les obligations d'État ont été achetées à 2500 MAD et valent maintenant 2600 MAD, démontrant également une augmentation de leur valeur.
+
+Cet état de stock illustre la gestion des titres détenus par la Banque Centrale Populaire, mettant en lumière l'évolution de la valeur de ces actifs financiers.

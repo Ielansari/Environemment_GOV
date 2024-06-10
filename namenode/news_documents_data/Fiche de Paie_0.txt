@@ -1,0 +1,44 @@
+**Fiche de Paie**
+
+**Banque Centrale Populaire - Maroc**
+
+**Nom de l'Employé:** Ahmed Benjelloun
+
+**Matricule:** 123456
+
+**Departement:** Services Bancaires
+
+**Date de Paiement:** 30 Septembre 2021
+
+| Description            | Montant (MAD) | 
+|------------------------|---------------|
+| Salaire de Base        | 20,000        |
+| Heures Supplémentaires | 1,500         |
+| Avantages en nature    | 500           |
+| Autres Avantages       | 300           |
+| Total des Revenus      | 22,300        |
+| Deductions             | 2,000         |
+| Net à Payer            | 20,300        |
+
+**Récapitulatif:**
+
+- Salaire de Base: 20,000 MAD
+- Heures Supplémentaires: 1,500 MAD
+- Avantages en nature: 500 MAD
+- Autres Avantages: 300 MAD
+**Revenu Brut Total: 22,300 MAD**
+
+**Deductions:**
+- Retenue IR: 1,500 MAD
+- Assurance Maladie: 500 MAD
+**Total des Deductions: 2,000 MAD**
+
+**Net à Payer: 20,300 MAD**
+
+**Mode de Paiement:** Virement Bancaire
+
+**Signé:**
+
+Responsable des Ressources Humaines, Banque Centrale Populaire - Maroc
+
+Ceci est un document informatif et ne constitue pas une notification officielle du salaire. Si vous avez des questions ou des préoccupations concernant votre paie, veuillez contacter le service des Ressources Humaines.

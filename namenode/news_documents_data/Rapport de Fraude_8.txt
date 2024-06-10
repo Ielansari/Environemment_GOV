@@ -1,0 +1,25 @@
+**Rapport de Fraude**
+
+**Date:** 15 avril 2023
+
+**Type de Fraude:** Fraude par phishing
+
+**Montant Impliqué:** 150 000 MAD
+
+**Mesures Prises:**
+Suite à l'incident survenu le 15 avril 2023, impliquant une fraude par phishing d'un montant de 150 000 MAD, Banque Centrale Populaire a pris plusieurs mesures immédiates pour renforcer la sécurité des comptes de nos clients. Les actions entreprises sont les suivantes :
+
+1. Blocage immédiat du compte concerné pour limiter les autres transactions frauduleuses.
+2. Ouverture d'une enquête interne pour déterminer les circonstances exactes de la fraude et identifier les failles potentielles dans nos systèmes de sécurité.
+3. Contact direct avec le client impacté pour l'informer de la situation et le guider dans les démarches à suivre.
+4. Renforcement des protocoles de sécurité informatique pour prévenir de futures tentatives de fraude.
+
+Banque Centrale Populaire tient à assurer ses clients de son engagement inébranlable envers la sécurité de leurs comptes et de la confidentialité de leurs informations. Nous mettons tout en œuvre pour prévenir et contrer efficacement les actes de fraude afin d'assurer la confiance et la tranquillité d'esprit de nos clients.
+
+Pour toute information supplémentaire ou pour signaler une activité suspecte, veuillez contacter notre service clientèle dédié à la sécurité des comptes.
+
+Cordialement,
+
+[Signature]
+
+Banque Centrale Populaire

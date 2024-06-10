@@ -1,0 +1,34 @@
+Banque Centrale Populaire
+
+Notification de Prêt
+
+Numéro de Contrat : 123456789
+
+Le 15 septembre 2022
+
+Monsieur/Madame [Nom du Titulaire]
+Adresse : [Adresse du Titulaire]
+Ville : [Ville du Titulaire]
+Code Postal : [Code Postal du Titulaire]
+
+Objet : Notification de Prêt
+
+Cher(e) Monsieur/Madame [Nom du Titulaire],
+
+Nous avons le plaisir de vous informer que votre demande de prêt a été approuvée par Banque Centrale Populaire. Vous trouverez ci-dessous les détails de votre prêt :
+
+- Montant du Prêt : 50 000 MAD
+- Taux d'Intérêt : 5%
+- Plan de Remboursement : Le remboursement du prêt se fera en 36 mensualités de 1 500 MAD chacune, à partir du 1er octobre 2022.
+
+Veuillez noter que les fonds seront versés sur votre compte dans un délai de 3 jours ouvrables. Nous vous demandons de bien vouloir respecter le plan de remboursement convenu afin d'éviter tout retard ou incident de paiement.
+
+En cas de besoin d'assistance supplémentaire ou de toute question relative à votre prêt, n'hésitez pas à nous contacter au numéro suivant : 0801 00 12 24.
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire et nous vous souhaitons une utilisation judicieuse de votre prêt.
+
+Cordialement,
+
+[Signature]
+
+Directeur/Directrice de l'Agence Banque Centrale Populaire

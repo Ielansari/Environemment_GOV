@@ -1,0 +1,24 @@
+**Banque Centrale Populaire**
+**Confirmation de Débit**
+
+**Nom du Titulaire :** Marie Dupont
+
+**Montant :** 1500 MAD
+
+**Date :** 15 avril 2022
+
+**Mode de Paiement :** Virement bancaire
+
+**Référence de Transaction :** BCPCM123456789
+
+Madame, Monsieur,
+
+Nous vous informons par la présente que votre compte Banque Centrale Populaire a été débité d'un montant de 1500 MAD le 15 avril 2022, suite à un virement bancaire.
+
+La référence de la transaction est la suivante : BCPCM123456789.
+
+Nous vous remercions pour votre confiance en nos services. En cas de question ou de demande d'information complémentaire, n'hésitez pas à contacter notre service clientèle.
+
+Cordialement,
+
+Banque Centrale Populaire

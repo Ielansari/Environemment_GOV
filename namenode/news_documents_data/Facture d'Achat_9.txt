@@ -1,0 +1,28 @@
+Facture d'Achat
+
+Banque Centrale Populaire - Succursale de Casablanca
+
+Numéro de Facture: 2021001
+Date: 15 Mars 2021
+
+Nom de l'Acheteur: Fatima Zahra Eddahabi
+Adresse de Facturation: Rue Hassan II, Casablanca
+N° de Téléphone: 06 12 34 56 78
+N° de Compte Bancaire: 01234567890123456789
+
+Vendeur: Banque Centrale Populaire - Succursale de Casablanca
+Adresse: Angle Avenue des FAR et Avenue Hassan II, Casablanca
+
+Détails de l'Achat:
+Article: Services de Consultation en Investissement
+Prix: 1500 MAD
+Date de l'Achat: 10 Mars 2021
+
+Nous vous remercions pour votre confiance et votre fidélité. Vous pouvez consulter le montant facturé sur votre relevé de compte mensuel. Pour toute question concernant cette facture, veuillez contacter notre service clientèle au 080 100 2000.
+
+Veuillez effectuer le paiement du montant dû dans un délai de 30 jours à compter de la date de cette facture.
+
+Merci de votre collaboration.
+
+Cordialement,
+Banque Centrale Populaire - Succursale de Casablanca

@@ -1,0 +1,25 @@
+Confirmation de Paiement
+
+Banque : Banque Centrale Populaire
+
+Numéro de Transaction : 123456789
+
+Date : 15 août 2022
+
+Destinataire : [Nom du Titulaire]
+
+Montant : 5000 MAD
+
+Mode de Paiement : Virement Bancaire
+
+Référence de Transaction : BCPT123456
+
+Cher(e) Client(e) [Nom du Titulaire],
+
+Nous vous informons que le paiement d'un montant de 5000 MAD a été effectué avec succès le 15 août 2022 via un Virement Bancaire. La référence de transaction associée à ce paiement est BCPT123456.
+
+Pour toute question ou information supplémentaire, n'hésitez pas à contacter notre service clientèle.
+
+Cordialement,
+
+Banque Centrale Populaire

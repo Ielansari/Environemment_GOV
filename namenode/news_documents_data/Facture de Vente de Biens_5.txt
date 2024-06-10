@@ -1,0 +1,22 @@
+```markdown
+# Facture de Vente de Biens
+
+## Informations sur la Transaction
+- Date: 15 novembre 2021
+
+## Informations sur le Vendeur
+- Nom du Vendeur: Ahmed Benjelloun
+- Banque: Banque Centrale Populaire
+- Adresse: Avenue Hassan II, Casablanca, Maroc
+
+## Informations sur l'Acheteur
+- Nom de l'Acheteur: Leïla El Mekki
+- Banque: Banque Centrale Populaire
+- Adresse: Rue Bab El Mansour, Rabat, Maroc
+
+## Détails de la Vente
+- Produit: Ordinateur portable ASUS
+- Prix de Vente: 6500 MAD
+
+Merci pour votre confiance et votre achat à Banque Centrale Populaire.
+```

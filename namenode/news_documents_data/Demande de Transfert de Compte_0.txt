@@ -1,0 +1,22 @@
+**Demande de Transfert de Compte**
+
+*Banque Centrale Populaire du Maroc*
+
+Je soussigné(e), [Nom du Titulaire], titulaire du compte n°[Numéro de Compte Source] auprès de la Banque Centrale Populaire, souhaite par la présente demander le transfert de fonds de mon compte source vers mon compte destination.
+
+Ci-dessous les détails des comptes concernés :
+
+- **Nom du Titulaire :** Mme Fatima Ait Ouali
+- **Identifiant Client :** 123456789
+- **Compte Source :** BCP002245689
+- **Compte Destination :** BCP003587412
+
+Je vous prie de bien vouloir prendre les dispositions nécessaires pour effectuer le transfert des fonds mentionnés ci-dessus dans les meilleurs délais et de me tenir informé(e) de toute information complémentaire requise de ma part.
+
+Je reste à votre disposition pour toute question ou information supplémentaire. 
+
+Fait à [Ville], le [Date]
+
+Signature : ___________________
+
+[Signature manuscrite]

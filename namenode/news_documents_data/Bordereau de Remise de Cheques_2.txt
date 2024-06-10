@@ -1,0 +1,51 @@
+**Banque Centrale Populaire - Bordereau de Remise de Chèques**
+
+Date: 12 février 2023
+
+Agence: Casablanca, Maroc
+
+Numéro de Bordereau: BCP-CAS-123456789
+
+---
+
+**Détails de la Remise:**
+
+Nom du Titulaire: Fatima Zahra Alaoui
+
+Numéro de Compte: 12345678901234567890
+
+Montant Total: 15 000 MAD
+
+Nombre de Chèques: 4
+
+---
+
+**Détails des Chèques:**
+
+1. Banque Emetrice: Banque Marocaine du Commerce Extérieur (BMCE)
+   Montant: 4 500 MAD
+
+2. Banque Emetrice: Attijariwafa Bank (AWB)
+   Montant: 3 200 MAD
+
+3. Banque Emetrice: Crédit Agricole du Maroc
+   Montant: 5 000 MAD
+
+4. Banque Emetrice: Société Générale Maroc
+   Montant: 2 300 MAD
+
+---
+
+**Remis Par:**
+
+Nom de l'Agent: Ahmed Rezzouk
+
+Signature de l'Agent: [Signature]
+
+---
+
+**Veuillez vérifier et confirmer la réception de la remise. Merci de votre confiance!**
+
+--- 
+
+This document serves as a record of the cheque deposit made by Fatima Zahra Alaoui at Banque Centrale Populaire in Casablanca, Morocco. It includes details such as the account holder's name, account number, total amount, and number of cheques deposited. The document also lists information about each individual cheque deposited, including the issuing bank and the amount. The agent responsible for processing the deposit is also identified for verification.

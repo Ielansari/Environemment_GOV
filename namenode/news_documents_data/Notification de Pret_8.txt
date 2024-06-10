@@ -1,0 +1,20 @@
+**Notification de Prêt**
+
+Cher client,
+
+Nous avons le plaisir de vous informer que votre demande de prêt à la Banque Centrale Populaire a été approuvée. Veuillez trouver ci-dessous les détails de votre prêt :
+
+- **Nom du Titulaire :** M. Ahmed Ben Salah
+- **Montant du Prêt :** 150 000 MAD
+- **Taux d'Intérêt :** 5%
+- **Plan de Remboursement :** Votre prêt sera remboursé sur une période de 5 ans, avec des paiements mensuels de 2 710 MAD.
+
+Nous vous rappelons que le montant du prêt sera transféré sur votre compte dans les prochains jours. Veuillez vous assurer de respecter le plan de remboursement convenu pour éviter tout retard ou pénalité.
+
+N'hésitez pas à nous contacter si vous avez des questions ou besoin d'assistance supplémentaire. Nous vous remercions de votre confiance envers la Banque Centrale Populaire et nous vous souhaitons une excellente gestion de votre prêt.
+
+Cordialement,
+
+[Signature]
+
+Banque Centrale Populaire

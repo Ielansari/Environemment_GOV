@@ -1,0 +1,24 @@
+Etat de Stock
+
+Date: 30 Septembre 2021
+
+| Titres détenus | Prix d'Achat | Valeur Actuelle |
+|----------------|--------------|-----------------|
+| Actions BCP | 500 MAD | 700 MAD |
+| Obligations Etat Marocain | 1,000 MAD | 1,200 MAD |
+| ETF Marché Monétaire | 300 MAD | 290 MAD |
+| Obligations Groupe OCP | 800 MAD | 850 MAD |
+
+Total du Portefeuille: 2,600 MAD
+
+Dans cet état de stock, nous récapitulons les titres détenus par la Banque Centrale Populaire (BCP) au 30 Septembre 2021. Les valeurs sont exprimées en Dirhams Marocains (MAD).
+
+- Actions BCP: La banque détient 500 actions de sa propre société, acquises au prix d'achat de 500 MAD par action. Actuellement, la valeur de ces actions est de 700 MAD par action, ce qui représente une valeur totale de 350,000 MAD.
+
+- Obligations Etat Marocain: L'institution détient des obligations émises par l'Etat Marocain d'une valeur totale de 1,000 MAD, acquises à leur valeur nominale. La valeur actuelle de ces obligations s'élève à 1,200 MAD.
+
+- ETF Marché Monétaire: La Banque Centrale Populaire a investi 300 MAD dans un ETF du Marché Monétaire. Malgré une légère baisse de la valeur, le montant actuel de cet investissement est de 290 MAD.
+
+- Obligations Groupe OCP: La BCP a également acquis des obligations du Groupe OCP pour un montant de 800 MAD. Aujourd'hui, la valeur de ces obligations s'élève à 850 MAD.
+
+Le total de ce portefeuille d'investissement s'élève à 2,600 MAD. Ces chiffres illustrent la diversification des actifs détenus par la Banque Centrale Populaire dans le cadre de sa gestion financière.

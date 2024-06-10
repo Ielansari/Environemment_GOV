@@ -1,0 +1,21 @@
+Banque Centrale Populaire Maroc
+
+Notification de Prélèvement
+
+Madame/Monsieur [Nom du Titulaire],
+Adresse: [Adresse du Titulaire],
+Ville: [Ville du Titulaire],
+Code postal: [Code Postal du Titulaire],
+
+Nous vous informons que le prélèvement suivant sera effectué sur votre compte:
+- Montant: [Montant],
+- Date de prélèvement: [Date],
+- Numéro de Compte: [Numéro de Compte],
+
+Pour toute contestation ou information complémentaire, veuillez contacter notre service clientèle au 080 100 0800.
+
+Nous vous remercions pour votre confiance en Banque Centrale Populaire.
+
+Cordialement,
+
+Banque Centrale Populaire Morocco

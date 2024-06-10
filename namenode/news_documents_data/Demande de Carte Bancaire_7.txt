@@ -1,0 +1,29 @@
+Banque Centrale Populaire Maroc
+
+Demande de Carte Bancaire
+
+Date: 15 novembre 2021
+
+Monsieur/Madame [Nom du Titulaire],
+Adresse: [Adresse du Titulaire],
+Ville: [Ville du Titulaire],
+Code postal: [Code Postal du Titulaire],
+Pays: Maroc
+
+Objet: Demande de Carte Bancaire
+
+Madame, Monsieur,
+
+Je soussigné [Nom du Titulaire], demeurant à [Adresse du Titulaire], sollicite de votre bienveillance l'obtention d'une carte bancaire auprès de votre établissement.
+
+Je souhaite par la présente demander un(e) [Type de Carte souhaité], afin de pouvoir bénéficier de tous les avantages liés à ce moyen de paiement sécurisé.
+
+Je m'engage à utiliser cette carte dans le respect des conditions générales d'utilisation et à informer immédiatement ma banque en cas de perte, de vol ou d'utilisation frauduleuse de celle-ci.
+
+Je joins à la présente demande les pièces justificatives requises et me tiens à votre disposition pour tout complément d'information que vous jugerez nécessaire.
+
+En vous remerciant par avance pour l'attention que vous porterez à ma demande, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Fait à [Ville du Titulaire], le [Date].
+
+[Nom du Titulaire]

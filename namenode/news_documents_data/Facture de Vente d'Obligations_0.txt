@@ -1,0 +1,30 @@
+```
+Banque Centrale Populaire - Facture de Vente d'Obligations
+
+Nom du Vendeur: BCP Capital
+Obligations: Obligations du Trésor Marocain 2021
+Prix: 100 000 MAD (cent mille dirhams)
+Date: 15 septembre 2021
+Acheteur: Ali Mohammed
+
+Détails de la Transaction:
+- Quantité vendue: 10 obligations
+- Prix unitaire: 10 000 MAD par obligation
+- Total: 100 000 MAD
+
+Conditions de Paiement:
+Le paiement total de 100 000 MAD est dû dans un délai de 30 jours à compter de la date de cette facture. Veuillez effectuer le paiement par virement bancaire à:
+
+Banque: Banque Centrale Populaire
+IBAN: MA12 3456 7890 1234 5678 9012
+BIC: BCPOMAMC
+
+Veuillez indiquer le numéro de référence de la facture lors du paiement.
+
+Pour toute question ou assistance supplémentaire, veuillez contacter BCP Capital au +212 6 12 34 56 78 ou par email à bcpcapital@bcp.ma.
+
+Nous vous remercions pour votre confiance et votre fidélité.
+
+Cordialement,
+BCP Capital
+```

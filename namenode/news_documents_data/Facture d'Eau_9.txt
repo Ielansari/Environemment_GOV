@@ -1,0 +1,46 @@
+**Banque Centrale Populaire - Facture d'Eau**
+
+| Nom du Titulaire   | Adresse                  | Consommation | Montant |
+|---------------------|--------------------------|--------------|---------|
+| Amal Benyamina      | 23 Rue des Oliviers, Rabat | 15 m3        | 150 MAD |
+| Mohamed El Fassi    | 8 Avenue Hassan II, Casablanca | 20 m3     | 195 MAD |
+| Salma Chaabi        | 11 Rue Mohammed V, Marrakech | 12 m3     | 130 MAD |
+| Youssef Oulhoucine  | 5 Avenue Moulay Hassan, Fès | 18 m3       | 165 MAD |
+| Fatima El Kabbaj    | 17 Rue Ibn Khaldoun, Tanger | 22 m3       | 205 MAD |
+
+Cher client,
+
+Nous vous informons que votre facture d'eau pour le mois en cours est maintenant disponible. Veuillez trouver ci-dessous un résumé de votre consommation et du montant dû :
+
+1. **Amal Benyamina**
+   - **Adresse :** 23 Rue des Oliviers, Rabat
+   - **Consommation :** 15 m3
+   - **Montant :** 150 MAD
+
+2. **Mohamed El Fassi**
+   - **Adresse :** 8 Avenue Hassan II, Casablanca
+   - **Consommation :** 20 m3
+   - **Montant :** 195 MAD
+
+3. **Salma Chaabi**
+   - **Adresse :** 11 Rue Mohammed V, Marrakech
+   - **Consommation :** 12 m3
+   - **Montant :** 130 MAD
+
+4. **Youssef Oulhoucine**
+   - **Adresse :** 5 Avenue Moulay Hassan, Fès
+   - **Consommation :** 18 m3
+   - **Montant :** 165 MAD
+
+5. **Fatima El Kabbaj**
+   - **Adresse :** 17 Rue Ibn Khaldoun, Tanger
+   - **Consommation :** 22 m3
+   - **Montant :** 205 MAD
+
+Veuillez régler le montant total dû avant la date d'échéance pour éviter toute interruption de service. En cas de questions ou pour plus d'informations, n'hésitez pas à contacter notre service clientèle.
+
+Nous vous remercions pour votre confiance et votre fidélité.
+
+Cordialement,
+
+Banque Centrale Populaire

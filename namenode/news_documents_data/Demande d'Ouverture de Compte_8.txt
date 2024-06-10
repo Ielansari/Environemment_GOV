@@ -1,0 +1,36 @@
+**Demande d'Ouverture de Compte**
+
+*Banque Centrale Populaire*
+
+*Agence: [Nom de l'Agence]*
+
+Le [Date]
+
+*Monsieur/Madame [Nom du Conseiller Bancaire]*
+
+Banque Centrale Populaire  
+Agence [Nom de l'Agence]
+
+Objet: Demande d'Ouverture de Compte
+
+Madame, Monsieur,
+
+Par la présente, je soussigné(e) [Nom du Demandeur], demeurant au [Adresse du Demandeur], téléphone [Numéro de Téléphone du Demandeur], email [Adresse Email du Demandeur], souhaite vous soumettre ma demande d'ouverture de compte auprès de votre établissement Banque Centrale Populaire.
+
+Ci-dessous les détails relatifs à ma demande :
+
+1. **Nom du Demandeur**: [Nom du Demandeur]
+2. **Type de Compte souhaité**: Compte Épargne
+3. **Méthode de Dépôt**: Virement bancaire
+
+Je m'engage à fournir l'ensemble des pièces justificatives requises pour la finalisation de l'ouverture du compte. Je suis conscient(e) des conditions générales en vigueur et je m'engage à respecter les règles et obligations liées à l'ouverture et à la gestion d'un compte à la Banque Centrale Populaire.
+
+Je reste à votre disposition pour toute information complémentaire ou pour convenir d'un entretien afin de finaliser ma demande.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Fait à [Ville], le [Date]
+
+Signature,
+
+[Nom du Demandeur]

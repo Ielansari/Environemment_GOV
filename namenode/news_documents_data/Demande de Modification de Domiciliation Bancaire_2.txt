@@ -1,0 +1,23 @@
+**Demande de Modification de Domiciliation Bancaire**
+
+Je soussigné(e) [Nom du Titulaire], titulaire du compte bancaire numéro [Numéro de Compte] auprès de la Banque Centrale Populaire, adresse ma demande de modification de domiciliation bancaire comme suit :
+
+- **Ancienne Domiciliation :**  
+Banque : Banque Centrale Populaire  
+Agence : Agence BCP Rabat  
+Adresse : 123 Rue des Roses, Rabat  
+IBAN : MA123456789012345678901
+
+- **Nouvelle Domiciliation :**  
+Banque : Banque Centrale Populaire  
+Agence : Agence BCP Casablanca  
+Adresse : 456 Avenue des Lilas, Casablanca  
+IBAN : MA987654321098765432109
+
+Je sollicite cette modification pour des raisons de déménagement et je vous prie de bien vouloir mettre à jour mes informations selon les détails ci-dessus.
+
+Fait à [Ville], le [Date]
+
+Signature : _______________
+
+**Remarque :** Veuillez prendre en considération ma demande et m'informer une fois la modification effectuée. Je reste à votre disposition pour toute information complémentaire.

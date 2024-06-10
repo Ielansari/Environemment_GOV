@@ -1,0 +1,19 @@
+Banque Centrale Populaire
+Agence Principale, Casablanca
+www.gbp.ma
+
+Confirmation de Débit
+
+
+Monsieur/Madame [Nom du Titulaire],
+Numéro de compte : [Numéro du Compte]
+
+La Banque Centrale Populaire confirme par la présente que votre compte a été débité du montant de [Montant] MAD le [Date], selon le mode de paiement suivant : [Mode de Paiement].
+
+Référence de Transaction : [Référence de Transaction]
+
+Pour toute question ou information complémentaire, veuillez contacter notre service client au 0801003030.
+
+Merci de votre confiance,
+
+Banque Centrale Populaire.

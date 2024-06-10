@@ -1,0 +1,21 @@
+[Banque Centrale Populaire - Succursale de Casablanca]
+[Adresse: 123, Avenue Hassan II, Casablanca]
+[Téléphone: 05 22 79 45 67] 
+
+Demande de Renouvellement de Carte
+
+Je soussigné(e), [Nom du Titulaire]: Amira Benali
+Demeurant au [Adresse]: 456, Rue Mohammed V, Casablanca
+Titulaire de la carte bancaire numéro [Numéro de Carte]: 1234 5678 9012 3456
+Dont la date d'expiration actuelle est le [Date d'Expiration Actuelle]: 12/2023
+
+Sollicite par la présente le renouvellement de ma carte bancaire pour une durée supplémentaire. La date de renouvellement souhaitée est le [Date de Renouvellement souhaitée]: 12/2026
+
+Je m'engage à récupérer ma nouvelle carte bancaire en personne à la succursale de la Banque Centrale Populaire de Casablanca dès sa disponibilité. Je comprends également que je devrai activer ma nouvelle carte conformément aux procédures en vigueur.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Fait à Casablanca, le [Date du Jour]
+
+Signature: _________________________
+(Amira Benali)

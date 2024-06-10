@@ -1,0 +1,26 @@
+Contrat d'Hypothèque
+
+Entre la Banque Centrale Populaire, représentée par son directeur général, dont le siège social est situé à Rabat, Maroc, et ci-après dénommée "le Créancier", d'une part, et Monsieur/Madame [Nom du Titulaire], né(e) le [date de naissance] à [lieu de naissance], de nationalité marocaine, demeurant au [adresse du titulaire], titulaire de la carte d'identité nationale numéro xxxxxx, ci-après dénommé "l'Emprunteur", d'autre part.
+
+Il a été convenu ce qui suit :
+
+Objet de l'hypothèque :
+L'Emprunteur consent à l'établissement d'une hypothèque sur la propriété sise au [Adresse de la Propriété], cadastrée [numéro de cadastre], pour garantir le remboursement d'un prêt d'un montant total de [Montant] dirhams accordé par le Créancier à l'Emprunteur.
+
+Montant et Modalités de Remboursement :
+Le montant total du prêt s'élève à [Montant] dirhams. Ce montant sera remboursé par l'Emprunteur selon les modalités suivantes : [préciser les modalités de remboursement].
+
+Durée du Prêt :
+La durée du prêt est fixée à [Durée] années à compter de la date de signature du présent contrat.
+
+Taux d'Intérêt :
+Un taux d'intérêt de [Taux d'Intérêt] % par an est appliqué sur le montant du prêt. Ce taux pourra être révisé en fonction des conditions générales du marché.
+
+Fait en double exemplaire à Rabat, le [Date].
+Le Créancier,
+
+[Signature du Créancier]
+
+L'Emprunteur,
+
+[Signature de l'Emprunteur]

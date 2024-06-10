@@ -1,0 +1,23 @@
+Contrat de Service
+
+Entre Banque Centrale Populaire, située à Casablanca, Maroc, représentée par Monsieur Ahmed Benjelloun, en sa qualité de directeur des services financiers, ci-après dénommée "le Client", et Fournisseur de Services Pro, représenté par Mme Fatima Zohra Amrani, en sa qualité de directrice générale, ci-après dénommée "le Fournisseur", il a été convenu ce qui suit :
+
+Le Fournisseur s'engage à fournir les services suivants au Client : 
+- Audit des systèmes informatiques de la banque
+- Mise en place d'un logiciel de gestion des ressources humaines
+- Formation du personnel de la banque aux nouvelles technologies
+
+Le prix total des services fournis est de 150 000 dirhams marocains (MAD). Le paiement sera effectué en deux versements : un premier versement de 75 000 MAD à la signature du contrat, et un deuxième versement de 75 000 MAD à la fin des prestations de services.
+
+La date de début de la prestation de services est fixée au 1er juillet 2022. La durée totale du contrat est de six mois, prenant fin le 31 décembre 2022.
+
+Fait en double exemplaire à Casablanca, le 15 mai 2022.
+
+Pour le Client,                                  
+Signature : _______
+
+Pour le Fournisseur,                                  
+Signature : _______
+
+Ahmed Benjelloun                 Fatima Zohra Amrani
+Directeur des services financiers           Directrice Générale

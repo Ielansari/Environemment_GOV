@@ -1,0 +1,48 @@
+Facture d'Eau
+
+Société des Eaux de Banque Centrale Populaire - Maroc
+
+Facture n° : 123456789
+
+Date : 15 janvier 2023
+
+
+Nom du Titulaire : Fatima Benjelloun
+
+Adresse : 24 Rue Mohammed V, Rabat, Maroc
+
+Code Client : BCP-456789
+
+Numéro de Compteur : 0123456789
+
+Période de Consommation : 1 décembre 2022 - 31 décembre 2022
+
+
+Détails de la Consommation :
+
+- Consommation d'Eau : 15 m3
+
+- Tarif de Base : 5,00 MAD/m3
+
+- Montant Total de la Consommation d'Eau : 75,00 MAD
+
+
+Frais de Service :
+
+- TVA (10%) : 7,50 MAD
+
+- Frais Administratifs : 10,00 MAD
+
+
+Montant Total à Payer : 92,50 MAD
+
+
+Mode de Paiement : Virement Bancaire
+
+Date Limite de Paiement : 30 janvier 2023
+
+
+Veuillez régler le montant dû avant la date limite de paiement pour éviter toute interruption de service. En cas de question ou de contestation, veuillez contacter notre service clientèle au 080 123 4567.
+
+
+Merci de votre confiance et de votre ponctualité dans le paiement de vos factures.

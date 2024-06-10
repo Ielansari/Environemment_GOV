@@ -1,0 +1,46 @@
+Facture d'Achat d'Actions
+
+Date: 15 mai 2022
+
+Banque: Banque Centrale Populaire
+
+Numéro de Facture: 123456
+
+---
+
+Nom de l'Acheteur: Fatima Zouit
+
+Actions: 100 actions de la société X
+
+Prix par action: 250 MAD
+
+Prix Total: 25 000 MAD
+
+Date de l'Achat: 10 mai 2022
+
+---
+
+Montant total: 25 000 MAD
+
+TVA (20%): 5 000 MAD
+
+Total à Payer: 30 000 MAD
+
+---
+
+Mode de Paiement: Virement Bancaire
+
+IBAN: MA12345678901234567890
+
+Date d'Echéance: 20 mai 2022
+
+---
+
+Nous vous remercions de votre confiance envers Banque Centrale Populaire. Pour toutes informations complémentaires, veuillez contacter notre service client au 0801 000 000.
+
+Banque Centrale Populaire
+Adresse: 10 Rue Al Fourat, Casablanca, Morocco
+
+---
+
+Cette facture est émise conformément à la réglementation en vigueur.

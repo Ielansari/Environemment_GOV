@@ -1,0 +1,24 @@
+Facture d'Électricité
+Numéro de Client: 123456
+Date d'Émission: 5 mai 2022
+
+Nom du Titulaire: Jean Dupont
+Adresse: 123 Rue Mohammed V, Casablanca, Maroc
+
+Détails de la Consommation:
+- Consommation du Mois Précédent: 150 kWh
+- Consommation du Mois Actuel: 200 kWh
+- Tarif par kWh: 1,50 MAD
+
+Calcul du Montant à Payer:
+- Montant pour la Consommation du Mois Précédent: 225 MAD
+- Montant pour la Consommation du Mois Actuel: 300 MAD
+- Total à Payer: 525 MAD
+
+Mode de Paiement: Virement Bancaire
+Banque: Banque Centrale Populaire
+IBAN: MA12345678901234567890
+
+Paiement à Effectuer Avant le 20 mai 2022.
+
+Pour toute information supplémentaire ou réclamation, veuillez contacter notre service clientèle au 0800123456. Merci de votre confiance envers Banque Centrale Populaire.

@@ -1,0 +1,35 @@
+**Facture de Vente de Véhicule**
+
+**Banque Centrale Populaire - Maroc**
+
+**Date: 15 mai 2023**
+
+**Facture: 001234**
+
+| DÉTAILS DE LA VENTE DE VÉHICULE |
+
+|------------------------------|---------------------------|
+| Nom du Vendeur:          | Karim El Haddadi        |
+| Nom de l'Acheteur:         | Amira Benjelloun       |
+| Modèle du Véhicule:      | Peugeot 308                   |
+| Prix de Vente:                 | 120 000 MAD                 |
+| Date de la Vente:             | 10 mai 2023                 |
+
+**Conditions de paiement:**
+Le prix de vente du véhicule doit être réglé dans un délai de 30 jours à compter de la date de cette facture. Tout retard de paiement sera soumis à des pénalités de 10% par mois.
+
+**Modalités de la Vente:**
+- Le véhicule vendu est une Peugeot 308 en bon état, avec un kilométrage de 50 000 km.
+- Le vendeur garantit que le véhicule est exempt de tout vice caché et qu'il dispose de tous les documents nécessaires à son transfert de propriété.
+- L'acheteur s'engage à prendre en charge les frais liés à la mutation du véhicule et à l'assurer dès la date de la vente.
+
+**Conditions Générales:**
+En cas de litige, les parties s'engagent à régler le différend à l'amiable. À défaut d'accord, le tribunal de commerce de Rabat sera compétent pour juger le litige.
+
+**Fait à Rabat, le 15 mai 2023**
+**Pour Banque Centrale Populaire,**
+
+**Signature:**
+_____________________
+Karima Benabdellah
+Responsable des Ventes

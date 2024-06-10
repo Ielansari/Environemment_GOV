@@ -1,0 +1,31 @@
+**Rapport de Gestion des Risques**
+
+**Date:** 28 Février 2022
+
+En tant que Banque Centrale Populaire au Maroc, il est essentiel de surveiller et gérer de manière proactive les risques pouvant affecter nos opérations quotidiennes. Ce rapport met en lumière les principaux risques identifiés, leur impact potentiel et les stratégies de mitigation correspondantes.
+
+**Risques Identifiés:**
+
+1. **Risque de Crédit:** L'exposition à des emprunteurs à risque pourrait entraîner des pertes financières significatives pour la banque.
+   
+2. **Risque de Liquidité:** Une incapacité à répondre aux retraits massifs des clients pourrait compromettre la stabilité financière de la banque.
+
+3. **Risque Opérationnel:** Les défaillances des processus internes ou externes pourraient entraîner des erreurs, des fraudes ou des interruptions des activités.
+
+**Impact:**
+
+1. En cas de réalisation du risque de crédit, la banque pourrait subir des pertes financières importantes, ce qui pourrait affecter sa rentabilité et sa réputation sur le marché.
+
+2. Le risque de liquidité pourrait entraîner une crise de confiance des déposants et une dégradation de la notation de crédit de la banque, affectant ainsi ses activités futures et sa croissance.
+
+3. Les risques opérationnels pourraient entraîner des coûts supplémentaires, une baisse de la productivité et des litiges avec les parties prenantes, ce qui pourrait également nuire à la réputation de la banque.
+
+**Stratégie de Mitigation:**
+
+1. Pour atténuer le risque de crédit, la banque a mis en place des normes strictes de souscription, des analyses de risque approfondies et une surveillance continue des portefeuilles de prêts.
+
+2. En ce qui concerne le risque de liquidité, la banque maintient des ratios de liquidité adéquats, diversifie ses sources de financement et établit des lignes de crédit de secours.
+
+3. Pour gérer les risques opérationnels, la banque met en œuvre des contrôles internes solides, des audits réguliers, une formation continue du personnel et des plans de continuité des activités pour faire face aux interruptions potentielles.
+
+En conclusion, la Banque Centrale Populaire s'engage à identifier, évaluer et gérer activement les risques pour assurer sa stabilité financière, protéger les intérêts des parties prenantes et maintenir sa position de leader sur le marché bancaire marocain.

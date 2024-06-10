@@ -1,0 +1,31 @@
+**Banque Centrale Populaire**
+
+**Demande de Dépôt à Terme**
+
+Fait le [Date]
+
+Mme/M. [Nom du Titulaire]
+Adresse: [Adresse du Titulaire]
+Téléphone: [Numéro de Téléphone du Titulaire]
+E-mail: [Adresse E-mail du Titulaire]
+
+**Objet**: Demande de Dépôt à Terme
+
+Madame, Monsieur,
+
+Nous vous prions de bien vouloir trouver ci-joint une demande de Dépôt à Terme que nous souhaitons effectuer auprès de votre établissement, Banque Centrale Populaire, conformément aux informations suivantes:
+
+- **Nom du Titulaire**: Mme/M. [Nom du Titulaire]
+- **Montant du Dépôt**: [Montant du Dépôt en MAD]
+- **Durée du Dépôt**: [Durée du Dépôt en mois]
+- **Taux d'Intérêt**: [Taux d'Intérêt proposé en %]
+
+Nous vous saurions gré de bien vouloir nous informer des modalités et conditions liées à ce dépôt à terme, ainsi que des éventuels documents à fournir pour finaliser cette demande.
+
+Nous restons à votre disposition pour toute information complémentaire et vous prions d'agréer, Madame, Monsieur, l'expression de nos salutations distinguées.
+
+Veuillez agréer, Madame, Monsieur, l'expression de nos salutations distinguées.
+
+Fait à [Ville], le [Date]
+
+[Sceau et Signature]

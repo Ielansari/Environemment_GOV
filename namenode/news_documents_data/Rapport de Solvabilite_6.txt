@@ -1,0 +1,25 @@
+Rapport de Solvabilité 
+
+Date: 15 octobre 2021
+
+Banque: Banque Centrale Populaire
+
+**Données financières:**
+
+Ratio de Solvabilité: 15%
+
+Capitaux Propres: 100 000 000 MAD
+
+Dettes: 500 000 000 MAD
+
+Actifs: 1 000 000 000 MAD
+
+**Analyse:**
+
+Le Ratio de Solvabilité de la Banque Centrale Populaire pour la période se terminant le 15 octobre 2021 est de 15%, ce qui indique que la banque dispose d'un niveau de fonds propres adéquat par rapport à ses actifs et ses dettes. Les capitaux propres de la banque s'élèvent à 100 000 000 MAD, ce qui représente une part importante de son passif.
+
+En revanche, les dettes de la banque s'élèvent à 500 000 000 MAD, dépassant ainsi ses capitaux propres. Cela souligne l'importance pour la Banque Centrale Populaire de maintenir une gestion prudente de ses dettes afin de préserver sa solvabilité.
+
+Les actifs de la banque se chiffrent à 1 000 000 000 MAD, démontrant la solidité de son bilan. Cependant, il est essentiel que la banque continue à surveiller et à gérer efficacement ses actifs pour garantir sa stabilité financière à long terme.
+
+En conclusion, la Banque Centrale Populaire affiche un Ratio de Solvabilité raisonnable, mais doit rester vigilante quant à la gestion de ses dettes pour assurer sa pérennité et sa robustesse financière.

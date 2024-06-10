@@ -1,0 +1,26 @@
+# Facture d'Achat
+
+| Banque Centrale Populaire |
+|---------------------------|
+| Adresse: Avenue Hassan II, Casablanca |
+| Contact: +212 5 22 22 42 42 |
+| Email: contact@bcp.ma |
+
+---
+
+| Nom de l'Acheteur | Article | Prix | Date | Vendeur |
+|-------------------|---------|------|------|---------|
+| Jean Dupont | Ordinateur portable | 7000 DH | 15/09/2023 | TechnoPro |
+| Amina Khalil | Imprimante multifonction | 1500 DH | 16/09/2023 | Bureau Vallée |
+
+---
+
+**Total à Payer:** 8500 DH
+
+---
+
+Merci pour votre confiance en Banque Centrale Populaire. N'hésitez pas à nous contacter pour toute question ou clarification supplémentaire.
+
+---
+
+*Cette facture est un document légal.*

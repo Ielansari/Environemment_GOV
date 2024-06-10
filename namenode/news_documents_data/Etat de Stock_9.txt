@@ -1,0 +1,12 @@
+**Etat de Stock**
+| Date | Titres détenus | Prix d'Achat | Valeur Actuelle |
+|------------|---------------------|--------------|-----------------------|
+| 15/09/2022 | Actions BCP | 500 MAD | 550 MAD |
+| 15/09/2022 | Obligations du Trésor | 1000 MAD | 1050 MAD |
+| 15/09/2022 | Actions IAM | 300 MAD | 320 MAD |
+
+Ce document récapitule l'état des stocks détenus par Banque Centrale Populaire au 15/09/2022. Les titres détenus incluent des actions de la BCP, des obligations du Trésor et des actions de IAM. Le prix d'achat initial des actions BCP était de 500 MAD par action, pour une valeur actuelle de 550 MAD par action. Les obligations du Trésor ont été acquises à 1000 MAD l'unité, et leur valeur actuelle est de 1050 MAD. Enfin, les actions IAM ont été achetées à 300 MAD chacune et ont une valeur actuelle de 320 MAD.
+
+Cet état de stock démontre la situation des investissements de la Banque Centrale Populaire, reflétant une valorisation positive de ses actifs. Il est important de suivre régulièrement l'évolution de la valeur des titres détenus afin de prendre des décisions éclairées en matière de gestion financière et d'investissement.
+
+Merci de contacter le service financier de la Banque Centrale Populaire pour plus d'informations sur les stocks et les investissements en cours.

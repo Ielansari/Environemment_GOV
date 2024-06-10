@@ -1,0 +1,30 @@
+[Entête de la Banque Centrale Populaire]
+
+[Demande de Prêt]
+
+Madame/Monsieur le Responsable des Prêts,
+
+Je soussigné(e) [Nom du Demandeur], résidant à [Adresse du Demandeur], souhaite par la présente formulaire soumettre ma demande de prêt auprès de la Banque Centrale Populaire.
+
+Voici les détails de ma demande :
+
+- Nom du Demandeur : [Nom du Demandeur]
+- Montant Demandé : [Montant Demande]
+- Revenu Annuel : [Revenu Annuel]
+- Score de Crédit : [Score de Crédit]
+
+Je tiens à vous informer que je suis un(e) client(e) fidèle de la Banque Centrale Populaire depuis plusieurs années et que j'ai toujours honoré mes engagements financiers de manière scrupuleuse.
+
+En ce qui concerne ma situation financière, mon revenu annuel s'élève à [Revenu Annuel] et mon score de crédit est de [Score de Crédit]. Je suis convaincu(e) de ma capacité à rembourser le prêt demandé dans les délais impartis.
+
+Le montant demandé de [Montant Demande] servira à [Raison de la Demande de Prêt].
+
+Je vous prie d'accuser réception de ma demande et de me tenir informé(e) des étapes du processus d'évaluation. Je reste à votre disposition pour fournir toute information complémentaire nécessaire.
+
+Je vous prie d'agréer, Madame/Monsieur, l'expression de mes salutations distinguées.
+
+[Fait à Date]
+
+[Signature du Demandeur]
+
+[Entête Banque Centrale Populaire]

@@ -1,0 +1,32 @@
+--- 
+**Banque Centrale Populaire - Facture de Vente Immobilière**
+
+Nom du Vendeur: Jean Dupont
+Nom de l'Acheteur: Fatima Zahra El Makki
+Adresse de la Propriété: 123 Rue des Roses, Casablanca
+Prix de Vente: 1,200,000 MAD
+Date: 15 avril 2023
+
+Cette facture de vente immobilière atteste que M. Jean Dupont a cédé la propriété située au 123 Rue des Roses, Casablanca, à Mme Fatima Zahra El Makki pour la somme de 1,200,000 MAD le 15 avril 2023.
+
+Fait à Casablanca, le 15 avril 2023
+
+---
+Banque Centrale Populaire - Vente immobilière
+Transaction N°: 987654321
+Date: 15-04-2023
+
+Nom du Vendeur: Marie Martin
+Adresse du Vendeur: 456 Avenue des Lauriers, Rabat
+
+Nom de l'Acheteur: Ahmed Ben Ali
+Adresse de l'Acheteur: 789 Boulevard des Jardins, Marrakech
+
+Adresse de la Propriété: Lotissement Al Amal, Tanger
+Prix de Vente: 2,350,000 MAD
+
+Le vendeur, Mme Marie Martin, a cédé la propriété située au Lotissement Al Amal, Tanger, à M. Ahmed Ben Ali pour la somme de 2,350,000 MAD le 15 avril 2023.
+
+Fait à Rabat, le 15 avril 2023
+
+---

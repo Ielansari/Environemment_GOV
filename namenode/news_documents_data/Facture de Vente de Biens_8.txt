@@ -1,0 +1,29 @@
+Facture de Vente de Biens
+
+Numéro de Facture: BCPT2022-001
+Date: 15 février 2022
+
+Banque Centrale Populaire
+Adresse: Avenue Hassan II, Casablanca, Maroc
+Téléphone: +212 5 22 22 22 22
+
+Nom du Vendeur: Ahmed El Amiri
+Adresse: 10 Rue des Banques, Rabat, Maroc
+Téléphone: +212 6 66 66 66 66
+N° Identifiant: 123456789
+
+Nom de l'Acheteur: Leila Benjelloun
+Adresse: 5 Avenue Mohamed V, Marrakech, Maroc
+Téléphone: +212 6 11 11 11 11
+N° Identifiant: 987654321
+
+Détails de la Vente:
+- Description du Bien: Ordinateur Portable
+- Prix de Vente: 8000 DH
+- Date de la Vente: 10 février 2022
+
+Total: 8000 DH
+
+Conditions de Paiement: Paiement en espèces à la livraison
+
+Merci pour votre confiance.

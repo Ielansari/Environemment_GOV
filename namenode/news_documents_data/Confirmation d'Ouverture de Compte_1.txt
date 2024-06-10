@@ -1,0 +1,19 @@
+Banque Centrale Populaire
+
+Confirmation d'Ouverture de Compte
+
+Madame, Monsieur,
+
+Nous avons le plaisir de vous informer que le compte bancaire ci-dessous a été ouvert avec succès :
+
+- Nom du Titulaire : Fatima Benali
+- Numéro de Compte : 12345678901234
+- Date d'Ouverture : 15 Janvier 2022
+
+Nous vous remercions d'avoir choisi Banque Centrale Populaire pour la gestion de vos avoirs. Veuillez trouver ci-joint les documents détaillant les termes et conditions de votre compte.
+
+N'hésitez pas à nous contacter pour toute question ou assistance supplémentaire. Nous sommes à votre entière disposition pour vous accompagner dans la gestion de vos finances.
+
+Cordialement,
+
+Banque Centrale Populaire

@@ -1,0 +1,29 @@
+Facture de Vente Immobilière
+
+Date: 15 Février 2022
+
+Nom du Vendeur: Amine Benjelloun
+Adresse: Avenue Mohamed V, Casablanca, Maroc
+NIF: 123456789
+
+Nom de l'Acheteur: Samira Bouazza
+Adresse: Rue des Roses, Rabat, Maroc
+NIF: 987654321
+
+Adresse de la Propriété: Villa Oasis, Marrakech, Maroc
+
+Description de la Propriété: Magnifique villa de 300m² située au cœur de Marrakech, avec piscine et jardin luxuriant.
+
+Prix de Vente: 5 000 000 MAD
+
+Montant à Payer: 5 000 000 MAD
+
+Conditions de Paiement: Paiement comptant par virement bancaire à Banque Centrale Populaire
+IBAN: MA1234567890123456789012
+
+Cette facture est conforme à la réglementation en vigueur et doit être réglée dans un délai de 30 jours à compter de la date d'émission. En cas de retard de paiement, des pénalités de retard seront appliquées conformément aux dispositions légales.
+
+Veuillez agréer, Madame Bouazza, l'expression de mes salutations distinguées.
+
+Amine Benjelloun
+Banque Centrale Populaire, Maroc

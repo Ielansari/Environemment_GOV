@@ -1,0 +1,36 @@
+**Banque Centrale Populaire - Demande de Transfert de Compte**
+
+**Informations du Titulaire:**
+
+- **Nom du Titulaire:** Fatima Ait Bouzid
+- **Numéro d'Identification Nationale:** AB123456
+- **Adresse:** Avenue Hassan II, Rabat, Maroc
+- **Téléphone:** +212-601-234567
+- **E-mail:** fatima.aitbouzid@example.com
+
+**Compte Source:**
+
+- **Numéro de Compte Source:** 12345678901
+- **Type de Compte:** Compte Courant
+- **Solde actuel:** 25,000 MAD
+
+**Compte Destinataire:**
+
+- **Banque Destinataire:** Banque XYZ
+- **Numéro de Compte Destinataire:** 98765432109
+- **IBAN:** XYZMAMAMXXX123456789
+- **Montant à Transférer:** 15,000 MAD
+
+**Motif du Transfert:**
+
+Le titulaire du compte, Fatima Ait Bouzid, demande respectueusement à la Banque Centrale Populaire de procéder au transfert de 15,000 MAD de son compte source (12345678901) vers le compte destinataire (98765432109) ouvert auprès de la Banque XYZ, pour des raisons personnelles.
+
+Je soussigné(e) Fatima Ait Bouzid déclare sur l'honneur l'exactitude des informations fournies et demande à la Banque Centrale Populaire d'effectuer le transfert tel que spécifié ci-dessus.
+
+Fait à Rabat, le 15 novembre 2023.
+
+Signature: [signer ici]
+
+---
+
+Ce document est une demande de transfert de compte conforme aux procédures de la Banque Centrale Populaire. Veuillez traiter cette demande dans les plus brefs délais et informer le client de la confirmation du transfert.

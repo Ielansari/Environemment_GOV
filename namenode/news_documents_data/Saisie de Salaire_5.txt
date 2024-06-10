@@ -1,0 +1,35 @@
+Document: Saisie de Salaire
+
+Date: 15 septembre 2023
+
+Nom de l'Employeur: Banque Centrale Populaire
+
+Adresse de l'Employeur: 123 Avenue Hassan II, Casablanca, Maroc
+
+Nom de l'Employé: Fatima El Amrani
+
+Adresse de l'Employé: 55 Rue Mohamed V, Rabat, Maroc
+
+Numéro d'Identification: 1234567890
+
+Montant de la Saisie: 1000 MAD
+
+Raison: Remboursement de Prêt Personnel
+
+Chère Madame El Amrani,
+
+Nous nous permettons de vous informer que, suite à une décision de justice du Tribunal de Rabat en date du 10 septembre 2023, une saisie de salaire a été mise en place sur vos émoluments en faveur de Banque Centrale Populaire.
+
+Le montant de la saisie s'élève à 1000 MAD et est destiné au remboursement du prêt personnel que vous avez contracté auprès de notre institution. Cette mesure a été prise conformément à la législation en vigueur et aux termes du contrat de prêt que vous avez signé.
+
+Nous vous prions de bien vouloir prendre les dispositions nécessaires auprès de notre service financier pour mettre en place le virement automatique du montant de la saisie sur votre compte bancaire afin d'honorer vos engagements.
+
+Pour toute information complémentaire ou pour toute contestation éventuelle, vous pouvez contacter notre service clientèle au 080 100 7777.
+
+Nous vous remercions de votre compréhension et restons à votre disposition pour toute demande supplémentaire.
+
+Cordialement,
+
+[Signature]
+
+Banque Centrale Populaire

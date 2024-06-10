@@ -1,0 +1,34 @@
+**Demande de Virement International**
+
+Le [Date]
+
+À l'attention de [Nom de l'Agent Bancaire],
+Banque Centrale Populaire,
+Agence [Nom de l'Agence],
+[Adresse de l'Agence],
+Code Postal [Code Postal],
+
+**Objet : Demande de Virement International**
+
+Madame, Monsieur,
+
+Je soussigné(e) [Nom du Titulaire], titulaire du compte bancaire n° [Compte Source] auprès de la Banque Centrale Populaire, sollicite par la présente la mise en place d'un virement international en faveur du compte bancaire n° [Compte Destination].
+
+Les détails de la transaction sont les suivants :
+- **Nom du Titulaire** : [Nom du Titulaire]
+- **Compte Source** : [Compte Source]
+- **Compte Destination** : [Compte Destination]
+- **Montant** : [Montant] MAD
+- **Date** : [Date]
+
+Je vous prie de bien vouloir traiter cette demande dans les meilleurs délais et de m'informer de toute information complémentaire nécessaire à l'exécution de ce virement international.
+
+Je reste à votre disposition pour toute question ou clarification à ce sujet.
+
+Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Fait à [Ville], le [Date]
+
+[Sélecionnez leotypes de votre Nom]
+
+[Nom du Titulaire]

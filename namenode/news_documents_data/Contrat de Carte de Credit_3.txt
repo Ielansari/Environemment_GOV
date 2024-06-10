@@ -1,0 +1,25 @@
+Contrat de Carte de Crédit
+
+Entre la Banque Centrale Populaire, ci-après dénommée 'La Banque', représentée par son directeur général, et M./Mme [Nom du Titulaire], désigné(e) ci-après en tant que 'Le Titulaire', il est convenu ce qui suit :
+
+Article 1 : Objet du contrat
+La Banque accorde au Titulaire une carte de crédit, ci-après dénommée 'La Carte', soumise aux termes et conditions du présent contrat. Le Titulaire accepte de se conformer à ces termes et conditions pour l'utilisation de la Carte.
+
+Article 2 : Carte de Crédit
+Le Titulaire est informé que la Carte est émise avec une limite de crédit maximum de [Limite de Crédit]. Cette limite peut être modifiée par la Banque à sa seule discrétion. Le Titulaire s'engage à ne pas dépasser cette limite et à rembourser tout montant utilisé conformément aux échéances convenues.
+
+Article 3 : Taux d'Intérêt et Frais
+Le taux d'intérêt applicable aux transactions effectuées avec la Carte est de [Taux d'Intérêt] par an. Les frais annuels associés à la Carte s'élèvent à [Frais Annuel], et seront prélevés sur le compte du Titulaire chaque année.
+
+Article 4 : Date d'Expiration
+La Carte est valide jusqu'à la date d'expiration inscrite sur celle-ci, soit le [Date d'Expiration]. Le Titulaire est responsable de renouveler sa Carte avant cette date s'il souhaite continuer à l'utiliser.
+
+En foi de quoi, les parties ont signé le présent contrat en deux exemplaires, à [Lieu], le [Date].
+
+Pour la Banque Centrale Populaire,
+
+[Signature du Directeur Général]
+
+Pour le Titulaire,
+
+[Signature du Titulaire]

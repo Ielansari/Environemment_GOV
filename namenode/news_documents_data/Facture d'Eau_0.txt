@@ -1,0 +1,27 @@
+Facture d'Eau
+
+Date: 22 avril 2022
+Client: Banque Centrale Populaire
+
+Nom du Titulaire: Ahmed Benami
+Adresse: 12 Rue des Oliviers, Quartier des Fleurs, Casablanca
+Numéro de Compte: 1234567890
+Consommation: 15 mètres cubes
+Tarif: 10 DH/mètre cube
+Frais Fixes: 50 DH
+Montant Total: 200 DH
+
+Veuillez trouver ci-joint la facture d'eau pour le mois en cours. Les détails de la consommation sont les suivants:
+
+- Consommation d'eau: 15 mètres cubes
+- Tarif par mètre cube: 10 DH
+- Frais Fixes: 50 DH
+
+Le montant total à régler s'élève à 200 DH. Nous vous prions de bien vouloir effectuer le paiement dans les plus brefs délais pour éviter tout retard ou désagrément.
+
+Vous pouvez régler cette facture directement depuis votre compte bancaire auprès de Banque Centrale Populaire en utilisant le numéro de compte mentionné ci-dessus.
+
+Merci pour votre coopération et votre confiance. N'hésitez pas à nous contacter pour toute question ou assistance supplémentaire.
+
+Cordialement,
+Banque Centrale Populaire

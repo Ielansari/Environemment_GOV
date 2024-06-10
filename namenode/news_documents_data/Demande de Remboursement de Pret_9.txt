@@ -1,0 +1,26 @@
+Banque Centrale Populaire
+Service des Prêts
+
+Demande de Remboursement de Prêt
+
+Date: 23 juillet 2023
+
+Objet: Demande de Remboursement de Prêt
+
+Madame, Monsieur,
+
+Je soussigné, [Nom du Titulaire], titulaire du prêt numéro [Numéro de Prêt], contracté auprès de votre établissement, viens par la présente vous informer de ma volonté de rembourser par anticipation ledit prêt.
+
+Je m'engage à régler le montant total, tel que stipulé dans le tableau d'amortissement, s'élevant à [Montant Remboursé] Dirhams. Je vous prie donc de bien vouloir procéder à l'encaissement de cette somme sur le compte bancaire associé au prêt susmentionné.
+
+Je souhaite effectuer ce remboursement anticipé le [Date].
+
+Je vous prie de bien vouloir accuser réception de cette demande et de m'informer des démarches supplémentaires à entreprendre de ma part pour finaliser ce remboursement dans les meilleurs délais.
+
+Je vous remercie par avance pour votre attention et vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Fait à [Ville], le 23 juillet 2023
+
+[Nom du Titulaire]
+[Téléphone du Titulaire]
+[Adresse du Titulaire]

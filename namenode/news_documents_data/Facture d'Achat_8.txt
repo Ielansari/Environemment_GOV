@@ -1,0 +1,29 @@
+Facture d'Achat
+
+Banque Centrale Populaire - Succursale Rabat
+
+Date: 15 septembre 2022
+
+Nom de l'Acheteur: Fatima Zahra El Amrani
+Adresse: 27 Avenue Hassan II, Rabat, Maroc
+Numéro de téléphone: 06 12 34 56 78
+Adresse e-mail: fatimazahra.elamrani@gmail.com
+
+Numéro de compte bancaire: 12345678901234567890
+
+Détails de l'Achat:
+Article: Ordinateur portable Lenovo Ideapad
+Prix unitaire: 6000 MAD
+Quantité: 1
+Montant total: 6000 MAD
+
+Vendeur: Informatique Maroc SARL
+Adresse: 5 Rue des Entrepreneurs, Rabat, Maroc
+Numéro de téléphone: 05 23 45 67 89
+Adresse e-mail: contact@informatiquemaroc.ma
+
+Mode de Paiement: Virement Bancaire
+
+Total TTC: 6000 MAD
+
+Merci pour votre confiance.

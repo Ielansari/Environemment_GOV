@@ -1,0 +1,40 @@
+**Facture de Vente de Véhicule**
+
+**Informations sur la Vente :**
+
+- **Date :** 15 juin 2021
+
+- **Banque Centrale Populaire**
+
+**Détails de la Vente :**
+
+- **Nom du Vendeur :** Ahmed Benitez
+- **Adresse du Vendeur :** 28 Rue Hassan, Casablanca
+- **Numéro de Téléphone du Vendeur :** 06 12 34 56 78
+
+- **Nom de l'Acheteur :** Leila Amrani
+- **Adresse de l'Acheteur :** 14 Avenue Mohammed V, Rabat
+- **Numéro de Téléphone de l'Acheteur :** 06 98 76 54 32
+
+- **Modèle du Véhicule :** Peugeot 308
+- **Plaque d'Immatriculation :** 1234567
+- **Année du Modèle :** 2019
+- **Couleur :** Gris métallisé
+
+- **Prix de Vente :** 120,000 MAD
+
+**Conditions de Paiement :**
+
+- Un acompte de 30,000 MAD a été versé lors de la signature du contrat de vente.
+
+- Le solde restant de 90,000 MAD devra être réglé dans un délai de 30 jours à compter de la date de cette facture.
+
+**Termes et Conditions :**
+
+- Le véhicule est vendu dans l'état où il se trouve sans garantie, expresse ou implicite.
+
+- Le vendeur certifie que le véhicule est entièrement payé et qu'il a le droit de le vendre.
+
+- En cas de non-paiement du solde dans le délai imparti, des pénalités de retard pourront être appliquées.
+
+Merci de votre confiance et nous vous souhaitons une excellente route avec votre nouvelle voiture.

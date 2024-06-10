@@ -1,0 +1,14 @@
+```plaintext
+Facture de Services
+
+Nom du Fournisseur: ABC Consulting
+Services: Conseil en Gestion Financière
+Montant: 15 000 MAD
+Date: 28 avril 2022
+
+Banque Centrale Populaire
+Adresse: Boulevard Mohamed V, Casablanca, Maroc
+Téléphone: +212 5 22 22 78 30
+Email: contact@bcp.ma
+Site Web: www.bcp.ma
+```

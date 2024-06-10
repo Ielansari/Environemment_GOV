@@ -1,0 +1,36 @@
+**Demande de Chèque**
+
+Banque Centrale Populaire   
+Agence [Numéro de l'agence] - [Ville de l'agence]  
+Tél : [Numéro de téléphone de l'agence]  
+Fax : [Numéro de fax de l'agence]  
+E-mail : [Adresse e-mail de l'agence]
+
+A l'attention du directeur de l'agence
+
+Fait à [Ville], le [Date du jour]
+
+Objet : Demande d'émission de chèque
+
+Madame, Monsieur,
+
+Par la présente, je soussigné(e) [Nom du Titulaire], titulaire du compte n°[Numéro de compte] ouvert auprès de votre agence, sollicite l'émission d'un chèque bancaire.
+
+Les détails nécessaires à cette demande sont les suivants :
+
+- **Nom du Titulaire** : [Nom du Titulaire]
+- **Montant** : [Montant en chiffres] Dirhams
+- **Bénéficiaire** : [Nom du Bénéficiaire]
+- **Date** : [Date de l'émission du chèque]
+
+Je m'engage à ce que le compte soit suffisamment approvisionné pour couvrir le montant susmentionné. Veuillez trouver ci-joint tous les documents requis pour cette demande.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Signature
+
+(N'oubliez pas de joindre une copie de votre pièce d'identité valide avec cette demande)
+
+---
+
+Cette lettre est un exemple de demande de chèque à Banque Centrale Populaire au Maroc. Assurez-vous de personnaliser les informations telles que le nom du titulaire, le montant, le bénéficiaire et la date avant de soumettre votre demande à l'agence bancaire concernée.

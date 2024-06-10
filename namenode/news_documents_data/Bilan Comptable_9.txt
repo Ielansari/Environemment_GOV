@@ -1,0 +1,34 @@
+Bilan Comptable de Banque Centrale Populaire au 31 décembre 2021
+
+Nom de l'Entreprise: Banque Centrale Populaire
+Date: 31 décembre 2021
+
+ACTIFS
+- Trésorerie: 50 000 000 MAD
+- Créances sur les Établissements de Crédit: 120 000 000 MAD
+- Titres de Placement: 80 000 000 MAD
+- Prêts et Créances sur la clientèle: 400 000 000 MAD
+- Immobilisations Corporelles: 150 000 000 MAD
+- Autres Actifs: 30 000 000 MAD
+TOTAL DES ACTIFS: 830 000 000 MAD
+
+PASSIFS
+- Dépôts de la Clientèle: 550 000 000 MAD
+- Emprunts et Dettes Financières: 120 000 000 MAD
+- Provisions pour Risques et Charges: 20 000 000 MAD
+- Autres Passifs: 40 000 000 MAD
+TOTAL DES PASSIFS: 730 000 000 MAD
+
+CAPITAL PROPRE
+- Capital Social: 100 000 000 MAD
+- Réserves: 50 000 000 MAD
+- Résultat de l'exercice: 50 000 000 MAD
+TOTAL DU CAPITAL PROPRE: 200 000 000 MAD
+
+En date du 31 décembre 2021, le Bilan Comptable de Banque Centrale Populaire fait ressortir des actifs s'élevant à 830 000 000 MAD, des passifs totalisant 730 000 000 MAD, et un capital propre de 200 000 000 MAD. Ces chiffres démontrent la solidité financière de la banque et sa capacité à soutenir ses activités et engagements envers sa clientèle.
+
+Fait à Rabat, le 31 janvier 2022
+
+Signature,
+[Your Name],
+Expert Bancaire

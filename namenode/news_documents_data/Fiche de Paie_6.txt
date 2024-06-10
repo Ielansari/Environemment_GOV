@@ -1,0 +1,27 @@
+**BANQUE CENTRALE POPULAIRE - FICHE DE PAIE**
+
+- Nom de l'Employé: Ahmed Benkhadra
+- Matricule: BCP123456
+- Poste: Expert en Banque
+- Mois de Référence: Mars 2023
+
+| Description            | Montant (MAD)         |
+|------------------------|-----------------------|
+| Salaire de Base        | 15 000                |
+| Heures Supplémentaires | 2 500                 |
+| Prime Exceptionnelle   | 3 000                 |
+| Autres Avantages        | 1 500                |
+| Déductions             | -2 000               |
+| Net à Payer            | 20 000                |
+
+Note: Les montants sont exprimés en dirhams marocains (MAD).
+
+Fait à Rabat, le 31 Mars 2023
+
+Signature de l'Employeur: [Signature]
+
+Cette fiche de paie est conforme aux données enregistrées dans nos systèmes.
+
+---
+
+N.B. : Cette fiche de paie est un exemple fictif et ne correspond à aucune situation réelle au sein de la Banque Centrale Populaire de Maroc. Toute ressemblance avec des personnes ou des événements réels est purement fortuite.

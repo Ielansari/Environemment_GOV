@@ -1,0 +1,24 @@
+                    Relevé de Compte
+
+Numéro de Compte: 12345678901234
+Client: Madame Leila Benjelloun
+Date du relevé: 15 avril 2022
+
+Transactions:
+- 01/04/2022: Dépôt de 5 000 MAD
+- 05/04/2022: Paiement par carte de 300 MAD chez Supermarché Marjane
+- 10/04/2022: Virement de 1 000 MAD depuis un compte externe
+- 12/04/2022: Prélèvement de 500 MAD pour paiement de facture d'électricité
+- 14/04/2022: Retrait d'espèces de 700 MAD au distributeur
+
+Solde actuel: 4 500 MAD
+
+Chère Madame Benjelloun,
+
+Nous vous informons que le solde de votre compte s'élève à 4 500 MAD suite aux dernières transactions effectuées. Veuillez trouver ci-dessus le relevé détaillé des opérations récentes.
+
+N'hésitez pas à nous contacter pour toute information complémentaire.
+
+Cordialement,
+
+Banque Centrale Populaire, Maroc.

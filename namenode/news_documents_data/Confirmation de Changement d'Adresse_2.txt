@@ -1,0 +1,33 @@
+**Banque Centrale Populaire**  
+**Confirmation de Changement d'Adresse**  
+
+Le __[Date]__  
+
+__Objet: Confirmation de Changement d'Adresse__  
+
+Madame, Monsieur,  
+
+Nous vous informons par la présente que le changement d'adresse associé au compte du titulaire mentionné ci-dessous vient d'être enregistré avec succès dans nos systèmes. Veuillez trouver ci-dessous les détails de ce changement d'adresse :  
+
+- **Nom du Titulaire**: M. Ahmed Benjelloun  
+- **Ancienne Adresse**:  
+Rue des Oliviers, Quartier Al Firdaous,  
+Ville: Rabat, Code Postal: 10020  
+- **Nouvelle Adresse**:  
+Avenue des Orangers, Résidence Al Manal, Appt 5  
+Ville: Casablanca, Code Postal: 20050  
+
+Nous vous prions de noter que toutes les communications futures de notre part seront adressées à cette nouvelle adresse.  
+
+Si vous constatez une quelconque anomalie dans ces informations, veuillez contacter notre service client au **080 200 3000** pour rectification.  
+
+Veuillez agréer, Madame, Monsieur, l'expression de nos salutations distinguées.  
+
+Pour Banque Centrale Populaire  
+
+__[Signature]__  
+Service Client  
+
+---  
+
+Ceci est un document généré à titre d'exemple fictif pour illustrer une confirmation de changement d'adresse au sein de la Banque Centrale Populaire.

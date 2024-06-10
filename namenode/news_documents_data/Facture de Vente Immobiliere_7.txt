@@ -1,0 +1,25 @@
+```
+Facture de Vente Immobilière
+
+Nom du Vendeur: Abdelaziz Mahrez
+Nom de l'Acheteur: Fatima Benjelloun
+Adresse de la Propriété: Résidence Al Amal, Quartier des Hôpitaux, Casablanca, Maroc
+Prix de Vente: 2 500 000 MAD
+Date: 15 Février 2022
+
+Banque Centrale Populaire - Agence Casablanca
+Adresse: 54, Boulevard Abdelmoumen, Casablanca
+Téléphone: +212 5 22 30 10 02
+
+Détails de la Transaction:
+- Prix de la Propriété: 2 500 000 MAD
+- Honoraires de l'Agence: 25 000 MAD
+- Total: 2 525 000 MAD
+
+Modalités de Paiement:
+- Un acompte de 10% (252 500 MAD) a été effectué le jour de la signature du compromis de vente.
+- Le solde restant de 2 272 500 MAD sera versé par virement bancaire dans un délai de 30 jours.
+
+Nous vous remercions pour votre confiance. N'hésitez pas à contacter votre conseiller en gestion de patrimoine à la Banque Centrale Populaire pour toute information complémentaire.```
+
+Cette facture de vente immobilière fictive est générée dans le contexte de la Banque Centrale Populaire au Maroc. Les données personnelles utilisées sont synthétiques et destinées à des fins d'exemple uniquement.

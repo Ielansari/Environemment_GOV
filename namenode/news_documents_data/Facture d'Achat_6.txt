@@ -1,0 +1,23 @@
+Facture d'Achat
+Numéro de Facture: ABC123
+Date: 15 mars 2023
+Vendeur: Banque Centrale Populaire, Succursale Casablanca
+
+Nom de l'Acheteur: Fatima Zahra Ait Ouali
+Adresse: 27 Rue Hassan II, Casablanca
+Téléphone: 06 12 34 56 78
+
+Article                    Prix
+-------------------------------------
+Carte Bancaire          150,00 MAD
+Chéquier                     50,00 MAD
+
+Total: 200,00 MAD
+
+Modes de Paiement:
+- Espèces: 200,00 MAD
+- Carte Bancaire
+
+Date de Paiement: 15 mars 2023
+
+Merci pour votre achat à la Banque Centrale Populaire.

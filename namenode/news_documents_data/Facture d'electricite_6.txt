@@ -1,0 +1,31 @@
+**Facture d'Électricité**
+
+Numéro de Référence: 123456789
+Date d'Émission: 15 octobre 2021
+
+Banque Centrale Populaire - Service Facturation
+Adresse: Avenue des FAR, Rabat
+
+|------------------------------------------------------------------|
+| Nom du Titulaire: Ahmed El Khattabi                            |
+| Adresse: 25 Rue Mohammed V, Casablanca                           |
+| Code Postal: 20000                                              |
+| Numéro de Téléphone: 06 12 34 56 78                             |
+|------------------------------------------------------------------|
+
+|---------------------------------------------------------------|
+| Désignation                              | Montant (MAD)      |
+|---------------------------------------------------------------|
+| Consommation d'Électricité               |        550         |
+| Taxe sur la Consommation d'Électricité    |        110         |
+| Frais de Service                          |         25         |
+|---------------------------------------------------------------|
+| Total à Payer:                            |        685         |
+|---------------------------------------------------------------|
+
+Merci de régler le montant total de 685 MAD avant le 30 octobre 2021 pour éviter toute interruption de service. En cas de question, n'hésitez pas à contacter notre service clientèle au 0800 123 456.
+
+Nous vous remercions de votre fidélité.
+
+Cordialement,
+Banque Centrale Populaire - Service Facturation

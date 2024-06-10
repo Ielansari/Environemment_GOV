@@ -1,0 +1,34 @@
+Facture de Vente de Véhicule
+
+Banque Centrale Populaire - Succursale Rabat
+
+Date: 15 Février 2023
+
+Nom du Vendeur: Ahmed Benjelloun
+Adresse: 10 Rue Mohammed V, Rabat
+Téléphone: 06 12 34 56 78
+NIF: 1020304050
+
+Nom de l'Acheteur: Samia Zouhair
+Adresse: 25 Avenue Hassan II, Rabat
+Téléphone: 06 98 76 54 32
+NIF: 2030405060
+
+Modèle du Véhicule: Renault Duster 2023
+Numéro de Série: RNT123456789
+Année de Fabrication: 2023
+Couleur: Gris métallisé
+
+Prix de Vente: 150 000 MAD
+Mode de Paiement: Virement Bancaire
+
+Conditions de Vente:
+Le montant total de la vente s'élève à 150 000 MAD, payé en totalité par virement bancaire selon les coordonnées bancaires fournies par le vendeur.
+
+Modalités de Livraison:
+Le véhicule sera remis à l'acheteur dans un délai de 5 jours ouvrables à compter de la réception du paiement.
+
+Fait à Rabat, le 15 Février 2023
+
+Signature du Vendeur: _________________________
+Signature de l'Acheteur: _________________________

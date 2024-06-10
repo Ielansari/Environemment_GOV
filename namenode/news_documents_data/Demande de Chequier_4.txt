@@ -1,0 +1,37 @@
+**Demande de Chéquier**
+
+Client : Banque Centrale Populaire
+
+Agence : [Nom de l'Agence]
+
+Adresse de l'Agence : [Adresse de l'Agence]
+
+Date : [Date]
+
+Demande de chéquier
+
+Madame, Monsieur,
+
+Je soussigné(e) [Nom du Titulaire], titulaire du compte n° [Numéro de Compte] auprès de votre établissement, vous prie de bien vouloir me délivrer un chéquier.
+
+Je m'engage à utiliser les formules de chèques conformément aux dispositions légales et réglementaires en vigueur. Je m'engage également à informer la banque en cas de perte ou de vol du chéquier.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Fait à [Ville], le [Date]
+
+Signature : _____________________
+
+Veuillez noter que la signature manuscrite est obligatoire pour toute demande de chéquier.
+
+---
+
+Banque Centrale Populaire
+
+Agence : [Nom de l'Agence]
+
+Adresse : [Adresse de l'Agence]
+
+Tél : [Numéro de Téléphone de l'Agence]
+
+Fax : [Numéro de Fax de l'Agence]

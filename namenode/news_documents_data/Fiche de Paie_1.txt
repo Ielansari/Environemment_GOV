@@ -1,0 +1,21 @@
+| Banque Centrale Populaire - Fiche de Paie |
+|---------------------------------------------|
+| Nom de l'Employé : Ahmed Benali            |
+| Salaire de Base : 15 000 MAD               |
+| Heures Supplémentaires : 10 heures         |
+| Taux Horaire Supplémentaire : 150 MAD/h    |
+| Total Heures Supplémentaires : 1 500 MAD   |
+| Déductions : 2 000 MAD                     |
+| Net à Payer : 14 500 MAD                   |
+
+| Informations Supplémentaires                |
+|----------------------------------------------|
+| Mois : Janvier 2023                          |
+| Date de Paiement : 31 Janvier 2023           |
+| Numéro de Compte Bancaire : 1234567890123456 |
+
+Cette fiche de paie concerne M. Ahmed Benali, employé de la Banque Centrale Populaire au Maroc. Son salaire de base s'élève à 15 000 MAD par mois. En janvier 2023, il a effectué 10 heures supplémentaires, ce qui équivaut à 1 500 MAD supplémentaires, calculées à un taux horaire de 150 MAD. Après déductions d'un montant total de 2 000 MAD, le net à payer pour M. Benali est de 14 500 MAD.
+
+La Banque Centrale Populaire procédera au versement de ce salaire le 31 janvier 2023 sur le compte bancaire portant le numéro 1234567890123456.
+
+Veuillez noter que toutes les informations contenues dans cette fiche de paie sont confidentielles et destinées uniquement à M. Benali. En cas de question ou de réclamation, veuillez contacter le service des ressources humaines de la Banque Centrale Populaire.

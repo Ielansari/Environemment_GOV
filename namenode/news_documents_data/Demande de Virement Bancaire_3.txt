@@ -1,0 +1,25 @@
+**Demande de Virement Bancaire**
+
+Fait à Rabat, le {{Date}}
+
+Madame/Monsieur,
+
+Par la présente, je soussigné(e) {{Nom du Titulaire}}, titulaire du compte {{Numéro du Compte}} auprès de la Banque Centrale Populaire, souhaite effectuer un virement bancaire d'un montant de {{Montant}} vers le compte de destination suivant :
+
+- Nom du Bénéficiaire : {{Nom du Bénéficiaire}}
+- Numéro de Compte de Destination : {{Compte de Destination}}
+
+Je vous prie de bien vouloir prendre les mesures nécessaires pour que cette opération soit effectuée dans les meilleurs délais.
+
+Je vous joins les pièces justificatives nécessaires à cette transaction.
+
+Dans l'attente de votre confirmation, je vous prie d'agréer, Madame/Monsieur, l'expression de mes salutations distinguées.
+
+Fait à Rabat, le {{Date}}
+
+Signature :________________
+
+**Pièces Justificatives :**
+
+- Copie de la Carte d'Identité Nationale
+- RIB du compte de destination

@@ -1,0 +1,34 @@
+**Facture d'Internet**
+
+**Banque Centrale Populaire - Morocco**
+
+---
+
+**Nom du Titulaire**: Jean Dupont
+
+**Plan**: Forfait Illimité
+
+**Date**: 15 Mars 2022
+
+**Montant**: 360 MAD
+
+---
+
+Cher client,
+
+Nous vous remercions pour votre fidélité à Banque Centrale Populaire. Veuillez trouver ci-joint votre facture d'Internet pour le mois de Mars 2022.
+
+| Désignation      | Montant en MAD |
+|-------------------|---------------|
+| Forfait Illimité  | 300           |
+| Frais de Service  | 30            |
+| Taxes            | 30            |
+| **Total**         | **360**       |
+
+Veuillez effectuer le paiement avant la date d'échéance indiquée pour éviter toute interruption de service. En cas de question, n'hésitez pas à contacter notre service clientèle.
+
+Nous vous remercions pour votre confiance et restons à votre disposition pour tout renseignement complémentaire.
+
+Cordialement,
+
+Banque Centrale Populaire - Morocco

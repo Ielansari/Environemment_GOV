@@ -1,0 +1,33 @@
+**Banque Centrale Populaire - Facture d'Électricité**
+
+Numéro de Client: XXXXXX
+
+Date: 12 Novembre 2021
+
+|-----------------|----------------------------------|
+| Nom du Titulaire| Sofiane Haddad                   |
+|-----------------|----------------------------------|
+| Adresse         | 25 Rue Mohammed V, Casablanca     |
+|-----------------|----------------------------------|
+| Numéro de Compte| XXXXXXXXXXXX                     |
+|-----------------|----------------------------------|
+
+Détails de la Facturation:
+
+|-------------------------------------|----------------------------|
+| Consommation du Mois en kWh         | 350                        |
+|-------------------------------------|----------------------------|
+| Tarif par kWh                       | 1.50 MAD                   |
+|-------------------------------------|----------------------------|
+| Montant Hors Taxes                   | 525 MAD                    |
+|-------------------------------------|----------------------------|
+| TVA (20%)                           | 105 MAD                    |
+|-------------------------------------|----------------------------|
+| Total à Payer                       | 630 MAD                    |
+|-------------------------------------|----------------------------|
+
+Merci de régler le montant total de **630 MAD** avant la date limite de paiement **30 Novembre 2021**. Les paiements peuvent être effectués dans n'importe quelle succursale de Banque Centrale Populaire ou via nos services en ligne.
+
+En cas de question ou de besoin d'assistance, n'hésitez pas à contacter notre service clientèle au **080 100 2424**.
+
+Nous vous remercions pour votre confiance en la Banque Centrale Populaire pour la gestion efficace de vos paiements d'électricité.

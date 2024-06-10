@@ -1,0 +1,23 @@
+**Rapport de Vérification Interne**
+
+**Date:** 15 avril 2022
+
+**Domaine de Vérification:** Processus de gestion des risques liés aux prêts immobiliers
+
+**Résultats:** Lors de l'audit interne mené dans le cadre de la vérification des processus de gestion des risques liés aux prêts immobiliers au sein de Banque Centrale Populaire, il a été constaté que les procédures en place étaient globalement bien définies et suivies par le personnel. Cependant, des lacunes ont été relevées dans la documentation des évaluations de risques pour certains prêts immobiliers à haut risque, ce qui pourrait potentiellement exposer la banque à des pertes financières.
+
+De plus, certaines mesures de suivi post-prêt pour les emprunteurs avec des profils à risque étaient insuffisantes, ce qui pourrait entraîner un accroissement du taux de défaut de paiement. Enfin, une amélioration de la communication et de la coordination entre les différentes entités impliquées dans la gestion des risques des prêts immobiliers est nécessaire pour garantir une gestion efficace des risques.
+
+**Recommandations:**
+1. Renforcer la documentation des évaluations de risques pour tous les prêts immobiliers, en mettant l'accent sur les prêts à haut risque.
+2. Mettre en place des mesures de suivi post-prêt plus rigoureuses pour les emprunteurs présentant des profils à risque, afin de réduire le risque de défaut de paiement.
+3. Améliorer la coordination et la communication entre les différentes entités impliquées dans la gestion des risques des prêts immobiliers, en établissant des protocoles clairs et des canaux de communication efficaces.
+
+Le respect de ces recommandations contribuera à renforcer la solidité des processus de gestion des risques liés aux prêts immobiliers de Banque Centrale Populaire et à garantir une gestion prudente et efficace des risques dans ce domaine crucial pour l'institution financière.
+
+Veuillez noter que ce rapport est confidentiel et destiné à un usage interne uniquement.
+
+Cordialement,
+[Signature]
+
+(Action: Richard Dubois, Responsable de l'Audit Interne)

@@ -1,0 +1,36 @@
+Banque Centrale Populaire
+
+Agence [Nom de l'Agence]
+[Adresse de l'Agence]
+Téléphone : [Numéro de Téléphone]
+Fax : [Numéro de Fax]
+
+DEMANDE DE CHANGEMENT D'ADRESSE
+
+Je soussigné(e) [Nom du Titulaire], titulaire du compte numéro [Numéro de Compte] auprès de la Banque Centrale Populaire, agissant en tant que [Type de Compte], vous informe par la présente de mon changement d'adresse.
+
+Ancienne Adresse :
+[Adresse Actuelle]
+[Ville, Code Postal]
+[Pays]
+
+Nouvelle Adresse :
+[Nouvelle Adresse]
+[Nouvelle Ville, Nouveau Code Postal]
+[Nouveau Pays]
+
+Je vous remercie de bien vouloir prendre en compte cette modification dans vos dossiers afin de m'adresser toute correspondance future à la bonne adresse.
+
+Fait à [Ville], le [Date]
+
+Signature : ____________________
+
+Veuillez trouver ci-joint une copie de ma pièce d'identité ainsi qu'un justificatif de domicile attestant de ce changement d'adresse.
+
+Toute correspondance relative à cette demande pourra m'être adressée à ma nouvelle adresse mentionnée ci-dessus.
+
+Pour toute information complémentaire, je reste à votre entière disposition.
+
+Cordialement,
+
+[Nom du Titulaire]

@@ -1,0 +1,18 @@
+Confirmation d'Ouverture de Compte
+
+Madame/Monsieur [Nom du Titulaire],
+
+Nous vous confirmons par la présente que votre compte bancaire a bien été ouvert à la Banque Centrale Populaire. Veuillez trouver ci-dessous les détails de votre compte :
+
+- Nom du Titulaire: Mme/M. [Nom du Titulaire]
+- Numéro de Compte: [Numéro de Compte]
+- Date d'Ouverture: [Date d'Ouverture]
+
+Votre compte a été créé avec succès le [Date d'Ouverture] et est désormais opérationnel pour toutes vos transactions financières. Nous vous recommandons de conserver soigneusement ces informations pour toute référence future.
+
+Nous vous remercions de votre confiance envers la Banque Centrale Populaire et restons à votre entière disposition pour tout complément d'information.
+
+Cordialement,
+
+[Signature]
+Banque Centrale Populaire, Morocco.

@@ -1,0 +1,26 @@
+**Demande de Carte Bancaire**
+
+Banque Centrale Populaire
+Agence [Nom de l'agence]
+[Date]
+
+**A l'attention du service des Cartes Bancaires**
+
+Madame, Monsieur,
+
+Par la présente, je soussigné(e) [Nom du Titulaire] demande l'émission d'une nouvelle carte bancaire. Le détail de ma demande est le suivant :
+
+- **Nom du Titulaire** : [Nom du Titulaire]
+- **Type de Carte souhaité** : Carte de débit internationale
+- **Date** : [Date]
+
+Je vous prie de bien vouloir traiter ma demande dans les plus brefs délais et de me contacter pour toute information supplémentaire ou pour fixer un rendez-vous si nécessaire.
+
+Je reste à votre disposition pour tout renseignement complémentaire.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Fait à [Ville], le [Date]
+
+Signature :
+[Nom du Titulaire]

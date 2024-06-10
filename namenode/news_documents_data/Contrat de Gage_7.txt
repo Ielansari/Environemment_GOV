@@ -1,0 +1,29 @@
+Contrat de Gage
+
+Entre les soussignés :
+
+La Banque Centrale Populaire, représentée par [Nom du Représentant de la Banque], agissant en qualité de prêteur, d'une part,
+
+et
+
+[Nom du Titulaire] résidant au [Adresse du Titulaire], titulaire de la CIN numéro [Numéro CIN], ci-après dénommé le "Titulaire", agissant en son nom personnel, d'autre part,
+
+Il a été convenu ce qui suit :
+
+Article 1 : Montant du Prêt
+La Banque accorde un prêt d'un montant de [Montant du Prêt en chiffres] dirhams (MAD), soit [Montant du Prêt en lettres] MAD au Titulaire.
+
+Article 2 : Article Mis en Gage
+En contrepartie du prêt accordé, le Titulaire met en gage [Description de l'Article Mis en Gage] afin de garantir le remboursement de la somme empruntée et de tous ses accessoires.
+
+Article 3 : Date
+Le présent contrat de gage est établi en date du [Date du Contrat] à [Lieu du Contrat].
+
+Article 4 : Taux d'Intérêt
+Le prêt consenti par la Banque est assorti d'un taux d'intérêt fixe de [Taux d'Intérêt]% par an. Les intérêts seront calculés sur la base de [Périodicité de Calcul des Intérêts].
+
+Fait en deux exemplaires originaux, un pour chaque partie contractante.
+
+Fait à [Ville du Contrat], le [Date du Contrat]
+Le Prêteur                                           Le Titulaire
+[Nom et Signature du Représentant de la Banque]    [Nom et Signature du Titulaire]

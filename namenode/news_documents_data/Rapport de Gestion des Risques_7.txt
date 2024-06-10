@@ -1,0 +1,29 @@
+**Rapport de Gestion des Risques**
+
+**Date:** 15 mai 2022
+
+**Risques Identifiés:**
+
+1. Risque de crédit : Augmentation du taux de prêts non performants en raison de la conjoncture économique difficile.
+
+2. Risque de liquidité : Risque de déséquilibre entre les ressources disponibles et les besoins de financement des projets.
+
+3. Risque de taux d'intérêt : Fluctuations importantes des taux d'intérêt pouvant impacter la rentabilité des activités de la banque.
+
+**Impact:**
+
+1. Risque de crédit : Une augmentation des prêts non performants pourrait faire chuter le bénéfice net de la banque et affecter sa santé financière.
+
+2. Risque de liquidité : Un déséquilibre important pourrait compromettre la capacité de la banque à honorer ses engagements envers les clients et les partenaires.
+
+3. Risque de taux d'intérêt : Des fluctuations importantes pourraient réduire la marge d'intérêt nette de la banque et impacter sa rentabilité.
+
+**Stratégie de Mitigation:**
+
+1. Risque de crédit : Renforcement des politiques de gestion des risques, augmentation des provisions et suivi accru des emprunteurs fragiles.
+
+2. Risque de liquidité : Diversification des sources de financement, gestion proactive des échéances et maintien de réserves de liquidité adéquates.
+
+3. Risque de taux d'intérêt : Utilisation d'outils de couverture, ajustement des produits financiers et suivi régulier des marchés financiers pour anticiper les variations.
+
+Ce rapport souligne l'importance pour Banque Centrale Populaire de mettre en place des dispositifs efficaces de gestion des risques afin de préserver sa solidité financière et sa pérennité dans un environnement économique volatil et complexe.

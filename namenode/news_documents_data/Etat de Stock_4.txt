@@ -1,0 +1,20 @@
+Date: 15 mars 2022
+
+Etat de Stock des Titres Détenus à la Banque Centrale Populaire
+
+| Titres détenus            | Prix d'Achat    | Valeur Actuelle  |
+|---------------------------|-----------------|------------------|
+| Actions BCP               | 500 MAD         | 550 MAD          |
+| Obligations Maroc Telecom | 3000 MAD        | 3200 MAD         |
+| Parts sociales BMCE Bank  | 1500 MAD        | 1600 MAD         |
+| Certificats de Dépôt CIH  | 800 MAD         | 850 MAD          |
+
+Total de la Valeur Actuelle: 8200 MAD
+
+Cet état de stock a été établi à la date indiquée ci-dessus et reflète la valeur actuelle des titres détenus par la Banque Centrale Populaire au Maroc. Les prix d'achat et valeurs actuelles sont donnés à titre indicatif et peuvent varier en fonction des fluctuations du marché financier.
+
+Il est important pour la Banque Centrale Populaire de suivre de près l'évolution de la valeur de ses titres détenus afin de prendre des décisions éclairées en matière de gestion de portefeuille. Les performances des titres peuvent avoir un impact significatif sur les résultats financiers de la banque.
+
+La diversification du portefeuille de titres détenus est également un aspect essentiel de la stratégie d'investissement de la Banque Centrale Populaire pour garantir une certaine stabilité et réduire les risques liés à la volatilité des marchés financiers.
+
+La Banque Centrale Populaire s'engage à mettre en œuvre les meilleures pratiques en matière de gestion d'actifs pour assurer la pérennité et la rentabilité de ses investissements.

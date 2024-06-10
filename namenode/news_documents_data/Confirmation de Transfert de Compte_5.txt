@@ -1,0 +1,24 @@
+Banque Centrale Populaire
+CONFIRMATION DE TRANSFERT DE COMPTE
+
+Numéro de Confirmation: 123456789
+Date: 15 avril 2023
+
+Nous certifions par la présente que le transfert de compte a été effectué avec succès conformément à votre demande. Voici les détails de la transaction :
+
+- Nom du Titulaire: Fatima Ahmed
+- Compte Source: XXXX XXXX XXXX 1234
+- Compte Destination: XXXX XXXX XXXX 5678
+- Montant Transféré: 5,000 MAD
+- Date du Transfert: 10 avril 2023
+
+Si vous avez des questions ou des préoccupations concernant cette transaction, n'hésitez pas à nous contacter au 080 100 1000. Votre satisfaction est notre priorité.
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire pour vos besoins financiers. Nous sommes là pour vous accompagner dans la gestion de vos comptes en toute sécurité et confiance.
+
+Cordialement,
+
+Signature autorisée:
+
+[Nom du Responsable de la Banque]
+Banque Centrale Populaire, Morocco

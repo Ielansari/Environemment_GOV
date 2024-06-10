@@ -1,0 +1,29 @@
+Fiche de Paie
+
+Nom de l'Employé: Fatima Khalid
+Matricule: BCP123456
+Département: Services Financiers
+
+Salaire de Base: 12 000 MAD
+Heures Supplémentaires: 500 MAD
+
+Deductions:
+- Assurance Maladie: 200 MAD
+- Cotisations CNSS: 600 MAD
+- Retenue sur Salaire: 300 MAD
+
+Net à Payer: 11 600 MAD
+
+Date de Paiement: 30 septembre 2022
+
+Cette fiche de paie est émise pour Fatima Khalid, employée au sein du département des Services Financiers de Banque Centrale Populaire. Son salaire de base est de 12 000 MAD, auxquels s'ajoutent 500 MAD pour les heures supplémentaires effectuées ce mois-ci.
+
+Les deductions incluent 200 MAD pour l'Assurance Maladie, 600 MAD de cotisations CNSS et 300 MAD de retenue sur salaire. Après ces déductions, le montant net à payer à Fatima ce mois-ci s'élève à 11 600 MAD.
+
+Cette fiche de paie est valide pour le mois en cours et le paiement sera effectué le 30 septembre 2022.
+
+Veuillez contacter le service des Ressources Humaines pour toute question ou information complémentaire.
+
+Merci,
+
+Banque Centrale Populaire.

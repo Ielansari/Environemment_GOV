@@ -1,0 +1,31 @@
+Facture d'Achat
+
+Nom de l'Acheteur: Hassan Benjelloun
+Article: Ordinateur portable HP
+Prix: 5500 MAD
+Date: 15 mai 2022
+Vendeur: TechnoStore Rabat
+
+Détails de la Facture:
+-----------------------------------
+Numéro de Facture: FCT-20220515-001
+Client: Hassan Benjelloun
+Date de l'achat: 15/05/2022
+
+Désignation des Articles:
+- Ordinateur portable HP: 1 unité
+- Prix unitaire: 5500 MAD
+
+Total TTC: 5500 MAD
+
+Vendeur:
+TechnoStore Rabat
+Adresse: Avenue Hassan II, Rabat
+
+Mode de Paiement:
+- Par carte bancaire
+
+Merci pour votre confiance et votre achat. N'hésitez pas à nous contacter pour toute question ou information complémentaire.
+
+Cordialement,
+Banque Centrale Populaire

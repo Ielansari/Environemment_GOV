@@ -1,0 +1,23 @@
+**Confirmation de Paiement**
+
+*Nom du Titulaire:* M. Ahmed Benmohamed  
+*Montant:* 5 000 MAD  
+*Date:* 15 février 2022  
+*Mode de Paiement:* Virement Bancaire  
+*Référence de Transaction:* BCP123456789
+
+Cher M. Benmohamed,
+
+Nous avons le plaisir de vous confirmer que le paiement d'un montant de 5 000 MAD a bien été reçu par Banque Centrale Populaire le 15 février 2022 via un virement bancaire.
+
+Votre référence de transaction est la suivante : BCP123456789.
+
+Nous vous remercions pour votre confiance et votre fidélité envers notre institution financière.
+
+N'hésitez pas à nous contacter pour toute question ou information supplémentaire.
+
+Cordialement,
+
+[Signature]
+
+Banque Centrale Populaire

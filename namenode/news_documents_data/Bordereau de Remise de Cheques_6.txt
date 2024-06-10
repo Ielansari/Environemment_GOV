@@ -1,0 +1,22 @@
+**Banque Centrale Populaire - Agence Casablanca**
+
+**Bordereau de Remise de Chèques**
+
+| **Nom du Titulaire** | **Numéro de Compte** | **Montant Total** | **Nombre de Chèques** |
+|--------------------------|---------------------------|---------------------|----------------------------|
+| Ali Jamal                      | 0123456789                    | 15 000 MAD          | 3                                   |
+| Fatima Zineddine       | 9876543210                    | 7 500 MAD            | 2                                   |
+
+Date de Remise : 15 avril 2023
+
+**Instructions :**
+
+1. Veuillez vérifier que les informations ci-dessus sont correctes.
+2. Les chèques doivent être émis à l'ordre de "Banque Centrale Populaire".
+3. Assurez-vous que tous les chèques sont dûment signés.
+4. Le montant total doit correspondre à la somme des chèques présentés.
+5. Déposez ce bordereau avec les chèques au guichet pour traitement.
+
+En cas de questions, veuillez contacter notre service clientèle au 0801-234-567.
+
+Merci pour votre confiance en Banque Centrale Populaire!

@@ -1,0 +1,26 @@
+**Banque Centrale Populaire**
+**Demande de Remboursement de Prêt**
+
+Le [Date]
+
+Monsieur/Madame [Nom du Titulaire],
+Titulaire du prêt n° [Numéro de Contrat de Prêt] auprès de notre agence de la Banque Centrale Populaire à [Ville],
+
+J'ai l'honneur de vous informer que j'ai effectué un remboursement partiel/total de mon prêt selon les termes et conditions convenus. Voici le détail de ce remboursement :
+
+- **Nom du Titulaire** : [Prénom et Nom]
+- **Montant Remboursé** : [Montant en Dirhams] 
+- **Date de Remboursement** : [Date de Remboursement]
+
+Je vous prie de bien vouloir mettre à jour mes informations et mon solde restant dû en conséquence. Je reste à votre disposition pour toute information supplémentaire.
+
+Je vous prie d'agréer, Monsieur/Madame, l'expression de mes salutations distinguées.
+
+Signature :
+
+[Nom du Client]
+
+**Banque Centrale Populaire**
+Adresse : [Adresse de l'Agence]
+Téléphone : [Numéro de Téléphone de l'Agence]
+E-mail : [Adresse E-mail de l'Agence]

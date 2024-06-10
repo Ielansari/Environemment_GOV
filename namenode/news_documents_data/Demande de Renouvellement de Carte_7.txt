@@ -1,0 +1,32 @@
+<center> Banque Centrale Populaire </center>
+
+<b> Demande de Renouvellement de Carte </b>
+
+Date: ___________
+
+<u> Informations Personnelles: </u>
+
+Nom du Titulaire: <span style="color:blue;">Robert Dupont</span> <br>
+Numéro de Carte: <span style="color:blue;">1234 5678 9012 3456</span> <br>
+Date d'Expiration Actuelle: <span style="color:blue;">30/09/2023</span> <br>
+Date de Renouvellement souhaitée: <span style="color:blue;">01/10/2023</span> <br>
+
+<u> Motif du Renouvellement: </u>
+
+Madame/Monsieur,
+
+Je me permets de vous contacter afin de demander le renouvellement de ma carte bancaire dont les informations sont mentionnées ci-dessus. La date d'expiration actuelle de ma carte est proche et j'aimerais obtenir la nouvelle carte avant cette échéance pour éviter toute interruption de service.
+
+Merci de bien vouloir prendre en considération ma demande de renouvellement et de m'informer des démarches à suivre pour obtenir ma nouvelle carte dans les délais souhaités.
+
+Je reste à votre disposition pour toute information complémentaire et vous prie d'agréer, Madame/Monsieur, l'expression de mes salutations distinguées.
+
+Cordialement,
+
+Signature: _______________________
+
+<u> A Retourner à Banque Centrale Populaire: </u>
+
+Agence: ___________
+
+Date de Réception: ___________

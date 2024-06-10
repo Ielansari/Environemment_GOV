@@ -1,0 +1,22 @@
+**Demande de Carte Bancaire**
+
+Banque Centrale Populaire - Succursale Casablanca
+
+A l'attention du Service Client
+
+Je soussigné(e) [Nom du Titulaire], résidant au [Adresse], souhaite formuler une demande de carte bancaire auprès de votre établissement, la Banque Centrale Populaire, afin de faciliter mes transactions financières au quotidien.
+
+Ci-dessous, veuillez trouver les informations requises pour cette demande :
+
+- **Nom du Titulaire** : [Nom du Titulaire]
+- **Type de Carte souhaité** : Carte de Débit Visa Classic
+- **Date** : [Date]
+
+Je m'engage à prendre connaissance des conditions d'utilisation de la carte bancaire, ainsi qu'à respecter les dispositions légales en vigueur en matière de paiement électronique et de sécurité des transactions.
+
+En vous remerciant par avance pour l'attention portée à ma demande, je reste à votre disposition pour tout complément d'information que vous jugerez utile.
+
+Fait à Casablanca, le [Date]
+
+Signature,
+[Nom du Titulaire]

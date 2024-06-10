@@ -1,0 +1,32 @@
+Contrat de Carte Bancaire
+
+Entre la Banque Centrale Populaire, représentée par son directeur général, et M./Mme [Nom du Titulaire], détenteur de la carte bancaire dont les références suivent :
+
+- Nom du Titulaire : M./Mme Jean Dupont
+- Numéro de Carte : 1234 5678 9012 3456
+- Date d'Expiration : 08/24
+- Taux d'Intérêt : 12 %
+
+Il est convenu ce qui suit :
+
+1. La Banque Centrale Populaire émet une carte bancaire pour le compte du titulaire susmentionné. Cette carte est utilisable dans les distributeurs automatiques, les guichets des banques et les commerces affiliés.
+
+2. Le titulaire s'engage à ne pas divulguer son code confidentiel à un tiers, ni à l'inscrire sur la carte.
+
+3. En cas de perte ou de vol de la carte, le titulaire s'engage à informer immédiatement la Banque Centrale Populaire pour bloquer la carte.
+
+4. Le titulaire est responsable de l'utilisation de la carte avant la déclaration de perte ou de vol.
+
+5. Les frais d'utilisation de la carte, ainsi que les intérêts dus en cas de découvert, sont conformes aux conditions générales en vigueur à la Banque Centrale Populaire.
+
+Fait en double exemplaire, à Casablanca, le [Date du Jour].
+
+Pour la Banque Centrale Populaire                                           
+Directeur Général,                                                       
+
+Signature : _______________
+
+Pour le Titulaire
+M./Mme Jean Dupont
+
+Signature : _______________

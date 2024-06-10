@@ -1,0 +1,49 @@
+**Banque Centrale Populaire - Facture de Vente d'Obligations**
+
+**Date: 10 Septembre 2021**
+
+**Facture No: 00123**
+
+---
+**Vendeur: Jean Dupont**
+Banque Centrale Populaire
+Agence Casablanca Centre
+7 Rue Mohammed V
+Casablanca, Maroc
+
+**Acheteur: Fatima Zahir**
+123 Avenue Hassan II
+Rabat, Maroc
+
+**Détails de la Vente:**
+
+| Obligations           | Prix (MAD) | Quantité | Total (MAD) |
+|-----------------------|------------|----------|-------------|
+| Obligations Banque A  | 1,000     | 10       | 10,000      |
+| Obligations Banque B  | 800        | 5        | 4,000        |
+| Obligations Banque C  | 1,200     | 8        | 9,600        |
+| Obligations Banque D  | 700        | 12      | 8,400        |
+
+**Total TTC: 32,000 MAD**
+
+---
+**Conditions de paiement:**
+Le paiement intégral doit être effectué dans les 30 jours suivant la réception de cette facture, par virement bancaire à :
+
+Banque: Banque Centrale Populaire
+IBAN: MA1234567890
+BIC: BCPAMAMC
+
+**Date de la vente:** 10 Septembre 2021
+
+Cette facture est émise conformément aux accords commerciaux en vigueur. En cas de litige, seuls les tribunaux de Casablanca seront compétents.
+
+Merci pour votre confiance envers Banque Centrale Populaire.
+
+---
+
+**Signature du Vendeur:**
+
+Jean Dupont
+
+[](Date, Cachet)

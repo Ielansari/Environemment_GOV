@@ -1,0 +1,24 @@
+Confirmation de Virement Bancaire
+
+Numéro de Transaction: 987654321
+Date: 15 avril 2023
+
+Chère cliente, cher client,
+
+Nous avons le plaisir de vous informer que le virement bancaire suivant a été traité avec succès :
+
+- Nom du Titulaire: Fatima Bensaid
+- Montant: 5,000 MAD
+- Compte de Destination: 12345678901234567890
+- Date: 15 avril 2023
+- Numéro de Transaction: 987654321
+
+Vous trouverez ci-dessus les détails du virement bancaire effectué depuis votre compte à la Banque Centrale Populaire.
+
+Pour toute question ou information supplémentaire, n'hésitez pas à contacter notre service clientèle au 080 100 1234.
+
+Nous vous remercions de votre confiance.
+
+Cordialement,
+
+Banque Centrale Populaire

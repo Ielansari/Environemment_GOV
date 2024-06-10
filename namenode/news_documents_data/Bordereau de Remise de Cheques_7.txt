@@ -1,0 +1,24 @@
+Bordereau de Remise de Chèques
+
+Agence: Banque Centrale Populaire, Casablanca
+Date: 15 septembre 2023
+
+Numéro de Bordereau: BCP-CBZ-00345
+
+Nom du Titulaire: Rachid Benmoussa
+Numéro de Compte: 12345678901234567
+Montant Total: 10 500 MAD
+Nombre de Chèques: 3
+
+Détails des Chèques déposés:
+1. Chèque No: 001234 Montant: 5 000 MAD
+2. Chèque No: 005432 Montant: 3 500 MAD
+3. Chèque No: 009876 Montant: 2 000 MAD
+
+Montant Total en Lettres: Dix mille cinq cents dirhams
+
+Observations: Les chèques déposés sont en règle et le montant total a été crédité sur le compte de Monsieur Rachid Benmoussa.
+
+Signature du Déposant: _____________________
+
+Ce bordereau atteste la remise des chèques mentionnés ci-dessus à la Banque Centrale Populaire pour dépôt sur le compte spécifié.

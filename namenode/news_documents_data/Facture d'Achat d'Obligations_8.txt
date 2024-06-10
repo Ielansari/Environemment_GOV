@@ -1,0 +1,41 @@
+Voici la Facture d'Achat d'Obligations pour votre achat auprès de Banque Centrale Populaire :
+
+Date: 15 mars 2023
+
+Facture: #123456789
+
+Banque Centrale Populaire - Maroc
+
+Nom de l'Acheteur: Amal Zidane
+
+Adresse: 27 Rue Mohammed V, Rabat, Maroc
+
+Téléphone: +212 6 12 34 56 78
+
+Email: amal.zidane@email.com
+
+---
+
+Détails de l'Achat:
+
+Produit: Obligations
+
+Quantité: 100
+
+Prix unitaire: 200 MAD
+
+Montant total: 20 000 MAD
+
+Date de l'Achat: 15 mars 2023
+
+---
+
+Total à payer: 20 000 MAD
+
+Date limite de paiement: 31 mars 2023
+
+---
+
+Merci pour votre achat chez Banque Centrale Populaire. Pour toute question concernant cette facture, veuillez nous contacter au +212 5 22 44 55 66 ou par email à contact@bcp.ma.
+
+Nous vous souhaitons une excellente journée et restons à votre disposition pour toute assistance supplémentaire.

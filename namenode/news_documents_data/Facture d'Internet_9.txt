@@ -1,0 +1,47 @@
+**Banque Centrale Populaire Maroc**
+
+**Facture d'Internet**
+
+**Informations du Titulaire:**
+
+Nom du Titulaire: Fatima Zahra El Kettani
+
+Numéro de Client: 123456789
+
+Adresse: 15 Rue Hassan II, Casablanca, Maroc
+
+Téléphone: +212 6 12 34 56 78
+
+**Détails de la Facturation:**
+
+Plan: Connexion Haut Débit
+
+Numéro de Contrat: 987654321
+
+Date: 12 Juillet 2022
+
+**Détail de la Facture:**
+
+**Consommation Internet:**
+
+- Forfait Mensuel Internet: 300 DH
+- Hors Forfait: 50 DH
+- Total: 350 DH
+
+**Total à Payer: 350 DH**
+
+**Informations Complémentaires:**
+
+Le montant total de 350 DH est dû avant le 30 Juillet 2022. Veuillez régler votre facture dans l'une de nos agences de la Banque Centrale Populaire ou par virement bancaire aux coordonnées suivantes:
+
+Banque: Banque Centrale Populaire Maroc
+
+IBAN: MA123456789
+
+N'oubliez pas de renseigner votre numéro de contrat en communication lors du paiement. En cas de non-paiement dans les délais impartis, des pénalités de retard pourront être appliquées.
+
+Nous vous remercions de votre confiance et restons à votre disposition pour toute demande d'information complémentaire.
+
+Cordialement,
+
+Banque Centrale Populaire Maroc.

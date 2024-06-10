@@ -1,0 +1,45 @@
+**Facture d'Eau**
+
+**Banque Centrale Populaire - Succursale Rabat**
+
+---
+
+Date: 15 Septembre 2023
+
+Facture N°: 001243
+
+**Informations du Titulaire:**
+- Nom du Titulaire: M. Ahmed EL Amrani
+- Adresse: 123 Avenue Mohammed V, Rabat
+- Numéro de Compte: 0123456789
+
+---
+
+**Détails de la Consommation:**
+- Période de Consommation: Août 2023
+- Consommation: 5m³
+
+---
+
+**Montant de la Facture:**
+- Frais d'Abonnement: 50 MAD
+- Consommation: 15 MAD/m³
+- Total: 125 MAD
+
+---
+
+Merci de régler cette facture dans un délai de 30 jours à partir de la date d'émission. En cas de non-paiement, des pénalités de retard pourraient être appliquées.
+
+Pour toute information complémentaire, veuillez contacter notre service client au 0800 123 456.
+
+Nous vous remercions de votre confiance et de votre fidélité.
+
+---
+
+Banque Centrale Populaire
+Rue Al Yamama, Quartier Administratif
+10000, Rabat, Maroc
+
+---
+
+Cette facture est émise électroniquement et ne nécessite pas de signature manuscrite.

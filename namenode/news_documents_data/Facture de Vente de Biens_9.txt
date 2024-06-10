@@ -1,0 +1,30 @@
+Facture de Vente de Biens
+
+Vendeur:
+Nom: Ahmed Benali
+Adresse: 12 Rue des Oliviers, Casablanca
+Téléphone: 06 12 34 56 78
+RC: 1234567
+
+Acheteur:
+Nom: Leila Azzouzi
+Adresse: 20 Rue des Roses, Rabat
+Téléphone: 06 98 76 54 32
+CIN: AZ12345
+
+Détails de la Vente:
+Date: 15 avril 2023
+Produit: Télévision LED 50"
+Quantité: 1 unité
+Prix Unitaire: 5000 MAD
+Total: 5000 MAD
+
+Moyen de Paiement:
+Carte Bancaire
+
+Conditions de Paiement:
+Paiement intégral à la livraison
+
+Total à Payer: 5000 MAD
+
+Merci de votre confiance envers la Banque Centrale Populaire pour cette transaction.

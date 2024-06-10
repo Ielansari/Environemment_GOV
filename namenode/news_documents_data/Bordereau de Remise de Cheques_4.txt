@@ -1,0 +1,33 @@
+BANQUE CENTRALE POPULAIRE - AGENCE DE [Nom de la Ville]
+
+Bordereau de Remise de Chèques
+
+Date: [Date]
+
+[Nom de l'Agence]: [Nom de l'Agence]
+Agence: [Numéro de l'Agence]
+
+Nom du Titulaire: [Nom du Titulaire]
+Numéro de Compte: [Numéro de Compte]
+Montant Total: [Montant Total] MAD
+Nombre de Chèques: [Nombre de Chèques]
+
+Détail des Chèques:
+
+| N° Chèque | Montant (MAD) |
+| --------- | ------------- |
+| 123456    | 1000          |
+| 123457    | 1500          |
+| 123458    | 2000          |
+| 123459    | 1200          |
+| 123460    | 1800          |
+
+Total des Chèques: [Montant Total] MAD
+
+Signature du Déposant: ____________________________
+
+Veuillez vérifier soigneusement les informations fournies ci-dessus. En signant ce bordereau, vous confirmez la remise des chèques mentionnés ci-dessus à Banque Centrale Populaire.
+
+Merci de votre confiance et de votre coopération.
+
+Cachet de la Banque: ____________________________

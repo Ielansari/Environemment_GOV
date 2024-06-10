@@ -1,0 +1,25 @@
+[Banque Centrale Populaire]
+[Demande de Blocage de Compte]
+
+Nom du Titulaire: Fatima Zahra El Amrani
+Numéro de Compte: 12345678901234
+Raison: Perte de carte bancaire
+Date: 28 mai 2023
+
+Madame, Monsieur,
+
+Par la présente, je vous prie de bien vouloir bloquer mon compte bancaire dont les détails sont les suivants :
+
+Titulaire: Fatima Zahra El Amrani
+Numéro de Compte: 12345678901234
+
+En effet, suite à la perte de ma carte bancaire, je crains que des opérations frauduleuses puissent être effectuées sur mon compte. Par mesure de sécurité, je vous demande donc de procéder immédiatement au blocage dudit compte afin de prévenir tout risque financier.
+
+Je vous saurais gré de m'informer des démarches à suivre pour obtenir un nouveau moyen de paiement ainsi que des modalités de déblocage de mon compte une fois la situation clarifiée.
+
+Je reste à votre disposition pour toute information complémentaire ou tout document que vous jugerez nécessaire à la finalisation de cette demande.
+
+Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
+
+Fatima Zahra El Amrani
+[date: 28 mai 2023]

@@ -1,0 +1,38 @@
+Facture de Vente de Biens
+
+Numéro de Facture: FVB20220001
+Date: 15 février 2022
+
+Nom du Vendeur: Banque Centrale Populaire
+Adresse: 10 Rue Al Fourat, Casablanca, Maroc
+Téléphone: +212 5 22 20 10 10
+Email: contact@bcp.ma
+N° de Compte Bancaire: BCP123456789
+
+Nom de l'Acheteur: Soufiane Ali
+Adresse: 25 Rue Mohammed V, Rabat, Maroc
+Téléphone: +212 6 12 34 56 78
+Email: soufiane.ali@email.com
+N° de CIN: AZ123456
+
+Désignation des Biens Vendus:
+- Produit 1: Services Bancaires
+- Produit 2: Epargne & Placement
+
+Prix de Vente:
+
+- Produit 1: 5000 MAD
+- Produit 2: 10000 MAD
+
+Total: 15000 MAD
+
+Date de la Vente: 10 février 2022
+
+Conditions de Paiement:
+Le paiement total de 15000 MAD doit être effectué par virement bancaire sur le compte de Banque Centrale Populaire dans un délai de 15 jours à partir de la date de cette facture.
+
+Merci de votre confiance et restons à votre disposition pour toute information complémentaire.
+
+Cordialement,
+
+Banque Centrale Populaire

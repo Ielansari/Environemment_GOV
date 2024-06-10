@@ -1,0 +1,34 @@
+Banque Centrale Populaire
+Agence: [Nom de l'agence]
+Adresse: [Adresse de l'agence]
+Téléphone: [Numéro de téléphone de l'agence]
+Fax: [Numéro de fax de l'agence]
+E-mail: [Adresse e-mail de l'agence]
+
+Demande d'Ouverture de Compte
+
+Date: [Date]
+
+Nom du Demandeur: M. Ahmed Benjelloun
+Adresse: [Adresse du Demandeur]
+Téléphone: [Numéro de téléphone du Demandeur]
+E-mail: [Adresse e-mail du Demandeur]
+
+Type de Compte souhaité: Compte Épargne Junior
+Ce type de compte est destiné aux jeunes de moins de 18 ans et offre des avantages spécifiques pour l'épargne à long terme et l'éducation financière des enfants.
+
+Méthode de Dépôt: Dépôt Initial en Espèces
+Un dépôt initial en espèces est requis pour l'ouverture de ce compte. Le montant minimum pour ce type de compte est de 1000 MAD.
+
+Veuillez trouver ci-joint les pièces justificatives requises pour l'ouverture de ce compte:
+- Carte d'identité nationale du Demandeur
+- Justificatif de domicile datant de moins de 3 mois
+- Attestation de scolarité pour le titulaire du compte si mineur
+- Autres documents justificatifs selon les exigences de la Banque
+
+Nous vous remercions de l'intérêt que vous portez à nos services bancaires. Un conseiller clientèle prendra contact avec vous dans les plus brefs délais pour finaliser l'ouverture de votre compte.
+
+Veuillez agréer, Monsieur, nos salutations distinguées.
+
+[Signature]
+Banque Centrale Populaire

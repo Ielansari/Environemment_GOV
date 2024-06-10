@@ -1,0 +1,50 @@
+**Facture de Vente d'Obligations**
+
+**Banque Centrale Populaire - Maroc**
+
+---
+
+**Date :** 15 avril 2022
+
+---
+
+**Vendeur :** Pierre Dupont
+
+**Acheteur :** Sarah Martin
+
+---
+
+| Désignation      | Nombre | Prix unitaire | Montant   |
+|-------------------|--------|--------------|-----------|
+| Obligations 2022A |    150 |     500 MAD  | 75,000 MAD|
+| Obligations 2022B |     75 |     350 MAD  | 26,250 MAD|
+
+---
+
+**Total :** 101,250 MAD
+
+---
+
+Fait à Casablanca, le 15 avril 2022
+
+---
+
+Signature du Vendeur : ______________________
+
+Signature de l'Acheteur : ____________________
+
+---
+
+Cette facture est conforme à notre accord de vente d'obligations à la Banque Centrale Populaire. Veuillez régler la somme due dans un délai de 30 jours à compter de la date de facturation.
+
+En cas de non-paiement dans les délais impartis, des pénalités de retard seront appliquées conformément aux conditions convenues.
+
+Merci de votre confiance.
+
+---
+
+Pour toute information complémentaire, veuillez contacter notre service client au 0809000000.
+
+---
+
+*La reproduction de ce document n'est pas autorisée sans l'accord écrit de la Banque Centrale Populaire.*

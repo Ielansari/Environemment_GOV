@@ -1,0 +1,31 @@
+**Banque Centrale Populaire - Facture de Vente d'Obligations**
+
+Date: 15 Juillet 2023
+
+| Nom du Vendeur: Banque Centrale Populaire |
+| Obligations: Obligations d'État |
+| Prix: 50,000 MAD |
+| Date de la Vente: 12 Juillet 2023 |
+| Acheteur: Société Financière Marocaine |
+
+**Détails de la Transaction:**
+
+Cher Acheteur,
+
+Nous vous remercions de votre confiance dans Banque Centrale Populaire pour l'acquisition d'Obligations d'État pour un montant total de 50 000 MAD.
+
+Nous vous prions de trouver ci-dessous un résumé de votre achat:
+
+| Désignation              | Montant (MAD) |
+|---------------------------|---------------|
+| Obligations d'État        | 50,000        |
+
+Nous vous rappelons que le paiement doit être effectué dans un délai de 30 jours à compter de la date de cette facture.
+
+Si vous avez des questions ou avez besoin de plus d'informations, n'hésitez pas à nous contacter.
+
+Nous vous remercions pour votre collaboration et restons à votre disposition pour toute demande supplémentaire.
+
+Cordialement,
+
+Banque Centrale Populaire

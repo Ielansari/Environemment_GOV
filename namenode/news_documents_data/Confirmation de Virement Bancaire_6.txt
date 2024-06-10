@@ -1,0 +1,27 @@
+***Banque Centrale Populaire***
+
+**Confirmation de Virement Bancaire**
+
+**Numéro de Transaction :** 202230
+
+**Date :** 12 Avril 2023
+
+**Nom du Titulaire :** Fatima El Khattabi
+
+**Montant :** 5 000 MAD
+
+**Compte de Destination :** 12345678901234567890
+
+Madame, Monsieur,
+
+Nous avons bien enregistré votre virement bancaire effectué le 12 Avril 2023 d'un montant de 5 000 MAD en faveur du compte de destination suivant : 12345678901234567890.
+
+Nous vous confirmons que la transaction a été traitée avec succès et que le montant correspondant a bien été transféré sur le compte indiqué.
+
+Pour toute question ou information supplémentaire, n'hésitez pas à contacter notre service clientèle au 080 100 0300.
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire.
+
+Cordialement,
+
+Banque Centrale Populaire

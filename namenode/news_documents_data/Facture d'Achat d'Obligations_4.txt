@@ -1,0 +1,34 @@
+Facture d'Achat d'Obligations
+
+Banque Centrale Populaire - Succursale de Casablanca
+
+Date: 15 avril 2022
+
+Nom de l'Acheteur: Fatima Zahra Amrani
+Adresse de l'Acheteur: 123 Avenue Mohammed V, Casablanca
+Numéro de téléphone: +212 6 12 34 56 78
+Adresse e-mail: fatimazahra.amrani@email.com
+
+Détails de l'Achat:
+
+- Obligations: 100 Obligations d'État Marocain
+- Prix unitaire: 1000 MAD
+- Montant total: 100 000 MAD
+
+Date de l'Achat: 10 avril 2022
+
+Total TTC: 100 000 MAD
+
+Modalités de Paiement:
+Le paiement de la facture s'effectuera dans un délai de 30 jours à compter de la date d'achat. Veuillez effectuer le virement bancaire à l'ordre de Banque Centrale Populaire à l'IBAN suivant : MA**************.
+
+Merci pour votre confiance et votre collaboration. N'hésitez pas à nous contacter pour toute question relative à cette transaction.
+
+Cordialement,
+
+[Signature]
+
+Banque Centrale Populaire - Succursale de Casablanca
+Avenue Hassan II, Casablanca
+Tél: +212 5 22 12 34 56
+Email: info@bcp.ma

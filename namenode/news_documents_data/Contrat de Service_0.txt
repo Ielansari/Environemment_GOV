@@ -1,0 +1,31 @@
+Contrat de Service
+
+Entre Banque Centrale Populaire, située au 123 rue Hassan II, Rabat, Maroc, représentée par Monsieur Ahmed Alami en sa qualité de Directeur Général, agissant en vertu de ses pouvoirs délégués,
+Ci-après dénommé le "Client",
+
+Et la société FinanceTech SARL, immatriculée au Registre du Commerce sous le numéro 789456123, dont le siège social est situé au 56 Boulevard Mohammed V, Casablanca, Maroc, représentée par Madame Leila Chaoui en sa qualité de Directrice Générale, dûment autorisée à cet effet,
+Ci-après dénommé le "Fournisseur".
+
+Il est convenu et arrêté ce qui suit :
+
+Article 1 : Objet du contrat
+
+Le Fournisseur s'engage à fournir au Client les services suivants :
+- Mise en place d'une plateforme de gestion des opérations bancaires en ligne
+- Formation du personnel de la Banque Centrale Populaire à l'utilisation de ladite plateforme
+- Assistance technique pour toute la durée du contrat
+
+Article 2 : Prix
+
+Pour l'ensemble des services fournis, le Client s'engage à verser au Fournisseur la somme de 100 000 dirhams marocains (MAD) hors taxes. Le paiement s'effectuera en trois tranches égales de 33 333 MAD, le premier versement étant dû à la signature du contrat, le deuxième à la fin du premier trimestre de collaboration et le troisième à la fin du deuxième trimestre.
+
+Article 3 : Date et Durée
+
+Le présent contrat entre en vigueur à compter de la date de signature des deux parties et a une durée de 12 mois à compter de ladite date.
+
+Fait en deux exemplaires originaux à Rabat, le 15 juin 2023
+
+Le Client,                                  Le Fournisseur,
+(Signature)                                 (Signature)
+Ahmed Alami                                Leila Chaoui
+Directeur Général                          Directrice Générale

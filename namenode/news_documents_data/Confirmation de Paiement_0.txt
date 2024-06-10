@@ -1,0 +1,35 @@
+**Banque Centrale Populaire – Confirmation de Paiement**
+
+Date: 16 juillet 2023
+
+---
+
+**Confirmation de Paiement**
+
+---
+
+**Nom du Titulaire:** M. Ahmed Amrani  
+**Montant:** 5000 MAD  
+**Date:** 14 juillet 2023  
+**Mode de Paiement:** Virement Bancaire  
+**Référence de Transaction:** 987654321  
+
+---
+
+Cher M. Amrani,
+
+Nous vous confirmons par la présente la réception du paiement d'un montant de 5000 MAD, effectué le 14 juillet 2023 via un virement bancaire, portant la référence de transaction 987654321.
+
+Cordialement,  
+Banque Centrale Populaire  
+
+---
+
+Cette confirmation de paiement atteste que la transaction a été traitée avec succès. Veuillez conserver ce document pour toute référence future. Pour toute question ou information supplémentaire, n'hésitez pas à contacter notre service client.
+
+Banque Centrale Populaire
+Morocco
+
+---
+
+Ceci est un document informatif généré pour des besoins de démonstration et ne représente aucune transaction réelle.

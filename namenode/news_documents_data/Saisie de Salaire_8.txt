@@ -1,0 +1,26 @@
+**Banque Centrale Populaire**
+**Service de Saisie de Salaire**
+
+**Saisie de Salaire**
+
+- **Nom de l'Employeur:** Société XYZ
+- **Nom de l'Employé:** Ahmed Benbrahim
+- **Montant de la Saisie:** 3 000 MAD
+- **Raison:** Règlement de dettes impayées
+
+Madame, Monsieur,
+
+Nous vous informons par la présente que conformément à la décision de justice du tribunal compétent, une saisie sur salaire a été effectuée sur le salaire de Monsieur Ahmed Benbrahim, employé de la société XYZ.
+
+Le montant de la saisie s'élève à 3 000 MAD et a été effectué pour régler des dettes impayées dans le cadre d'un litige juridique en cours. Nous vous prions donc de bien vouloir procéder au virement de cette somme sur le compte mentionné dans le jugement.
+
+Nous vous remercions de votre collaboration et restons à votre entière disposition pour tout complément d'information nécessaire.
+
+Veuillez agréer, Madame, Monsieur, l'expression de nos salutations distinguées.
+
+Cordialement,
+
+[Signature]
+
+---
+Cette lettre est un exemple fictif et ne correspond à aucune situation réelle.

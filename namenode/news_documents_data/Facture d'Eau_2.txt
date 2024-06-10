@@ -1,0 +1,21 @@
+Banque Centrale Populaire - Facture d'Eau
+
+Nom du Titulaire: Fatima Benjelloun
+Adresse: 15 Rue Mohammed V, Casablanca, Maroc
+Numéro de Compte: 1234567890
+Date de Facturation: 15 Juillet 2021
+
+Détails de la Consommation:
+
+- Consommation d'Eau: 25 mètres cubes
+- Tarif par mètre cube: 10 MAD
+- Montant Total: 250 MAD
+
+Ceci est une facture d'eau pour le compte de Fatima Benjelloun, client de la Banque Centrale Populaire. La consommation totale d'eau pour ce mois s'élève à 25 mètres cubes, facturée au tarif de 10 MAD par mètre cube, pour un montant total de 250 MAD.
+
+Veuillez régler cette facture avant la date d'échéance mentionnée sur votre relevé de compte pour éviter tout retard de paiement et tout frais supplémentaire. Pour tout renseignement complémentaire, n'hésitez pas à contacter notre service clientèle au 0800 123 456.
+
+Nous vous remercions de votre confiance en Banque Centrale Populaire et restons à votre disposition pour toute assistance supplémentaire.
+
+Cordialement,
+Banque Centrale Populaire

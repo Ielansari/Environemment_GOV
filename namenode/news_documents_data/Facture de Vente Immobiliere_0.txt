@@ -1,0 +1,38 @@
+Facture de Vente Immobilière
+
+Numéro de Facture: 2022001
+Date: 15 février 2022
+
+Nom du Vendeur: Sarah Benmouna
+Adresse: 123 Rue Mohammed V, Rabat, Maroc
+NIF: 123456789
+
+Nom de l'Acheteur: Ahmed El Khalil
+Adresse: 456 Avenue Hassan II, Casablanca, Maroc
+NIF: 987654321
+
+Détails de la Propriété:
+- Adresse: Villa Hibiscus, Quartier Californie, Casablanca
+- Description: Magnifique villa de style moderne avec piscine et jardin
+- Superficie: 400 m²
+- Année de Construction: 2018
+
+Prix de Vente: 5 000 000 MAD
+Conditions de Paiement: 30% d'acompte à la signature du contrat de vente, le solde à la réception des clés.
+
+Montant Total: 5 000 000 MAD
+TVA (20%): 1 000 000 MAD
+Montant Total TTC: 6 000 000 MAD
+
+Modalités de Paiement: Virement bancaire à effectuer sur le compte de Banque Centrale Populaire - Succursale Casablanca
+IBAN: MA1234567890123456789
+SWIFT/BIC: BCPMMAMC
+
+Cette facture est émise conformément aux règles et réglementations en vigueur. Le paiement doit être effectué dans un délai de 30 jours à compter de la date de cette facture.
+
+Nous vous remercions pour votre confiance et restons à votre disposition pour toute information complémentaire.
+
+Cordialement,
+
+Sarah Benmouna
+Banque Centrale Populaire - Succursale Casablanca

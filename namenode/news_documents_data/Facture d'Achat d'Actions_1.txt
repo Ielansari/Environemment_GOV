@@ -1,0 +1,23 @@
+**Banque Centrale Populaire - Facture d'Achat d'Actions**
+
+**Nom de l'Acheteur**: Pierre Dubois  
+**Actions**: 100 actions BCP  
+**Prix**: 50 000 MAD  
+**Date**: 15 juin 2023  
+
+---
+Récapitulatif de la transaction :
+
+Banque Centrale Populaire vous remercie pour votre achat d'actions. Veuillez trouver ci-dessous le détail de votre facture d'achat d'actions :
+
+| Désignation        | Montant (MAD) |
+|---------------------|---------------|
+| Actions BCP         | 50 000        |
+
+**Total à payer** : 50 000 MAD
+
+---
+Merci pour votre confiance en Banque Centrale Populaire. N'hésitez pas à nous contacter pour toute question ou assistance supplémentaire.
+
+Cordialement,
+Banque Centrale Populaire
